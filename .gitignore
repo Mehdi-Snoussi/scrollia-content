@@ -1,0 +1,27 @@
+# Secrets — NEVER commit
+.env
+.env.*
+*.key
+scrollia.key
+master.key
+secrets.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Build artifacts
+*.log
