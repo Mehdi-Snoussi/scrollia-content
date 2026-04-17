@@ -1,0 +1,321 @@
+{
+  "id": "001",
+  "title": "The Coffee I Owed",
+  "subtitle": "She spilled coffee on a billionaire. He offered her $212,000 to pretend to love him for thirty days.",
+  "penName": "Layla Chebbi",
+  "genre": "billionaireRomance",
+  "hook": "The coffee I owed was four hundred and twelve dollars and eighty-five cents. I owed it to the funeral home in Tunis that had arranged my father's return. My name is Layla Chebbi, I'm twenty-four, and I was holding a sixteen-ounce cappuccino when Adrien Maret came out of the elevator on a Thursday at seven forty-three a.m.",
+  "coverPath": "covers/001.webp",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "Spice 3/5",
+  "subtropes": [
+    "billionaire romance",
+    "fake dating",
+    "contract marriage",
+    "grief",
+    "found family"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Coffee I Owed",
+      "path": "novels/001/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Debt I Didn't Sign",
+      "path": "novels/001/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Priya",
+      "path": "novels/001/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Half-Sister",
+      "path": "novels/001/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Card in the Coat",
+      "path": "novels/001/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "The Dress",
+      "path": "novels/001/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Esther",
+      "path": "novels/001/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Man in the Mirror",
+      "path": "novels/001/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Marguerite",
+      "path": "novels/001/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The Benefit",
+      "path": "novels/001/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Monday",
+      "path": "novels/001/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "The Third Thursday",
+      "path": "novels/001/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "The Kitchen",
+      "path": "novels/001/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "The Dinner Before the Car",
+      "path": "novels/001/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "The Apartment She Had Not Entered",
+      "path": "novels/001/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The Hospital",
+      "path": "novels/001/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "The Things You Do Not Do",
+      "path": "novels/001/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "The Argument",
+      "path": "novels/001/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Brooklyn",
+      "path": "novels/001/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "The Birthday",
+      "path": "novels/001/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Mornings",
+      "path": "novels/001/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Amira",
+      "path": "novels/001/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Last Good Day",
+      "path": "novels/001/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "The Night",
+      "path": "novels/001/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Withdrawal",
+      "path": "novels/001/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The First Morning",
+      "path": "novels/001/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Drawer",
+      "path": "novels/001/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Three Words",
+      "path": "novels/001/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Hamra",
+      "path": "novels/001/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Wednesday",
+      "path": "novels/001/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Pyre",
+      "path": "novels/001/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The Palm Court",
+      "path": "novels/001/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "The Blueprint",
+      "path": "novels/001/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Tuesday",
+      "path": "novels/001/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Week of Silence",
+      "path": "novels/001/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The Buzzer",
+      "path": "novels/001/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Morning",
+      "path": "novels/001/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Pan",
+      "path": "novels/001/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Twenty-Two Feet",
+      "path": "novels/001/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Filing",
+      "path": "novels/001/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "The Counter-Move",
+      "path": "novels/001/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Thanksgiving",
+      "path": "novels/001/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Letter",
+      "path": "novels/001/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Snow",
+      "path": "novels/001/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "February",
+      "path": "novels/001/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Hassan",
+      "path": "novels/001/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "May",
+      "path": "novels/001/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "June Twentieth",
+      "path": "novels/001/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Tuesday",
+      "path": "novels/001/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "The Morning",
+      "path": "novels/001/ch050.json",
+      "requiresPayment": true
+    }
+  ]
+}

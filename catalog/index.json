@@ -1,6 +1,24 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-16T00:00:00Z",
-  "totalNovels": 0,
-  "novels": []
+  "lastUpdated": "2026-04-17T19:33:46Z",
+  "totalNovels": 1,
+  "novels": [
+    {
+      "id": "001",
+      "title": "The Coffee I Owed",
+      "subtitle": "She spilled coffee on a billionaire. He offered her $212,000 to pretend to love him for thirty days.",
+      "penName": "Layla Chebbi",
+      "genre": "billionaireRomance",
+      "coverPath": "covers/001.webp",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "billionaire romance",
+        "fake dating",
+        "contract marriage",
+        "grief",
+        "found family"
+      ]
+    }
+  ]
 }
