@@ -1,0 +1,322 @@
+{
+  "id": "037",
+  "title": "The System Lied",
+  "subtitle": "The System told me my class was Paladin. I was a Necromancer. By the time I figured it out, I had eleven corpses in my shed.",
+  "penName": "Blake Thornton",
+  "genre": "litrpgSystem",
+  "hook": "The System awakened me on a Tuesday in November and assigned me Class: Paladin. I spent three weeks failing to heal anyone. On the fourth day I raised a dead squirrel from the sidewalk and the System said OH RIGHT, THE PALADIN THING. YEAH. ABOUT THAT. My real class was Necromancer. The System was petty. Buffalo was overrun. I had eleven corpses in my shed by Friday.",
+  "coverPath": "covers/037.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "Violence: comic undead combat. Spice: 2/5.",
+  "subtropes": [
+    "system satire",
+    "necromancer",
+    "found family",
+    "Buffalo NY",
+    "comedy",
+    "ethical weight"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Wegmans",
+      "path": "novels/037/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Paladin's Refund Policy",
+      "path": "novels/037/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Knocking",
+      "path": "novels/037/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Smite Attempt: Denied",
+      "path": "novels/037/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Third Trial (Revised)",
+      "path": "novels/037/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Patrice Has Questions",
+      "path": "novels/037/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "The Garage",
+      "path": "novels/037/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Carl",
+      "path": "novels/037/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The System Reclassifies",
+      "path": "novels/037/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The Second Undead (Who Was the Tenth)",
+      "path": "novels/037/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Patrice Delivers",
+      "path": "novels/037/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Blake's Garage Becomes a Morgue-Base",
+      "path": "novels/037/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Carl Bishop, Third Undead, First Loyalty",
+      "path": "novels/037/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Marta Walks Into the Garage",
+      "path": "novels/037/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Officer Haynes",
+      "path": "novels/037/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Marta Stays for Dinner",
+      "path": "novels/037/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Mrs. Henderson's Undead",
+      "path": "novels/037/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Eddie the Cook",
+      "path": "novels/037/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Connie and Ray",
+      "path": "novels/037/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Lilo",
+      "path": "novels/037/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "The Buffalo Council Hears About Blake",
+      "path": "novels/037/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "The Framework",
+      "path": "novels/037/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Word",
+      "path": "novels/037/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Continuing Persons",
+      "path": "novels/037/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Mr. Walsh",
+      "path": "novels/037/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Audit",
+      "path": "novels/037/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Central Branch",
+      "path": "novels/037/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Crocket the Frog",
+      "path": "novels/037/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Le Roy",
+      "path": "novels/037/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Dr. Tanaka",
+      "path": "novels/037/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Forty-Seven Items",
+      "path": "novels/037/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The Close",
+      "path": "novels/037/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Michael",
+      "path": "novels/037/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The West Corridor",
+      "path": "novels/037/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Henry the Crow",
+      "path": "novels/037/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The Alcove",
+      "path": "novels/037/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Ten for One",
+      "path": "novels/037/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Nine Witnesses",
+      "path": "novels/037/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "The Rally",
+      "path": "novels/037/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Testimony",
+      "path": "novels/037/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Emergence",
+      "path": "novels/037/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Page Two",
+      "path": "novels/037/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Bad Faith",
+      "path": "novels/037/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The Names",
+      "path": "novels/037/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Corridor Green",
+      "path": "novels/037/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Directorate",
+      "path": "novels/037/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The System Speaks",
+      "path": "novels/037/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "The Closed File",
+      "path": "novels/037/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Harold",
+      "path": "novels/037/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Fifty-Three Porch Lights",
+      "path": "novels/037/ch050.json",
+      "requiresPayment": true
+    }
+  ]
+}
