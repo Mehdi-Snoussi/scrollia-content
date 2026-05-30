@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-30T18:07:39Z",
+  "lastUpdated": "2026-05-30T21:07:46Z",
   "totalNovels": 50,
   "novels": [
     {
@@ -18,8 +18,7 @@
         "contract marriage",
         "grief",
         "found family"
-      ],
-      "auditBucket": "clean"
+      ]
     },
     {
       "id": "002",
@@ -30,8 +29,7 @@
       "coverPath": "covers/002.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": [],
-      "auditBucket": "mild"
+      "subtropes": []
     },
     {
       "id": "003",
@@ -42,8 +40,7 @@
       "coverPath": "covers/003.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": [],
-      "auditBucket": "heavy"
+      "subtropes": []
     },
     {
       "id": "004",
@@ -54,8 +51,7 @@
       "coverPath": "covers/004.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": [],
-      "auditBucket": "heavy"
+      "subtropes": []
     },
     {
       "id": "005",
@@ -66,8 +62,7 @@
       "coverPath": "covers/005.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": [],
-      "auditBucket": "heavy"
+      "subtropes": []
     },
     {
       "id": "006",
@@ -78,8 +73,7 @@
       "coverPath": "covers/006.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": [],
-      "auditBucket": "collapsed"
+      "subtropes": []
     },
     {
       "id": "007",
@@ -90,8 +84,7 @@
       "coverPath": "covers/007.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": [],
-      "auditBucket": "heavy"
+      "subtropes": []
     },
     {
       "id": "008",
@@ -102,8 +95,7 @@
       "coverPath": "covers/008.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": [],
-      "auditBucket": "heavy"
+      "subtropes": []
     },
     {
       "id": "009",
@@ -114,8 +106,7 @@
       "coverPath": "covers/009.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": [],
-      "auditBucket": "mild"
+      "subtropes": []
     },
     {
       "id": "010",
@@ -126,8 +117,7 @@
       "coverPath": "covers/010.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": [],
-      "auditBucket": "collapsed"
+      "subtropes": []
     },
     {
       "id": "011",
@@ -138,8 +128,7 @@
       "coverPath": "covers/011.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": [],
-      "auditBucket": "heavy"
+      "subtropes": []
     },
     {
       "id": "012",
@@ -150,8 +139,7 @@
       "coverPath": "covers/012.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": [],
-      "auditBucket": "heavy"
+      "subtropes": []
     },
     {
       "id": "013",
@@ -162,8 +150,7 @@
       "coverPath": "covers/013.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": [],
-      "auditBucket": "heavy"
+      "subtropes": []
     },
     {
       "id": "014",
@@ -174,8 +161,7 @@
       "coverPath": "covers/014.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": [],
-      "auditBucket": "mild"
+      "subtropes": []
     },
     {
       "id": "015",
@@ -186,8 +172,7 @@
       "coverPath": "covers/015.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": [],
-      "auditBucket": "mild"
+      "subtropes": []
     },
     {
       "id": "016",
@@ -205,8 +190,7 @@
         "cancer-sister",
         "teen-stepdaughter",
         "forced cohabitation"
-      ],
-      "auditBucket": "clean"
+      ]
     },
     {
       "id": "017",
@@ -224,8 +208,7 @@
         "six-year ghost",
         "brownstone inheritance",
         "Columbia musicology PhD FMC"
-      ],
-      "auditBucket": "clean"
+      ]
     },
     {
       "id": "018",
@@ -243,8 +226,7 @@
         "small-business save",
         "ICE investigation",
         "Puerto Rican chef FMC"
-      ],
-      "auditBucket": "clean"
+      ]
     },
     {
       "id": "019",
@@ -262,8 +244,7 @@
         "summer wedding season",
         "PTSD journalist",
         "NYC"
-      ],
-      "auditBucket": "mild"
+      ]
     },
     {
       "id": "020",
@@ -281,8 +262,7 @@
         "mistaken-identity-of-accuser",
         "publishing-industry",
         "literary-meta"
-      ],
-      "auditBucket": "mild"
+      ]
     },
     {
       "id": "021",
@@ -299,8 +279,7 @@
         "family-wedding pressure",
         "grandmother-as-catalyst",
         "sweet-spicy balance"
-      ],
-      "auditBucket": "clean"
+      ]
     },
     {
       "id": "022",
@@ -317,8 +296,7 @@
         "M&A law",
         "forced collaboration",
         "dual POV alternating"
-      ],
-      "auditBucket": "clean"
+      ]
     },
     {
       "id": "023",
@@ -336,8 +314,7 @@
         "NDA intrigue",
         "italian island",
         "reclusive billionaire subject"
-      ],
-      "auditBucket": "heavy"
+      ]
     },
     {
       "id": "024",
@@ -355,8 +332,7 @@
         "intellectual sparring",
         "older colleagues",
         "grumpy-sunshine reversed (Adelaide sharp"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "025",
@@ -374,8 +350,7 @@
         "academic",
         "journalistic reunion",
         "4-year-old child"
-      ],
-      "auditBucket": "heavy"
+      ]
     },
     {
       "id": "026",
@@ -393,8 +368,7 @@
         "small-town reunion",
         "rancher hero",
         "single-mom FMC"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "027",
@@ -412,8 +386,7 @@
         "texas small-town",
         "tour-together",
         "sobriety arc"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "028",
@@ -431,8 +404,7 @@
         "late husband's legacy",
         "grief-integrated",
         "slow-burn"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "029",
@@ -450,8 +422,7 @@
         "kingdom alliance",
         "diverse royal",
         "music-teacher FMC"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "030",
@@ -469,8 +440,7 @@
         "succession crisis",
         "fictional European kingdom",
         "nurse FMC"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "031",
@@ -487,8 +457,7 @@
         "tour bus",
         "session musician FMC",
         "four distinct-archetype heroes"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "032",
@@ -506,8 +475,7 @@
         "senator-father",
         "DC setting",
         "slow-burn-stacked"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "033",
@@ -525,8 +493,7 @@
         "urban-to-rural",
         "slow-burn",
         "professional FMC"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "034",
@@ -544,8 +511,7 @@
         "arranged-marriage threat",
         "fantasy court",
         "20-year slow burn"
-      ],
-      "auditBucket": "heavy"
+      ]
     },
     {
       "id": "035",
@@ -562,8 +528,7 @@
         "urban apocalypse",
         "slow progression",
         "party formation"
-      ],
-      "auditBucket": "heavy"
+      ]
     },
     {
       "id": "036",
@@ -581,8 +546,7 @@
         "monster regulars",
         "small-business",
         "found-family"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "037",
@@ -600,8 +564,7 @@
         "Buffalo NY",
         "comedy",
         "ethical weight"
-      ],
-      "auditBucket": "clean"
+      ]
     },
     {
       "id": "038",
@@ -619,8 +582,7 @@
         "forced party",
         "progression",
         "enemies-to-lovers-lite"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "039",
@@ -637,8 +599,7 @@
         "smart MC",
         "system mystery",
         "one-anomaly-companion"
-      ],
-      "auditBucket": "heavy"
+      ]
     },
     {
       "id": "040",
@@ -655,8 +616,7 @@
         "system class-choice",
         "save-the-world arc",
         "relationships earlier-now"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "041",
@@ -674,8 +634,7 @@
         "flaws-as-features",
         "sect tournament",
         "arrogant-elder subverted"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "042",
@@ -693,8 +652,7 @@
         "customer-ensemble",
         "non-combat progression",
         "gentle widowed romance"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "043",
@@ -712,8 +670,7 @@
         "single-mother MC",
         "settlement-building",
         "rural fallback"
-      ],
-      "auditBucket": "mild"
+      ]
     },
     {
       "id": "044",
@@ -731,8 +688,7 @@
         "chemistry-teacher MC",
         "refusal arc",
         "moral complexity"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "045",
@@ -749,8 +705,7 @@
         "hidden class",
         "floor-by-floor progression",
         "guild politics"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "046",
@@ -768,8 +723,7 @@
         "hospitality progression",
         "monster ensemble",
         "found family"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "047",
@@ -787,8 +741,7 @@
         "befriending-original-heroine",
         "game-knowledge advantage",
         "non-canon love interest"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "048",
@@ -806,8 +759,7 @@
         "feminist reclaim",
         "better-ending arc",
         "meta-author plot device"
-      ],
-      "auditBucket": "collapsed"
+      ]
     },
     {
       "id": "049",
@@ -825,8 +777,7 @@
         "basement-captive",
         "dual POV",
         "reveal escalations"
-      ],
-      "auditBucket": "heavy"
+      ]
     },
     {
       "id": "050",
@@ -844,8 +795,7 @@
         "widower protagonist",
         "slow unravel",
         "pharmaceutical conspiracy"
-      ],
-      "auditBucket": "collapsed"
+      ]
     }
   ]
 }
