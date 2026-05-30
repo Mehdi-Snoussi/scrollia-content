@@ -1,0 +1,323 @@
+{
+  "id": "034",
+  "title": "The Prince's Strategist",
+  "subtitle": "\"Valen and I were seven years old when we swore the first oath. We were twenty-seven when the king said he was marrying Valen to a foreign duke's daughter.\"",
+  "penName": "Aiden Frost",
+  "genre": "blMm",
+  "hook": "Prince Valen of Avelon and I grew up in the same palace, the same library, the same swordsmanship hall. We swore oaths of protection and honesty at seven and kept them at fourteen and at twenty-one. I became his strategist. He became the heir. I became the man who stood at his right hand at every council meeting, every treaty signing, every Wolf's Day feast. I had been in love with him for twenty years and had told no one. On the morning the king announced Valen's betrothal to Lady Imara of Kirat, I did not move.",
+  "coverPath": "covers/034.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "3.5/5 (Ch 21, 33, 46)",
+  "subtropes": [
+    "friends-to-lovers",
+    "prince",
+    "strategist",
+    "arranged-marriage threat",
+    "fantasy court",
+    "20-year slow burn"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Wolf's Day",
+      "path": "novels/034/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Court Reads My Face",
+      "path": "novels/034/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Sara's Tavern at the River Bend",
+      "path": "novels/034/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "The Horsehair Stitch",
+      "path": "novels/034/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Map of the Iron River",
+      "path": "novels/034/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Valen — Two Chairs in My Father's Chamber",
+      "path": "novels/034/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "The Southern Road at the Eighth Bell",
+      "path": "novels/034/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Door Across the Corridor",
+      "path": "novels/034/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Map Room at the First Watch",
+      "path": "novels/034/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The Morning Council",
+      "path": "novels/034/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Lady Imara in the South Salon",
+      "path": "novels/034/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Kieran in the Scholar's Library",
+      "path": "novels/034/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "The Counter-Strategy",
+      "path": "novels/034/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "The Gala",
+      "path": "novels/034/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "My Mother at the Strategist's Gate",
+      "path": "novels/034/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The King Has Known for Twelve Years",
+      "path": "novels/034/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Valen — The Third Day of Summer",
+      "path": "novels/034/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "The First Kiss",
+      "path": "novels/034/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The Back Room at the Eighth Bell",
+      "path": "novels/034/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Duke Harran at the South Gate",
+      "path": "novels/034/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "The Back Room, Three Nights Later",
+      "path": "novels/034/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "The Queen's Anniversary",
+      "path": "novels/034/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Lady Imara in the Guest Wing",
+      "path": "novels/034/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "The Duke's First Negotiation",
+      "path": "novels/034/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Trade Pact, Proposed",
+      "path": "novels/034/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The King's First Refusal",
+      "path": "novels/034/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Small Reception Room",
+      "path": "novels/034/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Valen — The Commitment",
+      "path": "novels/034/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "The Chief Steward at the Door",
+      "path": "novels/034/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Second Working Session",
+      "path": "novels/034/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Calther's Knife",
+      "path": "novels/034/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The Duke at the Eighth Bell",
+      "path": "novels/034/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "The Back Room, Returned",
+      "path": "novels/034/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Kieran in the Map Room",
+      "path": "novels/034/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Court at the Fifth Bell",
+      "path": "novels/034/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Master Farran's Visit",
+      "path": "novels/034/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "My Mother at the Kitchen Bench",
+      "path": "novels/034/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Threat",
+      "path": "novels/034/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "The Night Before",
+      "path": "novels/034/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Writ",
+      "path": "novels/034/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Valen — I Will Not Abdicate",
+      "path": "novels/034/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Imara at the Chancery",
+      "path": "novels/034/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Duke's Letter",
+      "path": "novels/034/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The Signing",
+      "path": "novels/034/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "The King's Long Silence",
+      "path": "novels/034/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Back Room at the End of Winter",
+      "path": "novels/034/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Council's Acknowledgment",
+      "path": "novels/034/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "The Bar at the Sarris House",
+      "path": "novels/034/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Valen — The First Feast of Wolf's Day",
+      "path": "novels/034/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Five Years On",
+      "path": "novels/034/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "heavy"
+}

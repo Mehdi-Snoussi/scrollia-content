@@ -1,0 +1,323 @@
+{
+  "id": "025",
+  "title": "Rival's Secret Son",
+  "subtitle": "\"I slept with my professional rival once. I paid for that night with four years of silence and one little boy with his eyes.\"",
+  "penName": "Mira Belgrave",
+  "genre": "enemiesToLovers",
+  "hook": "Four years ago I slept with the only man in my industry who was more successful than I was. I got pregnant. I told him once. He was on a plane to Singapore and asked me to repeat myself, and I heard his partner ask him who it was, and I said *nobody* and hung up. My son is named Oscar. He has his father's eyes and my mother's laugh and zero knowledge of the man who has now been hired as my new boss. Ryan Delacroix walked into my office on a Tuesday morning. Oscar's photograph was on my desk.",
+  "coverPath": "covers/025.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "4/5 (Ch 5 flashback 4/5, Ch 27, Ch 41)",
+  "subtropes": [
+    "secret baby",
+    "professional rival",
+    "one-night-stand consequences",
+    "academic",
+    "journalistic reunion",
+    "4-year-old child"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Sixteen Sighs",
+      "path": "novels/025/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Bagels You Actually Like",
+      "path": "novels/025/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Author Photo",
+      "path": "novels/025/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Ryan — The Lounge",
+      "path": "novels/025/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Austin, March, the Driskill",
+      "path": "novels/025/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "The Calendar Invite",
+      "path": "novels/025/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Welcome",
+      "path": "novels/025/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Slate",
+      "path": "novels/025/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Bookshelf",
+      "path": "novels/025/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Saturday, Park Slope",
+      "path": "novels/025/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "The Week",
+      "path": "novels/025/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "What I Will Share",
+      "path": "novels/025/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Bryant Park",
+      "path": "novels/025/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Schoen Wing, Fourteenth Floor",
+      "path": "novels/025/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Mark Delacroix",
+      "path": "novels/025/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The Bench by the Gate",
+      "path": "novels/025/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Ryan — Boulder",
+      "path": "novels/025/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Prospect Park, the Long Meadow",
+      "path": "novels/025/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The Tessera Follow-Up",
+      "path": "novels/025/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "My Friend Ryan",
+      "path": "novels/025/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Clara at the Long Meadow",
+      "path": "novels/025/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Sunday Lasagna",
+      "path": "novels/025/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Maya at the Daycare",
+      "path": "novels/025/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "The Permanent Desk",
+      "path": "novels/025/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Cheek Swab",
+      "path": "novels/025/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Five Business Days",
+      "path": "novels/025/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Saturday at Nine",
+      "path": "novels/025/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Ryan — The Tarmac",
+      "path": "novels/025/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "The Sunday Pickup",
+      "path": "novels/025/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Filed Acknowledgment",
+      "path": "novels/025/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "The Apartment in Tribeca",
+      "path": "novels/025/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The Fourth Birthday",
+      "path": "novels/025/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Christmas at Clara's",
+      "path": "novels/025/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Week Between",
+      "path": "novels/025/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Papa",
+      "path": "novels/025/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The Fever",
+      "path": "novels/025/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Parents from Pittsburgh",
+      "path": "novels/025/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Email from Emilia",
+      "path": "novels/025/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Ryan — The Coffee with Emilia",
+      "path": "novels/025/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Letter",
+      "path": "novels/025/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "The Right Room",
+      "path": "novels/025/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "The Photograph on the Internet",
+      "path": "novels/025/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Fifth Birthday",
+      "path": "novels/025/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The Custody Memorandum",
+      "path": "novels/025/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Saturday at Nine, Again",
+      "path": "novels/025/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Graduation from the Fives",
+      "path": "novels/025/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Ryan — The Letter for the Box",
+      "path": "novels/025/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "The Boxes from Tribeca",
+      "path": "novels/025/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The Long Meadow",
+      "path": "novels/025/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — The Calendar",
+      "path": "novels/025/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "heavy"
+}

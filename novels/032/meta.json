@@ -1,0 +1,323 @@
+{
+  "id": "032",
+  "title": "Protected",
+  "subtitle": "\"The senator assigned three bodyguards to me after the first letter. By the tenth letter I was no longer alone. I was in love.\"",
+  "penName": "Briar Cadeau",
+  "genre": "reverseHarem",
+  "hook": "My father is a senator from Massachusetts. I am twenty-six and a medical resident at Georgetown University Hospital. The first letter arrived in February. The ninth letter was a photograph of me sleeping. My father assigned three bodyguards. Glen was a former SEAL, Kenta was a former Secret Service, and Matt was the one who never took his eyes off the door. They moved into my apartment. They took shifts. One kissed me three weeks in. The second one watched. The third one said, *it was always going to be all three of us, Briar, or it wasn't going to be any of us.*",
+  "coverPath": "covers/032.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "5/5 (Ch 14, 21, 28, 34, 41, 47 — six scenes)",
+  "subtropes": [
+    "Why Choose",
+    "three bodyguards",
+    "political threat",
+    "senator-father",
+    "DC setting",
+    "slow-burn-stacked"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "February Fourteenth",
+      "path": "novels/032/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Glen Watkins",
+      "path": "novels/032/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Kenta and Matt",
+      "path": "novels/032/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Saturday Shift",
+      "path": "novels/032/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Glen — The Assessment",
+      "path": "novels/032/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Letter Two",
+      "path": "novels/032/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Matt at the Hospital",
+      "path": "novels/032/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Letters Three Through Nine",
+      "path": "novels/032/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Tenth Letter",
+      "path": "novels/032/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Rekey and Protocol",
+      "path": "novels/032/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "The Monday Confrontation",
+      "path": "novels/032/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Matt's Humor",
+      "path": "novels/032/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Glen's SEAL Rule",
+      "path": "novels/032/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "The Initiation",
+      "path": "novels/032/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Saturday Morning Consent",
+      "path": "novels/032/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Kenta — Pacific Heights",
+      "path": "novels/032/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Dr. Morris's Office",
+      "path": "novels/032/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Letter Twelve",
+      "path": "novels/032/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The Shooting at Eighteenth and U",
+      "path": "novels/032/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Ashley",
+      "path": "novels/032/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "The Sencha at Three",
+      "path": "novels/032/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "My Father at Twenty-Two Oh-Six",
+      "path": "novels/032/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Rock Creek Run",
+      "path": "novels/032/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Beach Drive",
+      "path": "novels/032/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Friday Night, Capitol Hill",
+      "path": "novels/032/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Peter at the Hart",
+      "path": "novels/032/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Floor Vote",
+      "path": "novels/032/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "The Three-Way",
+      "path": "novels/032/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Kenta — Mari at Pacific Heights",
+      "path": "novels/032/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "My Father's Concern",
+      "path": "novels/032/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Matt — The Pulaski-Vasquez Hour",
+      "path": "novels/032/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Letter Eighteen",
+      "path": "novels/032/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Captain Lisa Holliday",
+      "path": "novels/032/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Glen-and-Matt Hour",
+      "path": "novels/032/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Third Party",
+      "path": "novels/032/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Cleveland Park",
+      "path": "novels/032/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Walter Reed",
+      "path": "novels/032/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Glen — Tactical Decision",
+      "path": "novels/032/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Elise",
+      "path": "novels/032/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Georgetown",
+      "path": "novels/032/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Trauma Bay Three",
+      "path": "novels/032/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Marshall in Custody",
+      "path": "novels/032/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "FBI Debrief",
+      "path": "novels/032/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The Senate Floor",
+      "path": "novels/032/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Fourteen-C, Reunion",
+      "path": "novels/032/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Group POV — Fourteen-C",
+      "path": "novels/032/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Confession",
+      "path": "novels/032/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Boston",
+      "path": "novels/032/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Beacon Hill",
+      "path": "novels/032/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — Two Years",
+      "path": "novels/032/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

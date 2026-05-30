@@ -1,0 +1,323 @@
+{
+  "id": "044",
+  "title": "The Rapture Protocol",
+  "subtitle": "\"Three billion people vanished. The rest of us were told to fight for the right to follow them. I was a high-school chemistry teacher. I refused.\"",
+  "penName": "Adele Frye",
+  "genre": "apocalypseZombie",
+  "hook": "On a Tuesday in October three billion people vanished from Earth in a single instant. Those of us who remained received a notification. The notification said we had been found \"unworthy\" and could, if we chose to complete certain tasks, earn the right to follow the ones we loved. The tasks were brutal. I was a thirty-four-year-old chemistry teacher in Albuquerque. My husband Amir had vanished. My sister had vanished. My best friend had vanished. The first task the System gave me was to kill my neighbor. I refused. The System marked me.",
+  "coverPath": "covers/044.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "2/5 (Ch 35 closed-door; Maria, fellow teacher)",
+  "subtropes": [
+    "sudden depopulation",
+    "system arrives",
+    "\"follow the vanished\" quest",
+    "chemistry-teacher MC",
+    "refusal arc",
+    "moral complexity"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Refusal",
+      "path": "novels/044/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Cooper Square in the Morning",
+      "path": "novels/044/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Strand",
+      "path": "novels/044/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Mrs. Vorhees",
+      "path": "novels/044/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Library",
+      "path": "novels/044/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Anomaly",
+      "path": "novels/044/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "The Walk-Through",
+      "path": "novels/044/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Library Commons",
+      "path": "novels/044/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Queens",
+      "path": "novels/044/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The First Council",
+      "path": "novels/044/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "The Routine",
+      "path": "novels/044/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Pavel's Farm",
+      "path": "novels/044/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "The Water Cut",
+      "path": "novels/044/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Vera",
+      "path": "novels/044/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "The Roof",
+      "path": "novels/044/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Vera at the Council",
+      "path": "novels/044/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "The Question Asked",
+      "path": "novels/044/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Cosmo at the Pew",
+      "path": "novels/044/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The Bronx Mill",
+      "path": "novels/044/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "The East Harlem Cut",
+      "path": "novels/044/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "The Network",
+      "path": "novels/044/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Vera in the Children's Room",
+      "path": "novels/044/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Day Sixty",
+      "path": "novels/044/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "The Day Before",
+      "path": "novels/044/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Broadcast",
+      "path": "novels/044/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Forty-Eight",
+      "path": "novels/044/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Father Bram's Letter",
+      "path": "novels/044/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "The Faisal Confession",
+      "path": "novels/044/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "The Eight Weeks",
+      "path": "novels/044/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Reston, Virginia",
+      "path": "novels/044/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "The Unsorted Decision",
+      "path": "novels/044/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The Training",
+      "path": "novels/044/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "The First Transfers",
+      "path": "novels/044/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Refusal Faction",
+      "path": "novels/044/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Vera, in the Apartment",
+      "path": "novels/044/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The Routine of Return",
+      "path": "novels/044/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Vigil",
+      "path": "novels/044/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Children Move",
+      "path": "novels/044/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "The Last Two Days",
+      "path": "novels/044/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Attack",
+      "path": "novels/044/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Day One-Twenty-Three",
+      "path": "novels/044/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Sunday",
+      "path": "novels/044/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Tribunal",
+      "path": "novels/044/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Spring",
+      "path": "novels/044/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Sundays in the Apartment",
+      "path": "novels/044/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Apartment of Two Women",
+      "path": "novels/044/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Memorial",
+      "path": "novels/044/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "The Eve",
+      "path": "novels/044/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "One Year",
+      "path": "novels/044/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "The Library on a Wednesday",
+      "path": "novels/044/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

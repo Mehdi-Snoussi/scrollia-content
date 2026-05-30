@@ -1,0 +1,316 @@
+{
+  "id": "004",
+  "title": "Bought for the Season",
+  "subtitle": "",
+  "penName": "Asha Devi",
+  "genre": "billionaireRomance",
+  "hook": "",
+  "coverPath": "covers/004.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": null,
+  "subtropes": [],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Latte",
+      "path": "novels/004/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Sloan",
+      "path": "novels/004/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Ashes in a Closet",
+      "path": "novels/004/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "The Signing",
+      "path": "novels/004/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "First Public Event",
+      "path": "novels/004/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Tea with Isabeau",
+      "path": "novels/004/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Rafe — The Mother Has Decided",
+      "path": "novels/004/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Assistant",
+      "path": "novels/004/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Kiss That Wasn't",
+      "path": "novels/004/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The Drive Home",
+      "path": "novels/004/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Dad, 2023",
+      "path": "novels/004/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Leo",
+      "path": "novels/004/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Second Gala",
+      "path": "novels/004/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Claudine",
+      "path": "novels/004/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Patisserie Claude",
+      "path": "novels/004/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Princeton",
+      "path": "novels/004/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Sloan Again",
+      "path": "novels/004/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Rafe — Am I in Love",
+      "path": "novels/004/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The Hospital Wing",
+      "path": "novels/004/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Will You Stay",
+      "path": "novels/004/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "The Gold Ring",
+      "path": "novels/004/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "First Spicy Scene",
+      "path": "novels/004/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Morning After",
+      "path": "novels/004/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Her Apartment",
+      "path": "novels/004/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Name of It",
+      "path": "novels/004/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Six Months Ago",
+      "path": "novels/004/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Priya's Call",
+      "path": "novels/004/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "The Russian Client",
+      "path": "novels/004/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Rafe — Carrying",
+      "path": "novels/004/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "First Wheelchair",
+      "path": "novels/004/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Naloxone Night",
+      "path": "novels/004/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Three AM",
+      "path": "novels/004/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "The Letter",
+      "path": "novels/004/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Dad Again, Last Night",
+      "path": "novels/004/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Isabeau Fails",
+      "path": "novels/004/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Family",
+      "path": "novels/004/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Ring, Given",
+      "path": "novels/004/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Second Spicy Scene",
+      "path": "novels/004/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Sunday, 5 AM",
+      "path": "novels/004/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Rafe — She Is Gone",
+      "path": "novels/004/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "The Funeral",
+      "path": "novels/004/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Provence Departure",
+      "path": "novels/004/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Mumbai Surgery Week",
+      "path": "novels/004/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The Olive Terrace",
+      "path": "novels/004/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Priya Wakes",
+      "path": "novels/004/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Third Spicy Scene",
+      "path": "novels/004/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Wedding Plan",
+      "path": "novels/004/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Rafe — The Letter",
+      "path": "novels/004/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Ashes in the Sea",
+      "path": "novels/004/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — One Year",
+      "path": "novels/004/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "heavy"
+}

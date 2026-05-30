@@ -1,0 +1,316 @@
+{
+  "id": "005",
+  "title": "Wife to a Stranger",
+  "subtitle": "",
+  "penName": "Wren Halliday",
+  "genre": "billionaireRomance",
+  "hook": "",
+  "coverPath": "covers/005.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": null,
+  "subtropes": [],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Forty-Two Million",
+      "path": "novels/005/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Text",
+      "path": "novels/005/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Wrong Groom",
+      "path": "novels/005/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Pacific Heights",
+      "path": "novels/005/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Pre-Nup",
+      "path": "novels/005/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Brodsky",
+      "path": "novels/005/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "The Empty Bed",
+      "path": "novels/005/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Mother",
+      "path": "novels/005/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "What He Is",
+      "path": "novels/005/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Conditions",
+      "path": "novels/005/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Geary Street",
+      "path": "novels/005/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Lev",
+      "path": "novels/005/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "The Painting",
+      "path": "novels/005/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Weaponized Kiss",
+      "path": "novels/005/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Brushstrokes",
+      "path": "novels/005/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Boxing Wednesday",
+      "path": "novels/005/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "The Knock",
+      "path": "novels/005/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "First Conversation",
+      "path": "novels/005/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Tahoe Decision",
+      "path": "novels/005/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Driving North",
+      "path": "novels/005/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "The Lake",
+      "path": "novels/005/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "First Spice — Testing",
+      "path": "novels/005/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Morning After",
+      "path": "novels/005/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "The 1974 Story",
+      "path": "novels/005/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Father's Move",
+      "path": "novels/005/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Severnaya",
+      "path": "novels/005/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Clause",
+      "path": "novels/005/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "The Scar",
+      "path": "novels/005/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Tribeca",
+      "path": "novels/005/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Tahoe Again — Real",
+      "path": "novels/005/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Doyle Returns",
+      "path": "novels/005/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Lev Comes",
+      "path": "novels/005/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Robert",
+      "path": "novels/005/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Wrong Call",
+      "path": "novels/005/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Crissy Field",
+      "path": "novels/005/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Lev Defects",
+      "path": "novels/005/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The FBI Plan",
+      "path": "novels/005/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Trust Betrayed",
+      "path": "novels/005/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Sotheby's",
+      "path": "novels/005/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Capture",
+      "path": "novels/005/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Cargo Container",
+      "path": "novels/005/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Anatoly",
+      "path": "novels/005/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Hospital",
+      "path": "novels/005/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Doyle Reveals",
+      "path": "novels/005/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Eleanor",
+      "path": "novels/005/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Flight",
+      "path": "novels/005/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Inspection",
+      "path": "novels/005/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Robert",
+      "path": "novels/005/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Halliday Modern",
+      "path": "novels/005/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — One Year",
+      "path": "novels/005/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "heavy"
+}

@@ -1,0 +1,323 @@
+{
+  "id": "038",
+  "title": "Rank C Immortal",
+  "subtitle": "\"I awakened with a healing class in a world where healers died first. My party was led by an arrogant Rank S warrior who had buried three of us already. I was going to be the fourth.\"",
+  "penName": "Nadia Kiernan",
+  "genre": "litrpgSystem",
+  "hook": "I awakened with Class: Healer (Rank F) in a system that killed healers fastest. My party was assigned by the Academy. The leader was Kael Vane, a Rank S Sword-Saint who had buried his last three healers — two by monster claws and one by her own hand after he got her killed. He looked at my class sheet. He said I could leave at the next town. I did not leave. I leveled three times in the first dungeon. He said nothing. By the second dungeon, I had a reputation. By the third, so did he.",
+  "coverPath": "covers/038.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "3.5/5 (Ch 22, 33, 44)",
+  "subtropes": [
+    "system awakening",
+    "healer FMC",
+    "arrogant S-rank warrior",
+    "forced party",
+    "progression",
+    "enemies-to-lovers-lite"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Healer (Rank F)",
+      "path": "novels/038/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Clerk's Ledger",
+      "path": "novels/038/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Party Three",
+      "path": "novels/038/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Master Brennix's Satchel",
+      "path": "novels/038/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Hildr's Poison",
+      "path": "novels/038/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Kael — The First Read",
+      "path": "novels/038/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "The Priest of the Dead God",
+      "path": "novels/038/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Fire-Pit",
+      "path": "novels/038/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Save",
+      "path": "novels/038/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The Ride to Coral Gate",
+      "path": "novels/038/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Coral Gate",
+      "path": "novels/038/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "The Sea-Witch",
+      "path": "novels/038/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Vira at the Camp",
+      "path": "novels/038/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "The Academy Library",
+      "path": "novels/038/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Rank D",
+      "path": "novels/038/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Camp at Ironvein",
+      "path": "novels/038/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Kael — Lysa, Brief",
+      "path": "novels/038/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Ironvein, First Day",
+      "path": "novels/038/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Master Brennix's Cast",
+      "path": "novels/038/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Sanctum",
+      "path": "novels/038/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Ironvein, Second Attempt",
+      "path": "novels/038/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "The Barracks-Room",
+      "path": "novels/038/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Five Days at the Academy",
+      "path": "novels/038/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Hesperide",
+      "path": "novels/038/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Doral",
+      "path": "novels/038/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Shared Road",
+      "path": "novels/038/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Throne Below — First Tier",
+      "path": "novels/038/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Kael — Lysa, Full",
+      "path": "novels/038/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Fourth Tier",
+      "path": "novels/038/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Black Moment",
+      "path": "novels/038/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Stillpoint",
+      "path": "novels/038/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Four Hours",
+      "path": "novels/038/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Three Days at Recovery",
+      "path": "novels/038/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Orenth",
+      "path": "novels/038/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Master Brennix's Archive",
+      "path": "novels/038/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Party Three at Two-Captain Command",
+      "path": "novels/038/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Coral Gate Hill",
+      "path": "novels/038/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Crow's Reach",
+      "path": "novels/038/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Kael — The Reading",
+      "path": "novels/038/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Frost-Spire",
+      "path": "novels/038/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Year One Mark",
+      "path": "novels/038/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Vira's Brother Returns",
+      "path": "novels/038/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Three-Rotation Tour",
+      "path": "novels/038/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The Wedding-Eve",
+      "path": "novels/038/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "The Wedding",
+      "path": "novels/038/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Second Year",
+      "path": "novels/038/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Third Year",
+      "path": "novels/038/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Kael — At the Bottom of the Fifth Dungeon",
+      "path": "novels/038/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The Fourth Year",
+      "path": "novels/038/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Five Years",
+      "path": "novels/038/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

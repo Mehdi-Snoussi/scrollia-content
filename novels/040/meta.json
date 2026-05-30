@@ -1,0 +1,322 @@
+{
+  "id": "040",
+  "title": "The Second Time Through",
+  "subtitle": "\"I died at sixty-eight in a war I'd spent fifty years trying to stop. I woke up at seventeen in my parents' kitchen in Wichita with the System asking me, politely, what class I would like this time.\"",
+  "penName": "Owen Kalb",
+  "genre": "regressionTimeloop",
+  "hook": "I died at sixty-eight in a refugee camp in what used to be Denver. I had spent fifty years of my first life trying to prevent the war that had finally killed me. The System came to me in death and asked if I would like to try again. I said yes. I woke in my parents' kitchen in Wichita, Kansas, at seventeen years old, in September of the year before the first attack. My mother was alive. My sister was alive. The System asked me what class I wanted. I thought for a long time before I answered.",
+  "coverPath": "covers/040.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "2/5 (Ch 38 closed-door first; restraint elsewhere)",
+  "subtropes": [
+    "regression",
+    "50-year knowledge carry",
+    "system class-choice",
+    "save-the-world arc",
+    "relationships earlier-now"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Forty-Year-Old Body",
+      "path": "novels/040/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Williamsville East High School",
+      "path": "novels/040/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "What I Could Use",
+      "path": "novels/040/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Tuesday Dinner",
+      "path": "novels/040/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Vera at Twelve",
+      "path": "novels/040/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "M&T Bank, Saturday Morning",
+      "path": "novels/040/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "First Trade",
+      "path": "novels/040/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Other Anomalies",
+      "path": "novels/040/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Marcus Lin Notices",
+      "path": "novels/040/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The Network",
+      "path": "novels/040/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Hayden Brown at the Pool",
+      "path": "novels/040/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Saturday at Tim Hortons",
+      "path": "novels/040/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Earnings",
+      "path": "novels/040/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Vera's Notebook",
+      "path": "novels/040/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Senior Year",
+      "path": "novels/040/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Professor Halloran",
+      "path": "novels/040/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Thanksgiving",
+      "path": "novels/040/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "The Pacific Crest Founder",
+      "path": "novels/040/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Two Years",
+      "path": "novels/040/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "The Decision",
+      "path": "novels/040/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "After Graduation",
+      "path": "novels/040/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Four More",
+      "path": "novels/040/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Stone Bridge",
+      "path": "novels/040/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "April Eighth",
+      "path": "novels/040/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Fifteen Years",
+      "path": "novels/040/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Second Call",
+      "path": "novels/040/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Mira",
+      "path": "novels/040/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "The Niece",
+      "path": "novels/040/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "My Father",
+      "path": "novels/040/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "May Fourth",
+      "path": "novels/040/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Mira",
+      "path": "novels/040/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The Book",
+      "path": "novels/040/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Seven Years",
+      "path": "novels/040/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Third Wake",
+      "path": "novels/040/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Calling Allon",
+      "path": "novels/040/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The First Seven",
+      "path": "novels/040/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Difference",
+      "path": "novels/040/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Third Death",
+      "path": "novels/040/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Yael Aronson",
+      "path": "novels/040/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Patricia Mendoza and the Atlanta Two",
+      "path": "novels/040/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "The Drivers and Devon Ronaldo",
+      "path": "novels/040/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Three More",
+      "path": "novels/040/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Remaining Four",
+      "path": "novels/040/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Allon",
+      "path": "novels/040/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "The Threshold",
+      "path": "novels/040/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Allon's Last Pass",
+      "path": "novels/040/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Years After",
+      "path": "novels/040/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "The Year",
+      "path": "novels/040/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The End of the Book",
+      "path": "novels/040/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "An Afternoon",
+      "path": "novels/040/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

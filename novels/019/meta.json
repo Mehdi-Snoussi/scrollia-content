@@ -1,0 +1,323 @@
+{
+  "id": "019",
+  "title": "The Wedding Plus-One",
+  "subtitle": "\"I had seven weddings in a summer. My ex was at three. My neighbor agreed to be my fake boyfriend over rosé on the fire escape.\"",
+  "penName": "Darcy Maren",
+  "genre": "fakeDating",
+  "hook": "Seven weddings in fourteen weeks. My ex was invited to three of them because he was somebody's brother, somebody's roommate, and somebody's groomsman. My roommate said I needed a fake boyfriend. My bank account said I needed to cancel cable. My new neighbor (who had moved in six days earlier, who had twice complained about my music, who was a war-zone journalist taking a forced sabbatical, who was thirty-six and grumpy and had forearms) agreed on the fire escape with a bottle of cheap rosé. He said: \"I'll do it if you stop playing Harry Styles at 2 a.m.\"",
+  "coverPath": "covers/019.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "4/5 (Ch 22, 33, 44)",
+  "subtropes": [
+    "fake dating",
+    "neighbor-to-boyfriend",
+    "grumpy-sunshine",
+    "summer wedding season",
+    "PTSD journalist",
+    "NYC"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Seven Weddings, One Ex",
+      "path": "novels/019/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "4B, Fire Escape Side",
+      "path": "novels/019/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Rosé Agreement",
+      "path": "novels/019/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Eighteen Clauses",
+      "path": "novels/019/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Cover Story",
+      "path": "novels/019/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Tuxedo, Two Pinches",
+      "path": "novels/019/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "The Sister",
+      "path": "novels/019/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Why I Said Yes",
+      "path": "novels/019/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Wedding One — The Wythe",
+      "path": "novels/019/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Not Fake",
+      "path": "novels/019/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Flushing, the Kimchi Fridge",
+      "path": "novels/019/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Wedding Two — Hudson Valley",
+      "path": "novels/019/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Spencer's Text",
+      "path": "novels/019/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Wedding Three — Philadelphia",
+      "path": "novels/019/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Tuesday, the Slot",
+      "path": "novels/019/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Fire Escape, Midnight",
+      "path": "novels/019/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "The Offer",
+      "path": "novels/019/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Sulaymaniyah",
+      "path": "novels/019/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Wedding Four — Wequassett",
+      "path": "novels/019/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "One Room",
+      "path": "novels/019/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Three Inches",
+      "path": "novels/019/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Five Forty-Six",
+      "path": "novels/019/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Beach, the Mother",
+      "path": "novels/019/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Niki's Brunch",
+      "path": "novels/019/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Mike, Monday, Nine",
+      "path": "novels/019/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Wedding Five — Brooklyn Botanic",
+      "path": "novels/019/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Apology",
+      "path": "novels/019/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Wedding Six — Paebaek",
+      "path": "novels/019/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "The Bow",
+      "path": "novels/019/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Falling",
+      "path": "novels/019/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "What She Brought Back",
+      "path": "novels/019/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The C Train, Twenty-Third Street",
+      "path": "novels/019/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Thursday, the Door",
+      "path": "novels/019/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Pages",
+      "path": "novels/019/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "4B, the Bed",
+      "path": "novels/019/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Still Life Films",
+      "path": "novels/019/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Fireworks, Old Stage Road",
+      "path": "novels/019/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Tuesday, the Slot, Again",
+      "path": "novels/019/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Wedding Seven — Old Stage Road",
+      "path": "novels/019/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Niki, Wednesday Morning",
+      "path": "novels/019/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Old Stage Road, Alone",
+      "path": "novels/019/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Why I Took It",
+      "path": "novels/019/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Walk Back",
+      "path": "novels/019/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Twelve Twelve",
+      "path": "novels/019/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Sunday, the Cabinet",
+      "path": "novels/019/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Anniversary",
+      "path": "novels/019/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Book Deal",
+      "path": "novels/019/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Spencer and Margaret",
+      "path": "novels/019/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Watching Her Direct",
+      "path": "novels/019/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Old Stage Road, October Seventeenth",
+      "path": "novels/019/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "mild"
+}

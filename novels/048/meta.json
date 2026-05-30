@@ -1,0 +1,323 @@
+{
+  "id": "048",
+  "title": "My Better Ending",
+  "subtitle": "\"I was reincarnated as the villainess. She was badly written. I decided to write her better.\"",
+  "penName": "Rhea Sands",
+  "genre": "villainessIsekai",
+  "hook": "I died at thirty-four reviewing otome games for a gaming magazine. I woke up as Seraphine Malloran, a villainess from a game I had given two stars for \"incoherent character motivation.\" I had spent my whole adult life arguing that bad female characters were badly written, not innately evil. Now I was one. I had seventy-six days before the Autumn Gala when, in canon, I threw poison into the punch bowl for reasons the writer had not bothered to establish. I had news for the writer. I was rewriting the whole arc.",
+  "coverPath": "covers/048.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "3/5 (Ch 28, 36, 44; Finn — slow-burn earned)",
+  "subtropes": [
+    "reincarnation",
+    "villainess",
+    "game-critique",
+    "feminist reclaim",
+    "better-ending arc",
+    "meta-author plot device"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "I Have Read This Novel",
+      "path": "novels/048/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Day 1 — The Lady's-Maid",
+      "path": "novels/048/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Day 3 — The Summer Ball",
+      "path": "novels/048/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Day 4 — The Library",
+      "path": "novels/048/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Days 5 to 21 — Reconstruction",
+      "path": "novels/048/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Day 25 — Count Aldric",
+      "path": "novels/048/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Day 43 — The Gallery",
+      "path": "novels/048/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Day 65 — The Cat",
+      "path": "novels/048/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Day 78 — The Academy Assessment",
+      "path": "novels/048/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Day 100 — Iris Marries the Wrong Person",
+      "path": "novels/048/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Day 102 — The Brevin Reveal",
+      "path": "novels/048/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Day 115 — The Ring",
+      "path": "novels/048/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Day 145 — The Brevin Petition",
+      "path": "novels/048/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Day 178 — The Cassell Mother",
+      "path": "novels/048/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Day 200 — The Sponsorship",
+      "path": "novels/048/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Day 220 — The Ratification",
+      "path": "novels/048/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Day 240 — The Trial Approaches",
+      "path": "novels/048/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Day 265 — Lord Ashen",
+      "path": "novels/048/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Day 280 — The Evidence",
+      "path": "novels/048/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Day 295 — The Second Letter",
+      "path": "novels/048/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Day 300 — Refusal",
+      "path": "novels/048/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Day 306 — Trial Eve",
+      "path": "novels/048/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Day 312 — The Trial Begins",
+      "path": "novels/048/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Day 312 — The Evidence",
+      "path": "novels/048/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Day 312 — The Verdict",
+      "path": "novels/048/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Day 320 — The Co-Protagonist Arrangement",
+      "path": "novels/048/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Spring Wedding",
+      "path": "novels/048/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Day 350 — The Third Letter",
+      "path": "novels/048/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Summer at Brevin",
+      "path": "novels/048/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Autumn at Brevin",
+      "path": "novels/048/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Year Two — Engagement",
+      "path": "novels/048/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Year Two — Cassell Reform",
+      "path": "novels/048/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Year Two — Iris's First Year",
+      "path": "novels/048/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Winter — The First Sequel Chapter",
+      "path": "novels/048/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Spring — The Wedding",
+      "path": "novels/048/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Iris's Daughter",
+      "path": "novels/048/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Summer of Year Three",
+      "path": "novels/048/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Autumn — The Sequel",
+      "path": "novels/048/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Year Four — Our Daughter",
+      "path": "novels/048/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Ch40",
+      "path": "novels/048/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Year Seven — Our Son",
+      "path": "novels/048/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Year Ten",
+      "path": "novels/048/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Year Fifteen",
+      "path": "novels/048/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Year Twenty — Cresida Iris's Wedding",
+      "path": "novels/048/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Year Twenty-Five",
+      "path": "novels/048/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Year Thirty",
+      "path": "novels/048/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Year Thirty-Five",
+      "path": "novels/048/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Year Forty",
+      "path": "novels/048/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Year Fifty",
+      "path": "novels/048/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "A Wednesday Morning at the Brenner Estate",
+      "path": "novels/048/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

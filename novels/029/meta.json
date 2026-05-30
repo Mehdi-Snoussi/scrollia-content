@@ -1,0 +1,323 @@
+{
+  "id": "029",
+  "title": "The Princess of Asari",
+  "subtitle": "\"I was a middle-school music teacher in Brooklyn. I had eight thousand dollars in savings. A man in a navy suit told me I was the heir to a throne I had never heard of.\"",
+  "penName": "Nia Okoro-Bellamy",
+  "genre": "contractMarriage",
+  "hook": "My mother died when I was four. My father disappeared a year later. I was raised by my grandmother in Crown Heights, Brooklyn, in a 3-bedroom on Nostrand Avenue, and I taught middle-school music at PS 191 for seven years. On a Tuesday in October a man in a navy suit came to my classroom between periods. He said his name was Chief Nnamdi Adekunle and he was a minister of Asari, a coastal West African kingdom that had been my mother's home and whose throne had been empty for nineteen years. He said it was mine.",
+  "coverPath": "covers/029.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "3.5/5 (Ch 22, 33, 44)",
+  "subtropes": [
+    "hidden princess",
+    "cultural rediscovery",
+    "arranged marriage",
+    "kingdom alliance",
+    "diverse royal",
+    "music-teacher FMC"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Two Seventeen on a Tuesday",
+      "path": "novels/029/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Mama Ify, in the Kitchen",
+      "path": "novels/029/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Eleven Days",
+      "path": "novels/029/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Asari Air 711",
+      "path": "novels/029/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Palace on the Cliff",
+      "path": "novels/029/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Three Languages",
+      "path": "novels/029/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Kene — A Brother at the Window",
+      "path": "novels/029/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Week",
+      "path": "novels/029/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "First Meeting",
+      "path": "novels/029/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The Three Weeks",
+      "path": "novels/029/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Adaora's Letters",
+      "path": "novels/029/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Chief Okafor at the Anteroom",
+      "path": "novels/029/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Sunday Dinner at the South Terrace",
+      "path": "novels/029/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "The Kitchen at Six",
+      "path": "novels/029/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Kene — His Mother",
+      "path": "novels/029/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The Music Room at Seven",
+      "path": "novels/029/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "The Engagement Courtyard",
+      "path": "novels/029/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Mama Ify at the Palace",
+      "path": "novels/029/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Ayobami at the Tea-Garden",
+      "path": "novels/029/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Christmas at the Palace",
+      "path": "novels/029/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "New Year's Eve at the Cliff",
+      "path": "novels/029/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "January Fifteenth",
+      "path": "novels/029/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Four Weeks Before",
+      "path": "novels/029/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "The Day Before",
+      "path": "novels/029/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Obi at the South Garden",
+      "path": "novels/029/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Friday Morning",
+      "path": "novels/029/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Wedding Night",
+      "path": "novels/029/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Kene — Saturday Morning",
+      "path": "novels/029/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "The Monday Council",
+      "path": "novels/029/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Obi at the Tea-Garden",
+      "path": "novels/029/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Mama Ify Leaves",
+      "path": "novels/029/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "First Solo Court Appearance",
+      "path": "novels/029/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "April at the Music Room",
+      "path": "novels/029/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Kene — May at the Erasun Palace",
+      "path": "novels/029/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Bende Retreat",
+      "path": "novels/029/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The Aftermath",
+      "path": "novels/029/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Remnant",
+      "path": "novels/029/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Kene — Four Eleven to Six Oh-Six",
+      "path": "novels/029/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "After the Warehouse",
+      "path": "novels/029/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Ten Days Before the Coronation",
+      "path": "novels/029/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Tuesday Night",
+      "path": "novels/029/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "The Coronation Morning",
+      "path": "novels/029/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Reception at the South Terrace",
+      "path": "novels/029/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Wednesday Night",
+      "path": "novels/029/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "The First Six Months",
+      "path": "novels/029/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Kene — The First Year",
+      "path": "novels/029/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Mama Ify at Nostrand Avenue",
+      "path": "novels/029/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "March in Asari",
+      "path": "novels/029/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Mama Ify — Two Years",
+      "path": "novels/029/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — The Music School",
+      "path": "novels/029/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

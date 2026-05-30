@@ -1,0 +1,323 @@
+{
+  "id": "024",
+  "title": "The Debate Partner",
+  "subtitle": "\"Professor Beaumont and I had argued in the pages of the Yale Law Review for four years. Now we were required to co-teach a seminar.\"",
+  "penName": "Adelaide Monroe",
+  "genre": "enemiesToLovers",
+  "hook": "My name is Adelaide Monroe and I've been a professor at Yale Law School for nine years. For four of those years, I have argued with Professor Theodore Beaumont in the pages of every major law review. In spring, the department chair informed both of us that the tenure committee would like to see us co-teach a seminar on constitutional interpretation. Theodore and I took turns disliking this idea over email. On the first day of the semester, we were locked in a classroom with ninety-three students who had come for the performance. We did not disappoint them.",
+  "coverPath": "covers/024.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "3.5/5 (Ch 22, 35, 46)",
+  "subtropes": [
+    "academic rivalry",
+    "law school",
+    "forced co-teaching",
+    "intellectual sparring",
+    "older colleagues",
+    "grumpy-sunshine reversed (Adelaide sharp"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Dean's Letter",
+      "path": "novels/024/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Atticus, Ten Fifteen",
+      "path": "novels/024/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Faculty Meeting",
+      "path": "novels/024/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Sterling 307",
+      "path": "novels/024/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Syllabus Argument",
+      "path": "novels/024/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Room 127",
+      "path": "novels/024/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Beaumont — The Box Marked 2017",
+      "path": "novels/024/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Sunday Before",
+      "path": "novels/024/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Ten Oh Four",
+      "path": "novels/024/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "First Essays",
+      "path": "novels/024/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Week Two",
+      "path": "novels/024/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "The Mock Trial",
+      "path": "novels/024/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Prep Sessions",
+      "path": "novels/024/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Priya's Argument",
+      "path": "novels/024/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Mory's at Six",
+      "path": "novels/024/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The Rumor Mill",
+      "path": "novels/024/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Weekend Prep",
+      "path": "novels/024/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Beaumont — Montreal, 2021",
+      "path": "novels/024/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The Booth at Modern",
+      "path": "novels/024/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Wednesday at Ten",
+      "path": "novels/024/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "After Modern",
+      "path": "novels/024/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "The Corner at Six",
+      "path": "novels/024/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Monday at Ten Oh Four",
+      "path": "novels/024/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Letters",
+      "path": "novels/024/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Tenure Notice",
+      "path": "novels/024/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Rubric",
+      "path": "novels/024/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Dean's Memorandum",
+      "path": "novels/024/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "The Friday-Night Draft",
+      "path": "novels/024/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Beaumont — Sarah at the Door",
+      "path": "novels/024/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Coffee at Ten",
+      "path": "novels/024/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Sunday Dinner",
+      "path": "novels/024/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The Past Tense",
+      "path": "novels/024/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "The Footnote",
+      "path": "novels/024/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Filed",
+      "path": "novels/024/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "401, After Hours",
+      "path": "novels/024/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The Dean's Counter-Move",
+      "path": "novels/024/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Five Days",
+      "path": "novels/024/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Spring Semester",
+      "path": "novels/024/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "March Seventeen",
+      "path": "novels/024/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Black Moment",
+      "path": "novels/024/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Beaumont — Fourteen Days",
+      "path": "novels/024/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Two-to-One",
+      "path": "novels/024/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Six Fifty-One",
+      "path": "novels/024/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The Long Bedroom",
+      "path": "novels/024/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "The Cambridge Email",
+      "path": "novels/024/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The First Sunday in May",
+      "path": "novels/024/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Commencement",
+      "path": "novels/024/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Beaumont — The Letter",
+      "path": "novels/024/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Twenty-Three Hillhouse",
+      "path": "novels/024/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "The Third Year",
+      "path": "novels/024/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

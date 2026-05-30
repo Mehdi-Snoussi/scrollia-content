@@ -1,0 +1,323 @@
+{
+  "id": "042",
+  "title": "The Tea Master",
+  "subtitle": "\"The immortal heavens offered me ascension. I declined. I opened a teahouse on the road between the Five Sects. My customers included demons, elders, and one very persistent Heavenly Emperor.\"",
+  "penName": "Feng Qi",
+  "genre": "cultivationXianxia",
+  "hook": "I reached the Nascent Soul stage at thirty-one. I declined ascension. The immortal heavens were, frankly, exhausting. I built a teahouse on the pilgrimage road between the Five Sects, six days from the nearest city. My sign said *Feng's Humble Cup.* My first customer was a demon on the run. My second was a sect elder in disguise. My third was a widowed swordsman who had stopped looking for vengeance and started looking for peace. I poured tea. I listened. I refused to fight anyone. My cultivation improved anyway.",
+  "coverPath": "covers/042.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "2/5 (Ch 30 kiss, Ch 42 closed-door)",
+  "subtropes": [
+    "cozy cultivation",
+    "retired-immortal",
+    "teahouse",
+    "customer-ensemble",
+    "non-combat progression",
+    "gentle widowed romance"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Teahouse on Pebble Lane",
+      "path": "novels/042/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The First Morning",
+      "path": "novels/042/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Regulars",
+      "path": "novels/042/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Winter",
+      "path": "novels/042/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Spring",
+      "path": "novels/042/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Summer and Autumn",
+      "path": "novels/042/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "The Second Year",
+      "path": "novels/042/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Old Yu",
+      "path": "novels/042/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Linlin at Ten",
+      "path": "novels/042/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The Years Pass",
+      "path": "novels/042/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "The Master-Tea",
+      "path": "novels/042/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Linlin's Husband",
+      "path": "novels/042/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "The Succession",
+      "path": "novels/042/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Mei Lan's First Tea",
+      "path": "novels/042/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "The Last Years",
+      "path": "novels/042/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Linlin Speaks",
+      "path": "novels/042/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "The First Year After",
+      "path": "novels/042/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "The Decade After",
+      "path": "novels/042/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Mei Lan's Master-Tea",
+      "path": "novels/042/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Linlin's Death",
+      "path": "novels/042/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Mei Lan",
+      "path": "novels/042/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Bao Hua",
+      "path": "novels/042/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Hua Yi",
+      "path": "novels/042/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Subsequent Masters",
+      "path": "novels/042/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Fifteenth and Sixteenth Masters",
+      "path": "novels/042/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Masters Seventeen Through Twenty",
+      "path": "novels/042/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Masters Twenty-One Through Twenty-Five",
+      "path": "novels/042/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "The Long Roll",
+      "path": "novels/042/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Masters Thirty-Six Through Forty-Five",
+      "path": "novels/042/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Masters Forty-Six Through Sixty",
+      "path": "novels/042/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Masters Sixty-One Through Seventy-Five",
+      "path": "novels/042/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The Centennial Master",
+      "path": "novels/042/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "The Subsequent Century",
+      "path": "novels/042/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Third Millennium",
+      "path": "novels/042/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Masters Two Hundred and One Through Two Hundred and Fifty",
+      "path": "novels/042/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Masters Two Hundred and Fifty-One Through Three Hundred",
+      "path": "novels/042/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Present Master",
+      "path": "novels/042/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "What the Teahouse Is",
+      "path": "novels/042/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "The Tea-Garden",
+      "path": "novels/042/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Tea-Cup Shelf",
+      "path": "novels/042/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "The Long-Bench Cups",
+      "path": "novels/042/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Old Wei Liang",
+      "path": "novels/042/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "My Apprentice",
+      "path": "novels/042/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The Daily Morning",
+      "path": "novels/042/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Closing",
+      "path": "novels/042/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "An Archive Note",
+      "path": "novels/042/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Wei Liang Speaks",
+      "path": "novels/042/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Mira Tao's Death",
+      "path": "novels/042/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The Final Note",
+      "path": "novels/042/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "A Morning at the Teahouse",
+      "path": "novels/042/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

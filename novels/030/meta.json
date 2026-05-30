@@ -1,0 +1,323 @@
+{
+  "id": "030",
+  "title": "Crown & Contract",
+  "subtitle": "\"The Crown Prince of Volarna needed a wife in four weeks or lose the throne to his younger brother. The palace's HR department hired me.\"",
+  "penName": "Svetlana Voss",
+  "genre": "contractMarriage",
+  "hook": "Volarna is a small kingdom on the Adriatic that nobody in America could find on a map. I was a pediatric ICU nurse at a Zagreb hospital who spoke four languages because my Croatian grandmother had insisted. The palace's head of protocol hired me through a recruiter. The contract said Crown Prince Aleksandar needed a fiancée in four weeks or his younger brother Dmitar would win the throne under a 1923 succession clause. The salary was six figures, hazard-pay included. I signed because my nephew needed surgery. The Prince met me at the airport. He looked like he had not slept in a week.",
+  "coverPath": "covers/030.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "4/5 (Ch 20, 31, 42)",
+  "subtropes": [
+    "prince",
+    "commoner",
+    "contract marriage",
+    "succession crisis",
+    "fictional European kingdom",
+    "nurse FMC"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Hole in Luka's Heart",
+      "path": "novels/030/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Aleksandra Kovač",
+      "path": "novels/030/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Baka Nada",
+      "path": "novels/030/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Eleven Clauses",
+      "path": "novels/030/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Signature",
+      "path": "novels/030/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Aleks — The Brief on Mila",
+      "path": "novels/030/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Seventy-Four Minutes",
+      "path": "novels/030/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Vornik Airfield",
+      "path": "novels/030/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Photograph",
+      "path": "novels/030/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Palace Vornik",
+      "path": "novels/030/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Protocol Training Day One",
+      "path": "novels/030/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Mama, Luka, Bagger",
+      "path": "novels/030/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "The Constitutional Council",
+      "path": "novels/030/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "The Yellow Drawing Room",
+      "path": "novels/030/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "The Palace Kitchens",
+      "path": "novels/030/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Kruna Žila",
+      "path": "novels/030/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "The Orsina Ribbon",
+      "path": "novels/030/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Aleks — Le Rosey, 1999",
+      "path": "novels/030/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The Oravna Rink",
+      "path": "novels/030/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "The Library, Tuesday",
+      "path": "novels/030/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Wednesday Morning",
+      "path": "novels/030/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "The Fifth of February",
+      "path": "novels/030/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Step-Down Unit",
+      "path": "novels/030/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Petra at the Guest House",
+      "path": "novels/030/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Midpoint — The Decision",
+      "path": "novels/030/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Treasury Meeting",
+      "path": "novels/030/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Natasha — A Private Dinner",
+      "path": "novels/030/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "The Four Members",
+      "path": "novels/030/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Petros Krizan's Office",
+      "path": "novels/030/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Aleks — The Seventh of July",
+      "path": "novels/030/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "The Saturday Afternoon",
+      "path": "novels/030/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Petra's Network",
+      "path": "novels/030/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "The Eighteen-Forty-Three Statute",
+      "path": "novels/030/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Crans-Montana, 1999",
+      "path": "novels/030/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Brkić Speaks",
+      "path": "novels/030/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Natasha's Advice",
+      "path": "novels/030/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Small Saint Vitalis Chapel",
+      "path": "novels/030/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Court Hearing",
+      "path": "novels/030/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "The Bogdanović Threat",
+      "path": "novels/030/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Black Moment",
+      "path": "novels/030/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Aleks — The Choice",
+      "path": "novels/030/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "The Library, Saturday Night",
+      "path": "novels/030/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Tabling Day",
+      "path": "novels/030/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The First Speech",
+      "path": "novels/030/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Dmitar and Petra",
+      "path": "novels/030/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Public Reconciliation",
+      "path": "novels/030/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Easter Saturday in Maksimir",
+      "path": "novels/030/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "The Inner Courtyard",
+      "path": "novels/030/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Aleks — The Coronation",
+      "path": "novels/030/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — The Small Kitchen",
+      "path": "novels/030/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

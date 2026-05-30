@@ -1,0 +1,322 @@
+{
+  "id": "039",
+  "title": "The Fourteenth Loop",
+  "subtitle": "\"Every week is the same week. I have lived it thirteen times. On the fourteenth loop I stop trying to save everyone and start trying to figure out what the System wants.\"",
+  "penName": "Eliot Mahr",
+  "genre": "regressionTimeloop",
+  "hook": "The week begins on Monday. It ends on Sunday at 11:47 PM. On the first loop I tried to save my sister. On the second I tried to save the kids in the school bus. On the third I tried to save the town. By the thirteenth loop I had watched everyone I know die in every combination of ways. On the fourteenth loop I sat down at my kitchen table on Monday at 6:14 AM and I did not go outside. I read the System notification that had always been there and I had always ignored.",
+  "coverPath": "covers/039.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "2/5 (Ch 32 closed-door, Lys)",
+  "subtropes": [
+    "7-day time loop",
+    "save-everyone-failures",
+    "smart MC",
+    "system mystery",
+    "one-anomaly-companion"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Monday 6:14 AM",
+      "path": "novels/039/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Second Loop",
+      "path": "novels/039/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Third Loop",
+      "path": "novels/039/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Loop Four",
+      "path": "novels/039/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Notebook",
+      "path": "novels/039/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Lys at the Library",
+      "path": "novels/039/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "The Sixth Loop",
+      "path": "novels/039/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Loops Compressing",
+      "path": "novels/039/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Acknowledgment",
+      "path": "novels/039/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Lys's Second Memory",
+      "path": "novels/039/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Erik Voss Senior",
+      "path": "novels/039/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Robert Voss in Bangor",
+      "path": "novels/039/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "The Monday After",
+      "path": "novels/039/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "The Salt-Marsh",
+      "path": "novels/039/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "The Decision",
+      "path": "novels/039/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The First Year",
+      "path": "novels/039/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "The Second Year",
+      "path": "novels/039/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "The Third Year",
+      "path": "novels/039/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The Fourth Year",
+      "path": "novels/039/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "The Other Six Teams",
+      "path": "novels/039/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "The First Year of the Subsequent",
+      "path": "novels/039/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Helen at Eighteen",
+      "path": "novels/039/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Owen",
+      "path": "novels/039/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "The First Century",
+      "path": "novels/039/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Anomaly Within the Anomaly",
+      "path": "novels/039/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Mara's Rotation",
+      "path": "novels/039/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The First Millennium",
+      "path": "novels/039/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Lys's First Rotation",
+      "path": "novels/039/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "My First Rotation",
+      "path": "novels/039/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Second Millennium",
+      "path": "novels/039/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Year 2143 — Helen's Line",
+      "path": "novels/039/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The Third Millennium",
+      "path": "novels/039/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Year 3201 — Owen's Line",
+      "path": "novels/039/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Fourth Millennium",
+      "path": "novels/039/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Year 4318 — The Improvement",
+      "path": "novels/039/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Year 4500 — Bangor",
+      "path": "novels/039/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Year 4700 — Sasen's First Laugh",
+      "path": "novels/039/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Year 4800 — Helena's Recruitment",
+      "path": "novels/039/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Year 4850 — The Training",
+      "path": "novels/039/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Year 4900 — The Sevenfold-Architecture",
+      "path": "novels/039/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Year 4950 — The Final Decade",
+      "path": "novels/039/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Year 4970 — Mara's Choice",
+      "path": "novels/039/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Year 4980 — The Plan",
+      "path": "novels/039/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Year 4990 — The Last Decade",
+      "path": "novels/039/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Year 4999 — The Last Year",
+      "path": "novels/039/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Year 5000 — November",
+      "path": "novels/039/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Year 5000 — December",
+      "path": "novels/039/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Two Days",
+      "path": "novels/039/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The Stone-Circle, December Thirty-First",
+      "path": "novels/039/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "The Week After Forever",
+      "path": "novels/039/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "heavy"
+}

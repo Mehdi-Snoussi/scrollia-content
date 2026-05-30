@@ -1,0 +1,323 @@
+{
+  "id": "046",
+  "title": "Dungeon and Breakfast",
+  "subtitle": "\"I woke up as a dungeon core in the basement of a retired farmer. The System said I was supposed to kill and eat adventurers. I opened a bed-and-breakfast instead.\"",
+  "penName": "Hollowell Vine",
+  "genre": "dungeonTower",
+  "hook": "I was a dungeon core. The System installed me in the basement of Old Barnaby Finn's farmhouse on a Tuesday. The System's welcome notification said I should lure adventurers down, kill them, absorb their mana, and level my floors. I thought about this for four hours. I did not agree. I spawned my first monster — a confused house goblin — and asked her to help me design a welcome mat. Six weeks later I had three floors, two goblins, one minotaur who preferred gardening to guarding, and a laminated menu at the entrance.",
+  "coverPath": "covers/046.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "0/5 (sub-plot priestess romance is courtly + epistolary; no on-page intimacy)",
+  "subtropes": [
+    "Dungeon-core MC",
+    "cozy",
+    "non-combat",
+    "hospitality progression",
+    "monster ensemble",
+    "found family"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Dungeon Core",
+      "path": "novels/046/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The First Morning",
+      "path": "novels/046/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Prim",
+      "path": "novels/046/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Edgar Wescott",
+      "path": "novels/046/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Permit",
+      "path": "novels/046/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "The Second Floor",
+      "path": "novels/046/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "The Hiker",
+      "path": "novels/046/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Word Spreads",
+      "path": "novels/046/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Adventurer",
+      "path": "novels/046/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Tuesday",
+      "path": "novels/046/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Peach",
+      "path": "novels/046/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Mynx",
+      "path": "novels/046/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "The First Letter",
+      "path": "novels/046/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Henrietta",
+      "path": "novels/046/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Alys",
+      "path": "novels/046/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Letters",
+      "path": "novels/046/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Reverend Coll",
+      "path": "novels/046/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Edgar at Ninety-Eight",
+      "path": "novels/046/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The Children",
+      "path": "novels/046/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "The Garden",
+      "path": "novels/046/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "The Writ",
+      "path": "novels/046/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "The Assessor",
+      "path": "novels/046/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Vorish Stays",
+      "path": "novels/046/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Winter",
+      "path": "novels/046/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Children Garden",
+      "path": "novels/046/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Brennan Returns",
+      "path": "novels/046/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Hester",
+      "path": "novels/046/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Alys, Closer",
+      "path": "novels/046/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Spring Into Summer",
+      "path": "novels/046/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Reading-Parlor",
+      "path": "novels/046/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "November Routine",
+      "path": "novels/046/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The Reply",
+      "path": "novels/046/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Preparation",
+      "path": "novels/046/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Community Arrives",
+      "path": "novels/046/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Long Breakfast",
+      "path": "novels/046/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The Observation",
+      "path": "novels/046/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Departure",
+      "path": "novels/046/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Winter Settles",
+      "path": "novels/046/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Spring",
+      "path": "novels/046/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Wedding",
+      "path": "novels/046/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Summer",
+      "path": "novels/046/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Autumn",
+      "path": "novels/046/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Almost-Anniversary",
+      "path": "novels/046/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The Music-Parlor",
+      "path": "novels/046/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "The Second Year",
+      "path": "novels/046/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Tier 4",
+      "path": "novels/046/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Autumn of the Second Year",
+      "path": "novels/046/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Spring of the Third Year",
+      "path": "novels/046/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "A Quiet Day",
+      "path": "novels/046/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "A Wednesday Morning at the B&B",
+      "path": "novels/046/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

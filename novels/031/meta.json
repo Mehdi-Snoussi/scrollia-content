@@ -1,0 +1,322 @@
+{
+  "id": "031",
+  "title": "Quartet",
+  "subtitle": "\"They needed a fifth musician for a twelve-city tour. By week three I had four men in my bed and a rock album to finish.\"",
+  "penName": "Juniper Cash",
+  "genre": "reverseHarem",
+  "hook": "Midsummer Descent lost their touring violinist to a motorcycle accident three weeks before their North American tour. I was Juniper Cash, a twenty-eight-year-old session violinist in Nashville with two hundred and eleven session credits and exactly nine thousand dollars in savings. The band's manager offered me the tour. Twelve cities. Forty-two days on a bus with four men. The singer was Gideon. The guitarist was Rook. The bassist was Colm. The drummer was Vesper. By week two I was too tired to pretend. By week three the Moon Goddess of rock music had chosen me four times.",
+  "coverPath": "covers/031.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "5/5 (Ch 12, 19, 25, 31, 38, 44, 49 — seven scenes, varied partners)",
+  "subtropes": [
+    "Why Choose",
+    "rock band",
+    "tour bus",
+    "session musician FMC",
+    "four distinct-archetype heroes"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Wheels Up Sunday",
+      "path": "novels/031/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Hagan Rehearsal Space",
+      "path": "novels/031/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Prevost",
+      "path": "novels/031/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Bowling Green to Boston",
+      "path": "novels/031/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Soundcheck, TD Garden",
+      "path": "novels/031/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Gideon — The Brooklyn Pause",
+      "path": "novels/031/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Madison Square Garden",
+      "path": "novels/031/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Soundcheck Solo, MSG",
+      "path": "novels/031/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "On-Stage Chemistry",
+      "path": "novels/031/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The Prevost Conversation",
+      "path": "novels/031/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Philadelphia",
+      "path": "novels/031/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Eleven Twenty-One",
+      "path": "novels/031/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "The Bus to DC",
+      "path": "novels/031/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Capital One Arena",
+      "path": "novels/031/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Rook — The Echo Mountain Porch",
+      "path": "novels/031/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "State Farm Arena, Atlanta",
+      "path": "novels/031/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Brooklyn, Referenced",
+      "path": "novels/031/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "United Center, Chicago",
+      "path": "novels/031/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Room Three-Thirty-Two",
+      "path": "novels/031/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Wyatt's Patch Library",
+      "path": "novels/031/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "The Chicago Show",
+      "path": "novels/031/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Colm — The Galway Register",
+      "path": "novels/031/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Fiserv Forum, Milwaukee",
+      "path": "novels/031/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Míniú, Fíor",
+      "path": "novels/031/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Midpoint — The Three of Four",
+      "path": "novels/031/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Moody Center, Austin",
+      "path": "novels/031/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Ball Arena, Denver",
+      "path": "novels/031/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Vesper — Amsterdam Grandmother",
+      "path": "novels/031/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "The Bus to Seattle",
+      "path": "novels/031/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Climate Pledge Arena",
+      "path": "novels/031/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Eleven Fifty-Six",
+      "path": "novels/031/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The TMZ Story",
+      "path": "novels/031/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "The Press Conference",
+      "path": "novels/031/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Drew, Off-Stage",
+      "path": "novels/031/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Security Brief",
+      "path": "novels/031/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Group POV — The Prevost",
+      "path": "novels/031/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Chase Center, San Francisco",
+      "path": "novels/031/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Third and Howard",
+      "path": "novels/031/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "The Letter",
+      "path": "novels/031/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Black Moment",
+      "path": "novels/031/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "She Stays",
+      "path": "novels/031/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "The Forum",
+      "path": "novels/031/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Group POV — The Forum",
+      "path": "novels/031/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Bridgestone Arena, Nashville",
+      "path": "novels/031/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Post-Tour Nashville",
+      "path": "novels/031/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "House Hunting",
+      "path": "novels/031/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Wedgewood-Houston Reunion",
+      "path": "novels/031/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "The Closing",
+      "path": "novels/031/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The Third-Floor Attic Studio",
+      "path": "novels/031/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — One Year",
+      "path": "novels/031/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

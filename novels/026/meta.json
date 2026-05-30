@@ -1,0 +1,323 @@
+{
+  "id": "026",
+  "title": "Back to Big Timber",
+  "subtitle": "\"He left our small Montana town at nineteen. Five years later I moved back with our four-year-old daughter and he was the first person I saw.\"",
+  "penName": "Tess Harrow",
+  "genre": "secretPregnancy",
+  "hook": "I left Big Timber, Montana at nineteen carrying two things: a bag of clothes and a secret I hadn't yet named. My daughter Poppy was born seven months later in Missoula, where I finished nursing school while my mother helped with nights. Five years later my mother died. I moved back to Big Timber with Poppy to settle the house. Wyatt Ash was the first person I saw. He was standing at the hardware store he now owned since his father died. He looked at Poppy. He looked at me. He said, \"Tess.\"",
+  "coverPath": "covers/026.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "3.5/5 (Ch 5 flashback 3/5, Ch 24, Ch 36, Ch 46)",
+  "subtropes": [
+    "secret baby",
+    "second chance",
+    "ghosted-ex returns",
+    "small-town reunion",
+    "rancher hero",
+    "single-mom FMC"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Wednesday at Three",
+      "path": "novels/026/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Pipe in the Basement",
+      "path": "novels/026/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Ash's Hardware",
+      "path": "novels/026/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "The Diner at Six",
+      "path": "novels/026/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "May 2021",
+      "path": "novels/026/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Wyatt — The Bell at Seven Fifty-Two",
+      "path": "novels/026/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Sheriff Hank",
+      "path": "novels/026/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Question at Bedtime",
+      "path": "novels/026/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Porch Step on Sunday",
+      "path": "novels/026/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The Furnace on Monday",
+      "path": "novels/026/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "The Ash Ranch",
+      "path": "novels/026/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "The Clinic on Wednesday",
+      "path": "novels/026/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Miss Junie's",
+      "path": "novels/026/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "What Happened in Seattle",
+      "path": "novels/026/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "The Test on Friday",
+      "path": "novels/026/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Eli",
+      "path": "novels/026/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Kate at the Diner",
+      "path": "novels/026/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Wyatt — At Eli's Stone",
+      "path": "novels/026/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The First Ride on Belle",
+      "path": "novels/026/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Walter Brody's Office",
+      "path": "novels/026/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Pete Petersen's Shetland",
+      "path": "novels/026/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Well-Baby Tuesday",
+      "path": "novels/026/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Saturday at Boomer's",
+      "path": "novels/026/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Saturday at the House",
+      "path": "novels/026/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Kate at the Kitchen Table",
+      "path": "novels/026/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Round Pen in May",
+      "path": "novels/026/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Aaron",
+      "path": "novels/026/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Wyatt — Item Nine on the List",
+      "path": "novels/026/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Wednesday at the Kitchen Table",
+      "path": "novels/026/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Bill of Sale",
+      "path": "novels/026/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "The Birthday Party Kate Did Not Invite Him To",
+      "path": "novels/026/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Hank's Porch in July",
+      "path": "novels/026/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Sunday at Sherman Street",
+      "path": "novels/026/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Memorial at the Lutheran Church",
+      "path": "novels/026/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The November Blizzard",
+      "path": "novels/026/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Saturday in November",
+      "path": "novels/026/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Petition from Bozeman",
+      "path": "novels/026/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Walter's Office on Friday",
+      "path": "novels/026/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "The Casseroles That Week",
+      "path": "novels/026/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Night Kate Called",
+      "path": "novels/026/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "The Deaconess",
+      "path": "novels/026/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Kate at the Kitchen Table, Again",
+      "path": "novels/026/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Three-Year Coin at Kate's Kitchen",
+      "path": "novels/026/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Saturdays at Sherman Street",
+      "path": "novels/026/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "At Eli's Stone",
+      "path": "novels/026/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Cabin",
+      "path": "novels/026/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Back Room",
+      "path": "novels/026/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Wyatt — The Letter for Eli",
+      "path": "novels/026/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The Lutheran Chapel",
+      "path": "novels/026/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — The South Pasture",
+      "path": "novels/026/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

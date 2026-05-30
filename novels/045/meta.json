@@ -1,0 +1,322 @@
+{
+  "id": "045",
+  "title": "Floor Thirty-Nine",
+  "subtitle": "\"Humanity had cleared thirty-eight floors of the Tower in sixty years. Floor Thirty-Nine was where we started losing. I was the first Rank E to clear it solo.\"",
+  "penName": "Eren Halverson",
+  "genre": "dungeonTower",
+  "hook": "The Tower appeared in 1964. In sixty years humanity had cleared thirty-eight floors. Floor Thirty-Nine was where our best Rank S-plus warriors had been dying for nineteen years. I was twenty-two, Rank F-minus (the lowest rank the Tower registered), and a part-time porter at the Guild Hall in Seattle. I entered the Tower because my sister's medical bills would otherwise take her from me. I awakened a hidden class on Floor One. I was the first Rank F on record to clear it solo. Floor Thirty-Nine was still seventy-seven stories above me.",
+  "coverPath": "covers/045.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "2/5 (Ch 38 closed-door, Rose)",
+  "subtropes": [
+    "solo climb",
+    "Rank F underdog",
+    "hidden class",
+    "floor-by-floor progression",
+    "guild politics"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Tower",
+      "path": "novels/045/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Pale Concourse",
+      "path": "novels/045/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Lantern Wood",
+      "path": "novels/045/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Courtyard of Fallen",
+      "path": "novels/045/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Whisperhall",
+      "path": "novels/045/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Nora",
+      "path": "novels/045/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Salt Stairs",
+      "path": "novels/045/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Eighth",
+      "path": "novels/045/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Floor Nine Boss",
+      "path": "novels/045/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Seabasilica",
+      "path": "novels/045/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "The Eight",
+      "path": "novels/045/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "The Glass Forest",
+      "path": "novels/045/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Tide and Bone",
+      "path": "novels/045/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "The Middle Floors",
+      "path": "novels/045/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "The Hollow-Ledger",
+      "path": "novels/045/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The Telling",
+      "path": "novels/045/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Rose",
+      "path": "novels/045/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Floors Twenty-Two to Twenty-Four",
+      "path": "novels/045/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The Aviary",
+      "path": "novels/045/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Floors Twenty-Six and Twenty-Seven",
+      "path": "novels/045/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Maritza",
+      "path": "novels/045/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Floors Twenty-Nine and Thirty",
+      "path": "novels/045/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Conversation",
+      "path": "novels/045/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "The Kiss",
+      "path": "novels/045/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Ironroot",
+      "path": "novels/045/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Choice Spoken",
+      "path": "novels/045/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Inner Door",
+      "path": "novels/045/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "The Architect's Reply",
+      "path": "novels/045/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "The Passage",
+      "path": "novels/045/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Transformation",
+      "path": "novels/045/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "The Reading-Room",
+      "path": "novels/045/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The Descent",
+      "path": "novels/045/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Boston",
+      "path": "novels/045/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Funeral",
+      "path": "novels/045/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Apartment",
+      "path": "novels/045/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The Joint-Administration",
+      "path": "novels/045/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Election",
+      "path": "novels/045/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Memorial",
+      "path": "novels/045/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Nora",
+      "path": "novels/045/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The First Year",
+      "path": "novels/045/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Spring at the Library",
+      "path": "novels/045/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Summer",
+      "path": "novels/045/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Lowell to Library",
+      "path": "novels/045/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The Anniversary",
+      "path": "novels/045/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "The Wedding",
+      "path": "novels/045/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Second Year",
+      "path": "novels/045/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Henrik's Stockholm",
+      "path": "novels/045/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Ten Years",
+      "path": "novels/045/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The Reading Together",
+      "path": "novels/045/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "A Morning at the Library",
+      "path": "novels/045/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

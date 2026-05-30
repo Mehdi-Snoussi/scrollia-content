@@ -1,0 +1,316 @@
+{
+  "id": "007",
+  "title": "Rejected by the Alpha King",
+  "subtitle": "",
+  "penName": "Selene Faulkner",
+  "genre": "werewolf",
+  "hook": "",
+  "coverPath": "covers/007.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": null,
+  "subtropes": [],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Cart",
+      "path": "novels/007/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Hall of Vahlborg",
+      "path": "novels/007/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Scenting",
+      "path": "novels/007/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Three Words",
+      "path": "novels/007/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Caelan — The Reasons",
+      "path": "novels/007/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "The Forest",
+      "path": "novels/007/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Vail",
+      "path": "novels/007/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Trials",
+      "path": "novels/007/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Manifestation",
+      "path": "novels/007/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Vael",
+      "path": "novels/007/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Five Years On",
+      "path": "novels/007/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "The Silver Crown at the Gate",
+      "path": "novels/007/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "The Hall, Again",
+      "path": "novels/007/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "The East Wing",
+      "path": "novels/007/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Sarah Chen",
+      "path": "novels/007/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Caelan — What He Did",
+      "path": "novels/007/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "The Council of the Border",
+      "path": "novels/007/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "The Garden",
+      "path": "novels/007/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Lord Marek",
+      "path": "novels/007/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "The Second Garden",
+      "path": "novels/007/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "The Ninth Day",
+      "path": "novels/007/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "The Vellum",
+      "path": "novels/007/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "First Mating",
+      "path": "novels/007/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Sela Returns",
+      "path": "novels/007/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Marek's Trial",
+      "path": "novels/007/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Ferra's Cave",
+      "path": "novels/007/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Caelan — The Fourth Prophecy",
+      "path": "novels/007/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "The Fourth Prophecy",
+      "path": "novels/007/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Eastern Hills",
+      "path": "novels/007/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Departure",
+      "path": "novels/007/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "The Coast Road West",
+      "path": "novels/007/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Silver Strand",
+      "path": "novels/007/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "The Post-Route",
+      "path": "novels/007/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Sela at the Gate",
+      "path": "novels/007/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Third-Moon Visit",
+      "path": "novels/007/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The Fourth Moon",
+      "path": "novels/007/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Ninth Week",
+      "path": "novels/007/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Ride East",
+      "path": "novels/007/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "The Short Ride",
+      "path": "novels/007/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Hall at the First Bell",
+      "path": "novels/007/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "The Bi-Crown",
+      "path": "novels/007/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Nara-Tri",
+      "path": "novels/007/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Public Day",
+      "path": "novels/007/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The Telling",
+      "path": "novels/007/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "The Cart West",
+      "path": "novels/007/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Long Moons",
+      "path": "novels/007/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Alva and Linnea",
+      "path": "novels/007/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Vail and Sela",
+      "path": "novels/007/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The Fourth Sentence",
+      "path": "novels/007/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Three Moons",
+      "path": "novels/007/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "heavy"
+}

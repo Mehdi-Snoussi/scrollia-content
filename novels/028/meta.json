@@ -1,0 +1,323 @@
+{
+  "id": "028",
+  "title": "Return to Blackwell",
+  "subtitle": "\"Two years after my husband died, I moved to the Vermont house he left me. My husband's oldest friend was still there, still taking care of it, still waiting.\"",
+  "penName": "Cece Voss",
+  "genre": "secondChance",
+  "hook": "My husband David died of a sudden cardiac event in our Brooklyn apartment at thirty-six. He left me his grandmother's lake house in Blackwell, Vermont — a place I had visited twice and not loved. Two years later I packed two bags and drove. Nate Hart opened the door. He was David's oldest friend, had been the best man at our wedding, had mowed this yard for the last decade. He said *Cece* and handed me a set of keys and a key lime pie. His hands shook. His hands had never shaken before. I understood.",
+  "coverPath": "covers/028.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "3.5/5 (Ch 24, 38, 47)",
+  "subtropes": [
+    "widow",
+    "first-love-that-might-have-been",
+    "vermont small-town",
+    "late husband's legacy",
+    "grief-integrated",
+    "slow-burn"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Seven Hours and Forty-One Minutes",
+      "path": "novels/028/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Pie on the Folding Table",
+      "path": "novels/028/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The First Week",
+      "path": "novels/028/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Wednesday at Six",
+      "path": "novels/028/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Wednesday Night — The Sweatshirts",
+      "path": "novels/028/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Lake Fern at Dawn",
+      "path": "novels/028/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Nate — Twelve Summers",
+      "path": "novels/028/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Saturday Morning at the Kitchen",
+      "path": "novels/028/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Nate's Confession",
+      "path": "novels/028/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Thursday at the Dock",
+      "path": "novels/028/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Three Days",
+      "path": "novels/028/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "The Bad Day",
+      "path": "novels/028/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Sheriff Dale",
+      "path": "novels/028/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "The 2018 Argument",
+      "path": "novels/028/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Dr. Moira on Tuesday at Four",
+      "path": "novels/028/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Lenore on the Phone",
+      "path": "novels/028/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Nate at the Kitchen Table",
+      "path": "novels/028/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Friday at Three",
+      "path": "novels/028/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Nate — The Lawyer Worry",
+      "path": "novels/028/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "The Saturday Walk",
+      "path": "novels/028/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "The Screened Porch",
+      "path": "novels/028/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "The First Sunday in December",
+      "path": "novels/028/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Wicker Couch",
+      "path": "novels/028/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "The Second Bedroom",
+      "path": "novels/028/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "David's Name",
+      "path": "novels/028/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "New Year's Eve at the Lake House",
+      "path": "novels/028/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "David's Study, on a Sunday in January",
+      "path": "novels/028/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "The Box",
+      "path": "novels/028/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "David's Letter",
+      "path": "novels/028/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Nate — Delia",
+      "path": "novels/028/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Wednesday at the Kitchen",
+      "path": "novels/028/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Winter Deepens",
+      "path": "novels/028/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "The New Creak",
+      "path": "novels/028/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Green-Wood, Saturday in March",
+      "path": "novels/028/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Mud Season",
+      "path": "novels/028/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The Second Saturday in May",
+      "path": "novels/028/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Sunday Morning, the Panic",
+      "path": "novels/028/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Bag",
+      "path": "novels/028/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Tuesday at Four",
+      "path": "novels/028/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Tuesday Evening",
+      "path": "novels/028/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Nate — The Mailed Ring",
+      "path": "novels/028/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "May Becomes June",
+      "path": "novels/028/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Saturday the Twenty-Sixth",
+      "path": "novels/028/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Bea at the Diner",
+      "path": "novels/028/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "The Saturday at the End of June",
+      "path": "novels/028/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Saturday the Ninth of October",
+      "path": "novels/028/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Third Spice — Sunday Morning, the Lake",
+      "path": "novels/028/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "The Study Decision",
+      "path": "novels/028/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Nate — The Crib",
+      "path": "novels/028/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — The Nursery",
+      "path": "novels/028/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

@@ -1,0 +1,316 @@
+{
+  "id": "009",
+  "title": "The Mechanic's Wolf",
+  "subtitle": "",
+  "penName": "Reagan Holt",
+  "genre": "werewolf",
+  "hook": "",
+  "coverPath": "covers/009.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": null,
+  "subtropes": [],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Radiator",
+      "path": "novels/009/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Diner",
+      "path": "novels/009/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Bea's Pie",
+      "path": "novels/009/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Cabin Rental",
+      "path": "novels/009/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Black SUV",
+      "path": "novels/009/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Cookies",
+      "path": "novels/009/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "The Reflection",
+      "path": "novels/009/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Recognition",
+      "path": "novels/009/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Wolf",
+      "path": "novels/009/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Three Questions",
+      "path": "novels/009/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Town Knows",
+      "path": "novels/009/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Dale",
+      "path": "novels/009/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Coffee at the Garage",
+      "path": "novels/009/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "The Bond",
+      "path": "novels/009/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Brad's Text",
+      "path": "novels/009/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "First Kiss",
+      "path": "novels/009/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "The Reason",
+      "path": "novels/009/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Cabin Move",
+      "path": "novels/009/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Solitude Ending",
+      "path": "novels/009/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Lou's Boat",
+      "path": "novels/009/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Pink Sky",
+      "path": "novels/009/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "First Mating",
+      "path": "novels/009/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Old Wolf",
+      "path": "novels/009/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Brad Calls",
+      "path": "novels/009/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Bea Tells",
+      "path": "novels/009/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Cedar Lake Memorial",
+      "path": "novels/009/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Bea's Story (Part Two)",
+      "path": "novels/009/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Postmaster's Mail",
+      "path": "novels/009/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "The Letter",
+      "path": "novels/009/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "His Pack",
+      "path": "novels/009/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Decision",
+      "path": "novels/009/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The SUV Returns",
+      "path": "novels/009/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Second Mating",
+      "path": "novels/009/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Pine Pressures",
+      "path": "novels/009/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Black Moment Begins",
+      "path": "novels/009/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Thursday Morning",
+      "path": "novels/009/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "John Hollis",
+      "path": "novels/009/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Network",
+      "path": "novels/009/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Pine Backs Off",
+      "path": "novels/009/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "What He Has to Lose",
+      "path": "novels/009/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Four-Forty-Four",
+      "path": "novels/009/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Town Stands",
+      "path": "novels/009/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Manuscript",
+      "path": "novels/009/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Chicago",
+      "path": "novels/009/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Decision",
+      "path": "novels/009/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Ring",
+      "path": "novels/009/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Dale Departs, Adam Arrives",
+      "path": "novels/009/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Father in Alaska",
+      "path": "novels/009/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The Wedding in the Diner",
+      "path": "novels/009/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — One Year",
+      "path": "novels/009/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "mild"
+}

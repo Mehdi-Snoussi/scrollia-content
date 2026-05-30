@@ -1,0 +1,323 @@
+{
+  "id": "023",
+  "title": "The Other Scott",
+  "subtitle": "\"The reclusive billionaire invited two journalists to her Capri villa. She neglected to mention the other invitee was my ex.\"",
+  "penName": "Alice Scott",
+  "genre": "enemiesToLovers",
+  "hook": "The invitation arrived on letterhead I had not seen since 1994: Vesper Amherst Holdings, the private foundation of the most reclusive woman in American media. I was Alice Scott, senior feature writer at The New Yorker. The invitation said I would receive the exclusive story of a lifetime if I came alone to Capri for three weeks. I was met at the villa by Vesper's assistant. Ten minutes later, Hayden Anderson walked in carrying a Bowery Mission duffel bag. Hayden, whose last email to me had been an apology I had not answered. My college boyfriend. The other journalist.",
+  "coverPath": "covers/023.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "4/5 (Ch 19, 30, 43)",
+  "subtropes": [
+    "rival journalists",
+    "second chance",
+    "forced proximity",
+    "NDA intrigue",
+    "italian island",
+    "reclusive billionaire subject"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Engraved Crane",
+      "path": "novels/023/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Forwarded Envelope",
+      "path": "novels/023/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "West Wing",
+      "path": "novels/023/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "East Wing",
+      "path": "novels/023/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Olive Oil First",
+      "path": "novels/023/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "By Year, Not By Author",
+      "path": "novels/023/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "FMD on the Verso",
+      "path": "novels/023/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Lower Terrace",
+      "path": "novels/023/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Seven Transactions",
+      "path": "novels/023/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Clause 14",
+      "path": "novels/023/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Annette Loring",
+      "path": "novels/023/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "The Library Has Acoustics",
+      "path": "novels/023/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "What She Took Out",
+      "path": "novels/023/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "The Eighth Transaction",
+      "path": "novels/023/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Frances Knew",
+      "path": "novels/023/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The Bergen Morning",
+      "path": "novels/023/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Aftenposten 2023",
+      "path": "novels/023/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Why I Left",
+      "path": "novels/023/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Unsent",
+      "path": "novels/023/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "The Eight Feet",
+      "path": "novels/023/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "What Iris Wants",
+      "path": "novels/023/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Hayden Anderson Has Been My Instrument",
+      "path": "novels/023/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Eliza Knew",
+      "path": "novels/023/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "The Hold",
+      "path": "novels/023/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Green Pencil",
+      "path": "novels/023/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Carroll Gardens",
+      "path": "novels/023/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Frances Section",
+      "path": "novels/023/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Rye Bread on the Loggia",
+      "path": "novels/023/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Evan on the List",
+      "path": "novels/023/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Library at Eleven",
+      "path": "novels/023/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Three to Nine Weeks",
+      "path": "novels/023/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Krasner",
+      "path": "novels/023/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Aunt Frances",
+      "path": "novels/023/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Walsh",
+      "path": "novels/023/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Frances Was Right",
+      "path": "novels/023/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The Man at the Gate",
+      "path": "novels/023/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Eleven Minutes",
+      "path": "novels/023/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Bloomberg Item",
+      "path": "novels/023/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Reston at Ten Forty-Three",
+      "path": "novels/023/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "His Father's File",
+      "path": "novels/023/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Carroll Street at Six",
+      "path": "novels/023/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Carroll Street at Eleven",
+      "path": "novels/023/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "West Wing at Eleven",
+      "path": "novels/023/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Catullus",
+      "path": "novels/023/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "The First Proof",
+      "path": "novels/023/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Last Sentence",
+      "path": "novels/023/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Two Oh One",
+      "path": "novels/023/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Two Fifty-Eight",
+      "path": "novels/023/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Anacapri at Eleven",
+      "path": "novels/023/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "The Rosette Gate",
+      "path": "novels/023/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "heavy"
+}

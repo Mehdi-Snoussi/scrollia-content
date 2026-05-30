@@ -1,0 +1,323 @@
+{
+  "id": "050",
+  "title": "The Island She Returned To",
+  "subtitle": "\"My wife disappeared from a small island in Maine eleven months ago. I have been returning to the island every weekend since. Last Saturday she walked past the harbor café. She was not my wife.\"",
+  "penName": "Hugh Lark",
+  "genre": "mysteryThriller",
+  "hook": "My wife Mara disappeared from Folger Island, Maine, on September eleventh, eleven months ago. Her rental car was found at the harbor. Her phone was found at the harbor. She was not found. The coroner said she had walked into the water. Her father said she had run. I kept returning. Every weekend for eleven months I went back. On a Saturday in August I saw her walk past the harbor café window. I followed. It was not her. It was her. It was both at once.",
+  "coverPath": "covers/050.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "1/5",
+  "subtropes": [
+    "missing wife",
+    "lookalike stranger",
+    "maine island",
+    "widower protagonist",
+    "slow unravel",
+    "pharmaceutical conspiracy"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Ferry",
+      "path": "novels/050/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Notebook",
+      "path": "novels/050/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Halsey House",
+      "path": "novels/050/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "The Photocopy",
+      "path": "novels/050/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Schoolroom",
+      "path": "novels/050/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Carl",
+      "path": "novels/050/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "What Carl Knew",
+      "path": "novels/050/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Green Folder",
+      "path": "novels/050/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Nell",
+      "path": "novels/050/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The Second Board",
+      "path": "novels/050/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "The Drive",
+      "path": "novels/050/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Lara Crews",
+      "path": "novels/050/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "The Four of Us",
+      "path": "novels/050/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Agent Brevard",
+      "path": "novels/050/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Visible Behavior",
+      "path": "novels/050/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The Last Notebook Pages",
+      "path": "novels/050/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Dr. Karasik",
+      "path": "novels/050/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "The Wynn Kitchen",
+      "path": "novels/050/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The Map",
+      "path": "novels/050/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Carl, Again",
+      "path": "novels/050/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Two Days",
+      "path": "novels/050/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "The Briefing",
+      "path": "novels/050/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Cutter",
+      "path": "novels/050/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Helen",
+      "path": "novels/050/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Other Three",
+      "path": "novels/050/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "ICU",
+      "path": "novels/050/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Forty-Eight Hours",
+      "path": "novels/050/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Hugh",
+      "path": "novels/050/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Sisters",
+      "path": "novels/050/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Story Becomes Public",
+      "path": "novels/050/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Camden",
+      "path": "novels/050/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The Press",
+      "path": "novels/050/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Walking",
+      "path": "novels/050/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Others",
+      "path": "novels/050/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Grand Jury",
+      "path": "novels/050/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "April",
+      "path": "novels/050/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Closet, Again",
+      "path": "novels/050/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Trial",
+      "path": "novels/050/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "August",
+      "path": "novels/050/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Sentencing",
+      "path": "novels/050/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Civil",
+      "path": "novels/050/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "The Brownstone",
+      "path": "novels/050/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Two Houses",
+      "path": "novels/050/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Ezra",
+      "path": "novels/050/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Winter",
+      "path": "novels/050/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The First Three",
+      "path": "novels/050/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Karasik",
+      "path": "novels/050/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Two Years",
+      "path": "novels/050/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The Ferry, Together",
+      "path": "novels/050/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "The Last Page",
+      "path": "novels/050/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

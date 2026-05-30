@@ -318,5 +318,6 @@
       "path": "novels/018/ch050.json",
       "requiresPayment": true
     }
-  ]
+  ],
+  "auditBucket": "clean"
 }

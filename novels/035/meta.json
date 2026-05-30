@@ -1,0 +1,322 @@
+{
+  "id": "035",
+  "title": "The First Tier",
+  "subtitle": "\"At 11:47 on a Tuesday the sky cracked open and my PhD became useless. The System told me I was Rank F. It did not tell me I was the only person on the planet with a Null-affinity class.\"",
+  "penName": "Corin Adler",
+  "genre": "litrpgSystem",
+  "hook": "At 11:47 on a Tuesday the sky cracked open. A blue text box appeared in my field of vision that said **AWAKENING IN PROGRESS. DESIGNATING: CORIN ADLER. RANK F. CLASS: LINGUIST (NULL AFFINITY).** I was a twenty-eight-year-old PhD candidate in medieval studies at Columbia. My dissertation was on phonological drift in Middle English. The first thing that tried to kill me was a translated version of a goblin. I stayed alive because I could read the original script on its armor. The second thing that tried to kill me was worse.",
+  "coverPath": "covers/035.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "2/5 (brief Mira sub-plot Ch 32; closed-door)",
+  "subtropes": [
+    "modern-world system arrival",
+    "academic MC unexpected skills",
+    "urban apocalypse",
+    "slow progression",
+    "party formation"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Eleven Forty-Seven",
+      "path": "novels/035/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Thirty Blocks North",
+      "path": "novels/035/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Seventh Floor, Room Fourteen",
+      "path": "novels/035/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "The Nurses' Station",
+      "path": "novels/035/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Walk Back",
+      "path": "novels/035/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Night One",
+      "path": "novels/035/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Six in the Rotunda",
+      "path": "novels/035/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The First Run",
+      "path": "novels/035/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Knight on 109th Street",
+      "path": "novels/035/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Butler as Base",
+      "path": "novels/035/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Yasmine in the Network",
+      "path": "novels/035/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "The Node and the Stacks",
+      "path": "novels/035/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Jarrett at the Door",
+      "path": "novels/035/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Recon West",
+      "path": "novels/035/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Seventh Floor, Day Seven",
+      "path": "novels/035/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The Voice on the Stairs",
+      "path": "novels/035/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Jarrett's Voice",
+      "path": "novels/035/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Morgan Goes South",
+      "path": "novels/035/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Detective Ramos at the Gate",
+      "path": "novels/035/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "The Sanctum Skill",
+      "path": "novels/035/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "The Sergeants-at-Arms",
+      "path": "novels/035/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Praetor and the Museum",
+      "path": "novels/035/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Watch Rotation",
+      "path": "novels/035/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Nora's Catalog",
+      "path": "novels/035/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Cloisters",
+      "path": "novels/035/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Empire Escalates",
+      "path": "novels/035/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Harbor",
+      "path": "novels/035/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Augustus Reads Me",
+      "path": "novels/035/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "The Compulsion Architecture",
+      "path": "novels/035/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Nora at Rank F",
+      "path": "novels/035/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "The Hash",
+      "path": "novels/035/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Mira, at the End of the Day",
+      "path": "novels/035/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "The Threats",
+      "path": "novels/035/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Council Decides",
+      "path": "novels/035/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Drew's First Run",
+      "path": "novels/035/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Author",
+      "path": "novels/035/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Jarrett's Counter-Offer",
+      "path": "novels/035/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Jarrett",
+      "path": "novels/035/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Withdraw",
+      "path": "novels/035/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Long Night",
+      "path": "novels/035/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "The Interview",
+      "path": "novels/035/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "The Disestablishment",
+      "path": "novels/035/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The South Bronx",
+      "path": "novels/035/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Augustus on the Stand",
+      "path": "novels/035/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Mira at the End of the Day",
+      "path": "novels/035/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Nora at Rank E",
+      "path": "novels/035/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Council Sits",
+      "path": "novels/035/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Rank A",
+      "path": "novels/035/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The City",
+      "path": "novels/035/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Day One Hundred and Thirty-Five",
+      "path": "novels/035/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "heavy"
+}

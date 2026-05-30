@@ -1,0 +1,316 @@
+{
+  "id": "003",
+  "title": "Nanny to the Billionaire's Twins",
+  "subtitle": "",
+  "penName": "Reese Ballard",
+  "genre": "billionaireRomance",
+  "hook": "",
+  "coverPath": "covers/003.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": null,
+  "subtropes": [],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Woody Creek",
+      "path": "novels/003/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Breakfast",
+      "path": "novels/003/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Estate",
+      "path": "novels/003/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Jackson — The Morning",
+      "path": "novels/003/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "First Walk",
+      "path": "novels/003/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Coffee at Five",
+      "path": "novels/003/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Emma's Test",
+      "path": "novels/003/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Third Nursery",
+      "path": "novels/003/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Hazel Moment",
+      "path": "novels/003/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "After Midnight",
+      "path": "novels/003/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "The Hymn",
+      "path": "novels/003/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Town",
+      "path": "novels/003/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "First Tears",
+      "path": "novels/003/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "The Photograph",
+      "path": "novels/003/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Jackson — Patience",
+      "path": "novels/003/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Sunday Dinner",
+      "path": "novels/003/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "The Hill",
+      "path": "novels/003/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Caleb Arrives",
+      "path": "novels/003/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The Phone Call from Boise",
+      "path": "novels/003/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "The Photograph, Again",
+      "path": "novels/003/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Preparation",
+      "path": "novels/003/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "The Birthmark",
+      "path": "novels/003/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Confrontation — Deflected",
+      "path": "novels/003/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "The Slip",
+      "path": "novels/003/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Jackson — The Truth",
+      "path": "novels/003/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Aftermath",
+      "path": "novels/003/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Girls",
+      "path": "novels/003/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Legal",
+      "path": "novels/003/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Boise Decision",
+      "path": "novels/003/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Mama",
+      "path": "novels/003/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Return",
+      "path": "novels/003/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Jackson — Watching Her Decide",
+      "path": "novels/003/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Adoption Motion",
+      "path": "novels/003/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Marta's Miguel",
+      "path": "novels/003/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Raptor",
+      "path": "novels/003/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "First Spicy Scene",
+      "path": "novels/003/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Grief Counselor",
+      "path": "novels/003/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Darlene's Departure",
+      "path": "novels/003/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Calvin's Shift",
+      "path": "novels/003/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Winter Deepens",
+      "path": "novels/003/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Trey Arrives",
+      "path": "novels/003/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Jackson — The Plan",
+      "path": "novels/003/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Denver",
+      "path": "novels/003/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Second Spicy Scene",
+      "path": "novels/003/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Trey on the Mountain",
+      "path": "novels/003/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Confrontation",
+      "path": "novels/003/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Pawnshop",
+      "path": "novels/003/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Jackson — Proposal Prep",
+      "path": "novels/003/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The Proposal",
+      "path": "novels/003/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — One Year",
+      "path": "novels/003/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "heavy"
+}

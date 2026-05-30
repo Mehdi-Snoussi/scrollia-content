@@ -1,0 +1,323 @@
+{
+  "id": "027",
+  "title": "The Reunion Tour",
+  "subtitle": "\"Three years after we signed the divorce papers, my father died. I asked my ex-husband to play at the funeral. He said yes before I finished the sentence.\"",
+  "penName": "Denver Lane",
+  "genre": "secondChance",
+  "hook": "Wes Kellen and I were married for five years. We divorced three years ago, cleanly, at a kitchen table with two lawyers and no blame. He went back to touring. I went back to running my father's guitar shop in Luckenbach, Texas. My father died on a Wednesday in March. I called Wes from the hospital parking lot. He was in Copenhagen. He said *I'll play, Remy, of course* before I got to *would you.* The band flew in Saturday. The grief unfolded. The divorce, it turned out, had been the wrong decision at the right time.",
+  "coverPath": "covers/027.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "4/5 (Ch 18, 29, 42)",
+  "subtropes": [
+    "divorce reunion",
+    "rockstar hero",
+    "family death catalyst",
+    "texas small-town",
+    "tour-together",
+    "sobriety arc"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Copenhagen, Three Forty-Seven",
+      "path": "novels/027/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Shop on Wednesday",
+      "path": "novels/027/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Band at the Shop",
+      "path": "novels/027/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Saturday Morning",
+      "path": "novels/027/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Seventh Loaf",
+      "path": "novels/027/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Wes — Seat 14A",
+      "path": "novels/027/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Eleven Forty-Six at the Church",
+      "path": "novels/027/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Walk to the Plot",
+      "path": "novels/027/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Healing Hands of Time",
+      "path": "novels/027/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The Couch in the Den",
+      "path": "novels/027/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "The First Week",
+      "path": "novels/027/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Walter Schiller's Office",
+      "path": "novels/027/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Ray",
+      "path": "novels/027/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Item One Hundred and Four",
+      "path": "novels/027/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "The Second Week",
+      "path": "novels/027/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The Call to Brett Cohen",
+      "path": "novels/027/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Wes — Saint Andrew's, Tuesday at Seven",
+      "path": "novels/027/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Friday Night in Luckenbach",
+      "path": "novels/027/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Brett's Second Call",
+      "path": "novels/027/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "The Moody Theater",
+      "path": "novels/027/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "The Long-Distance Week",
+      "path": "novels/027/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Mama's Small Tuesday Comment",
+      "path": "novels/027/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Bound Volume",
+      "path": "novels/027/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Stubb's on a Saturday",
+      "path": "novels/027/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Brett's Office in September",
+      "path": "novels/027/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Eleven Days",
+      "path": "novels/027/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Saturday at Six",
+      "path": "novels/027/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Wes — The Hotel Bar at the Driskill",
+      "path": "novels/027/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "The Driskill, Told",
+      "path": "novels/027/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Coin That Was Coming",
+      "path": "novels/027/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "The Two-Year Coin at Lynda's Kitchen",
+      "path": "novels/027/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Billy Pace at the Luckenbach Inn",
+      "path": "novels/027/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "The Mortgage Notice",
+      "path": "novels/027/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Hanson Gold",
+      "path": "novels/027/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Sunday at the Kitchen Table",
+      "path": "novels/027/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Max Kellen at the Shop",
+      "path": "novels/027/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Wes — A Thought About Children",
+      "path": "novels/027/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Tuesday Email",
+      "path": "novels/027/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Wes — The Friday Drive",
+      "path": "novels/027/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Saturday at the Kitchen",
+      "path": "novels/027/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "The Saturday Morning Bedroom",
+      "path": "novels/027/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Six Weeks of Planning",
+      "path": "novels/027/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Back-Room Studio Plan",
+      "path": "novels/027/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The Last Continental",
+      "path": "novels/027/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "The Week Before",
+      "path": "novels/027/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Saturday Morning, Six Fourteen",
+      "path": "novels/027/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Wedding at the Shop",
+      "path": "novels/027/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Wes — The Letter for Toby",
+      "path": "novels/027/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The Honeymoon Drive",
+      "path": "novels/027/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — The Lane Room",
+      "path": "novels/027/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

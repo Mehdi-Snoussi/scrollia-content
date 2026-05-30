@@ -1,0 +1,316 @@
+{
+  "id": "012",
+  "title": "Bride of the Vitri",
+  "subtitle": "",
+  "penName": "Catarina Russo",
+  "genre": "darkMafia",
+  "hook": "",
+  "coverPath": "covers/012.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": null,
+  "subtropes": [],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Velvet Box",
+      "path": "novels/012/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Father's Office",
+      "path": "novels/012/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Lucia's Cross",
+      "path": "novels/012/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Saturday",
+      "path": "novels/012/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Vitri Estate",
+      "path": "novels/012/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "The Debt",
+      "path": "novels/012/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "First Dinner",
+      "path": "novels/012/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Phone Call",
+      "path": "novels/012/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Wedding",
+      "path": "novels/012/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Morning After",
+      "path": "novels/012/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Dante",
+      "path": "novels/012/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "The Killing",
+      "path": "novels/012/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Aftermath",
+      "path": "novels/012/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "The 1973 Story",
+      "path": "novels/012/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Carbone",
+      "path": "novels/012/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Sloan Calls",
+      "path": "novels/012/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Adriana",
+      "path": "novels/012/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "First",
+      "path": "novels/012/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Lia",
+      "path": "novels/012/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Tomasso",
+      "path": "novels/012/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Vinnie's Visit",
+      "path": "novels/012/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "The First Tear",
+      "path": "novels/012/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Dinner at Russos",
+      "path": "novels/012/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Bay Ridge Streets",
+      "path": "novels/012/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Lucia's Letter",
+      "path": "novels/012/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Second",
+      "path": "novels/012/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Sloan Visits",
+      "path": "novels/012/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "The First Wife Truth",
+      "path": "novels/012/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Antonio's Letter",
+      "path": "novels/012/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Sicily Trip Plan",
+      "path": "novels/012/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Sicily Arrival",
+      "path": "novels/012/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Nonna's Kitchen",
+      "path": "novels/012/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Antonio's Grave",
+      "path": "novels/012/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Decision",
+      "path": "novels/012/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "FBI in NYC",
+      "path": "novels/012/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Third",
+      "path": "novels/012/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Dante's Move",
+      "path": "novels/012/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Carbone Confrontation",
+      "path": "novels/012/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Marco's Decision",
+      "path": "novels/012/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Black Moment",
+      "path": "novels/012/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Hospital",
+      "path": "novels/012/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Dante Disappears",
+      "path": "novels/012/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Russo Reckoning",
+      "path": "novels/012/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Tomasso's Loyalty",
+      "path": "novels/012/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Fourth",
+      "path": "novels/012/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Marco Departs",
+      "path": "novels/012/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Confrontation",
+      "path": "novels/012/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Sloan's Wedding",
+      "path": "novels/012/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The 50-Year War",
+      "path": "novels/012/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Christmas — Epilogue",
+      "path": "novels/012/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "heavy"
+}

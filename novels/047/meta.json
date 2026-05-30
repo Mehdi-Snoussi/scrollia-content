@@ -1,0 +1,323 @@
+{
+  "id": "047",
+  "title": "The Villainess Who Was Warned",
+  "subtitle": "\"I woke up as Amara Vex, the villainess of an otome game I'd finished six times. I had until the Spring Ball to avoid beheading. I had seventy-three days.\"",
+  "penName": "Harper Quinn",
+  "genre": "villainessIsekai",
+  "hook": "I died at twenty-seven on the 7 train in Brooklyn. I woke up as Amara Vex, sixteen-year-old daughter of Duke Vex in the kingdom of Elanor. I had played the otome game this world was based on six times. I had beheaded Amara five times. I had exiled her once. I remembered — with absolute clarity — that I had seventy-three in-game days before the Spring Ball, where the original heroine would report me to the prince and I would be arrested for abuse I had already committed in the game's canon. The canon had committed. I had not.",
+  "coverPath": "covers/047.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "2/5 (Ch 38 closed-door, Captain Remy)",
+  "subtropes": [
+    "reincarnation",
+    "otome-game villainess",
+    "death-flag avoidance",
+    "befriending-original-heroine",
+    "game-knowledge advantage",
+    "non-canon love interest"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Warning",
+      "path": "novels/047/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Day 0 — The Summer Ball",
+      "path": "novels/047/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Day 1 — The Library",
+      "path": "novels/047/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Day 2 — The Father",
+      "path": "novels/047/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Day 5 — The Captain",
+      "path": "novels/047/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Day 7 — Marielle at the Castle",
+      "path": "novels/047/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Day 11 — The 7 Train",
+      "path": "novels/047/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Day 15 — The Prince",
+      "path": "novels/047/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Day 18 — The First Cruelty Averted",
+      "path": "novels/047/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Day 22 — The Autumn Tournament",
+      "path": "novels/047/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Day 25 — The Non-Event",
+      "path": "novels/047/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Day 28 — Captain Remy",
+      "path": "novels/047/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Day 31 — Father's Confrontation",
+      "path": "novels/047/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Day 35 — Mother",
+      "path": "novels/047/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Day 38 — Aunt Aurelia",
+      "path": "novels/047/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Day 41 — Father Bram",
+      "path": "novels/047/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Day 43 — Temple-Court",
+      "path": "novels/047/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Day 45 — The Decommission",
+      "path": "novels/047/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Day 48 — Uncle Henrik",
+      "path": "novels/047/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Day 53 — Marielle's Aside",
+      "path": "novels/047/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Day 56 — A Conversation in the Pasture",
+      "path": "novels/047/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Day 60 — The 7 Train Again",
+      "path": "novels/047/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Day 65 — Marielle and Theodric",
+      "path": "novels/047/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Day 70 — Spring Ball Preparations",
+      "path": "novels/047/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Day 73 — The Spring Ball",
+      "path": "novels/047/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Trial",
+      "path": "novels/047/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Summer at the Hennen Estate",
+      "path": "novels/047/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Autumn at Saint Adra's",
+      "path": "novels/047/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Winter",
+      "path": "novels/047/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Dissertation",
+      "path": "novels/047/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "The Royal Wedding",
+      "path": "novels/047/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The Visit",
+      "path": "novels/047/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Autumn at the Hennen",
+      "path": "novels/047/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Winter",
+      "path": "novels/047/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Spring Evening",
+      "path": "novels/047/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Wedding Planning",
+      "path": "novels/047/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Aunt's Story",
+      "path": "novels/047/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Rehearsal",
+      "path": "novels/047/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "The Morning of the Wedding",
+      "path": "novels/047/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Wedding",
+      "path": "novels/047/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "The First Year of Marriage",
+      "path": "novels/047/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "The Second Dissertation",
+      "path": "novels/047/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Spring of Year Three",
+      "path": "novels/047/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Year Four",
+      "path": "novels/047/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Year Six",
+      "path": "novels/047/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Aunt Aurelia",
+      "path": "novels/047/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Year Ten",
+      "path": "novels/047/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Year Fifteen",
+      "path": "novels/047/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Year Twenty",
+      "path": "novels/047/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "A Wednesday Morning at the Hennen Estate",
+      "path": "novels/047/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

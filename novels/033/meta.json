@@ -1,0 +1,323 @@
+{
+  "id": "033",
+  "title": "Forty-Two and Nine",
+  "subtitle": "\"I was forty-two. He was twenty-nine. He was renovating the house I had just bought with the money from my divorce.\"",
+  "penName": "Margaux Renn",
+  "genre": "ageGap",
+  "hook": "I was forty-two years old when I bought a farmhouse in the Catskills with the only thing my ex-husband and I had ever agreed on: that I should keep it. Reid Varney was the carpenter the realtor recommended for the renovation. He was twenty-nine. He wore boots and quiet and the kind of focus that made me notice. He showed up on a Tuesday in September with a clipboard, asked me seven questions about the porch, and left with the estimate. I called him back Wednesday. I did not call him back for the porch.",
+  "coverPath": "covers/033.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "4/5 (Ch 22, 33, 45)",
+  "subtropes": [
+    "13-year age gap",
+    "post-divorce",
+    "renovation",
+    "urban-to-rural",
+    "slow-burn",
+    "professional FMC"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Friday, Four-Fifteen",
+      "path": "novels/033/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Cardiff Lane",
+      "path": "novels/033/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Tuesday, Nine Oh-Seven",
+      "path": "novels/033/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Demo Week",
+      "path": "novels/033/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "First Weekend Alone",
+      "path": "novels/033/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Reid — The Clipboard",
+      "path": "novels/033/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "The Estimate Binder",
+      "path": "novels/033/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Porch Completion",
+      "path": "novels/033/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Letter on the Porch",
+      "path": "novels/033/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Annika at Five Oh-Six",
+      "path": "novels/033/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Monday, Kitchen Demo",
+      "path": "novels/033/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Forty-Two and Twenty-Nine",
+      "path": "novels/033/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Renn & Drucker, Hudson Square",
+      "path": "novels/033/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Lucas Hart",
+      "path": "novels/033/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Satellite Office",
+      "path": "novels/033/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The Kiss",
+      "path": "novels/033/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "David's Text",
+      "path": "novels/033/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Reid — The Kitchen-Side-Porch",
+      "path": "novels/033/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Sunday at Brodhead Hollow",
+      "path": "novels/033/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Paul and Liana",
+      "path": "novels/033/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Kelsey",
+      "path": "novels/033/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "The River-Road Bedroom",
+      "path": "novels/033/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Saturday Morning",
+      "path": "novels/033/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Annika at Cardiff Lane",
+      "path": "novels/033/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Midpoint — David",
+      "path": "novels/033/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Annika Approves",
+      "path": "novels/033/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "David at Cardiff Lane",
+      "path": "novels/033/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Second Age-Gap",
+      "path": "novels/033/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Greenwich Visit",
+      "path": "novels/033/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Reid — After David",
+      "path": "novels/033/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "The Creek",
+      "path": "novels/033/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Hana at Cardiff Lane",
+      "path": "novels/033/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "The Master-Bedroom",
+      "path": "novels/033/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "London",
+      "path": "novels/033/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Margaux Considers",
+      "path": "novels/033/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The Wall",
+      "path": "novels/033/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Janet Park",
+      "path": "novels/033/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Pressure",
+      "path": "novels/033/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Reid Says Take It",
+      "path": "novels/033/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Paul",
+      "path": "novels/033/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Albany",
+      "path": "novels/033/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Reid — The Bedside",
+      "path": "novels/033/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Margaux Declines",
+      "path": "novels/033/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Varney-Hart Construction",
+      "path": "novels/033/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Saturday Night",
+      "path": "novels/033/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Renovation Complete",
+      "path": "novels/033/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Thanksgiving",
+      "path": "novels/033/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Reid — The Proposal",
+      "path": "novels/033/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Civil Ceremony at the Farmhouse",
+      "path": "novels/033/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — One Year",
+      "path": "novels/033/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

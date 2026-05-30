@@ -1,0 +1,323 @@
+{
+  "id": "036",
+  "title": "The Coffee Shop at the End of the Dungeon",
+  "subtitle": "\"I retired from adventuring at thirty-eight. I opened a coffee shop. The coffee shop was inside a dungeon.\"",
+  "penName": "Fen Holloway",
+  "genre": "litrpgSystem",
+  "hook": "I was a Rank A Spellsword for fifteen years. At thirty-eight I had enough gold, enough scars, and a specific disinterest in being a hero. I bought a retired-adventurer's dungeon for 3,400 gold and opened a coffee shop at the exit. The system classified it under **Hospitality/Craft — Level 1.** My first customer was Brem, a goblin bandit whose boss had died. He came for the smell. He stayed for the muffins. By the sixth week, I had seven monster regulars, three retired adventurers, and a system notification asking if I would like to found a Guild.",
+  "coverPath": "covers/036.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "2/5 (Ch 25 small romance with Reyn; Ch 40 spice closed-door)",
+  "subtropes": [
+    "Cozy LitRPG",
+    "retired-adventurer",
+    "craft-progression",
+    "monster regulars",
+    "small-business",
+    "found-family"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Retirement on a Wednesday",
+      "path": "novels/036/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Dungeon I Bought",
+      "path": "novels/036/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The First Week",
+      "path": "novels/036/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "The Sign",
+      "path": "novels/036/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Level Two",
+      "path": "novels/036/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Brem in the Doorway",
+      "path": "novels/036/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Hemma's Flour",
+      "path": "novels/036/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Settling",
+      "path": "novels/036/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Brem Brings a Friend",
+      "path": "novels/036/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The Thesis",
+      "path": "novels/036/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Vivien",
+      "path": "novels/036/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Ivo",
+      "path": "novels/036/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Marri",
+      "path": "novels/036/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Reyn at the Door",
+      "path": "novels/036/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "The Stable",
+      "path": "novels/036/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The First Open-House Weekend",
+      "path": "novels/036/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Petra's Pie",
+      "path": "novels/036/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "The Guild Master",
+      "path": "novels/036/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Orm Slides In",
+      "path": "novels/036/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Orm's Second Visit",
+      "path": "novels/036/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Pastries",
+      "path": "novels/036/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Erdos at the Door",
+      "path": "novels/036/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Second Stage",
+      "path": "novels/036/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Quiet Defense",
+      "path": "novels/036/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Bench at the Back",
+      "path": "novels/036/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Wand on the Wall",
+      "path": "novels/036/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Community at the Door",
+      "path": "novels/036/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Kosht's Ode",
+      "path": "novels/036/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "The Menu Formalized",
+      "path": "novels/036/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Erdos's Last Move",
+      "path": "novels/036/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "The Vote",
+      "path": "novels/036/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Hemma's Family",
+      "path": "novels/036/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Stone-Masonry",
+      "path": "novels/036/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Marri's Final Thesis",
+      "path": "novels/036/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Monster-Business Debate",
+      "path": "novels/036/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The Shop in the Paper",
+      "path": "novels/036/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Shop Closes Mid-Day",
+      "path": "novels/036/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Reyn Moves In",
+      "path": "novels/036/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Erdos at the Counter",
+      "path": "novels/036/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Guild Charter",
+      "path": "novels/036/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "The Celebration",
+      "path": "novels/036/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "The Hearth-Model in Practice",
+      "path": "novels/036/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Buckle",
+      "path": "novels/036/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The Old Party",
+      "path": "novels/036/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Marri's Defense",
+      "path": "novels/036/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Wedding-Eve",
+      "path": "novels/036/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Downstairs",
+      "path": "novels/036/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "The Year",
+      "path": "novels/036/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Year Two",
+      "path": "novels/036/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "One Year On",
+      "path": "novels/036/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

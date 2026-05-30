@@ -1,0 +1,316 @@
+{
+  "id": "013",
+  "title": "The Bratva's Wife",
+  "subtitle": "",
+  "penName": "Anastasia Kova",
+  "genre": "darkMafia",
+  "hook": "",
+  "coverPath": "covers/013.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": null,
+  "subtropes": [],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Twelve Thousand a Month",
+      "path": "novels/013/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Contract",
+      "path": "novels/013/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Sign",
+      "path": "novels/013/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Friday at NYU",
+      "path": "novels/013/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Photograph",
+      "path": "novels/013/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "The Soviet Collapse",
+      "path": "novels/013/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Saturday — Mercedes",
+      "path": "novels/013/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Mansion",
+      "path": "novels/013/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Three Questions",
+      "path": "novels/013/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Morning Coffee",
+      "path": "novels/013/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "NYU Continued",
+      "path": "novels/013/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "The Boardwalk",
+      "path": "novels/013/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Roman's Visit",
+      "path": "novels/013/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "What He Let Me Touch",
+      "path": "novels/013/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Pavel's Nightmare",
+      "path": "novels/013/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Transplant Approval",
+      "path": "novels/013/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Lev's Council",
+      "path": "novels/013/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Ekaterina",
+      "path": "novels/013/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Gunshot Wound",
+      "path": "novels/013/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "His Recognition",
+      "path": "novels/013/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Rabbi Yitzhak",
+      "path": "novels/013/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "After Havdalah",
+      "path": "novels/013/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Olya Warms",
+      "path": "novels/013/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Roman's Jewelry",
+      "path": "novels/013/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Private Tears",
+      "path": "novels/013/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Yuri's Transplant",
+      "path": "novels/013/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Lev's Back",
+      "path": "novels/013/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "The Back Quiet",
+      "path": "novels/013/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Mama",
+      "path": "novels/013/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Marta",
+      "path": "novels/013/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Brighton Accepts",
+      "path": "novels/013/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Roman Escalates",
+      "path": "novels/013/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Lev's Response",
+      "path": "novels/013/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Pavel's Play",
+      "path": "novels/013/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Locked Study",
+      "path": "novels/013/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Home",
+      "path": "novels/013/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Babushka Visits",
+      "path": "novels/013/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Boardwalk Attack",
+      "path": "novels/013/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Casualties",
+      "path": "novels/013/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Pavel",
+      "path": "novels/013/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Mobilization",
+      "path": "novels/013/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "The Night Before",
+      "path": "novels/013/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Cost",
+      "path": "novels/013/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "After",
+      "path": "novels/013/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Olya's Full Acceptance",
+      "path": "novels/013/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "NYU Graduation",
+      "path": "novels/013/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Roman",
+      "path": "novels/013/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Sofia",
+      "path": "novels/013/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Orthodox Blessing",
+      "path": "novels/013/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — One Year",
+      "path": "novels/013/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "heavy"
+}

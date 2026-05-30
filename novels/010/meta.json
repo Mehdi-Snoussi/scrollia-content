@@ -1,0 +1,316 @@
+{
+  "id": "010",
+  "title": "The Triplets' Luna",
+  "subtitle": "",
+  "penName": "Eveline Crow",
+  "genre": "werewolf",
+  "hook": "",
+  "coverPath": "covers/010.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": null,
+  "subtropes": [],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Three Coppers",
+      "path": "novels/010/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Three Knees",
+      "path": "novels/010/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Hold",
+      "path": "novels/010/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Aldis",
+      "path": "novels/010/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Prophecy",
+      "path": "novels/010/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Cassia",
+      "path": "novels/010/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Defect, Officially",
+      "path": "novels/010/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Asher Walks Her",
+      "path": "novels/010/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Council Confirms",
+      "path": "novels/010/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The Bare Wolves",
+      "path": "novels/010/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Sera",
+      "path": "novels/010/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "First Spice — Wraith",
+      "path": "novels/010/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Counselor's Test",
+      "path": "novels/010/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "War Drums",
+      "path": "novels/010/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Valley Two Riding",
+      "path": "novels/010/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The Cathedral Wall",
+      "path": "novels/010/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Wraith's Council Vote",
+      "path": "novels/010/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Cassia's Letter",
+      "path": "novels/010/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Spice — Vail",
+      "path": "novels/010/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Aldis Resurfaces",
+      "path": "novels/010/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Hollis at the Border",
+      "path": "novels/010/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Vail's Valley Vote",
+      "path": "novels/010/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Spice — All Three",
+      "path": "novels/010/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "The Defects",
+      "path": "novels/010/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Sera's Friendship",
+      "path": "novels/010/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Ferren's Full Text",
+      "path": "novels/010/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Skirmish",
+      "path": "novels/010/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Spice — Asher",
+      "path": "novels/010/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Asher's Valley Three",
+      "path": "novels/010/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Eastern-Pass Terminal",
+      "path": "novels/010/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Bare Wolves Rise",
+      "path": "novels/010/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Cassia's Council Speech",
+      "path": "novels/010/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Spice — Multi (Mid)",
+      "path": "novels/010/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Aldis Demands Audience",
+      "path": "novels/010/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Hollis's Army Marches",
+      "path": "novels/010/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Aldis Rejected",
+      "path": "novels/010/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The First Battle",
+      "path": "novels/010/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Spice — Vail (Pre-Battle)",
+      "path": "novels/010/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Wraith Plans the Counter",
+      "path": "novels/010/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Wound",
+      "path": "novels/010/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Cassia's Blessing",
+      "path": "novels/010/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Recovery",
+      "path": "novels/010/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Aldis Final",
+      "path": "novels/010/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Spice — All Three (Reconciliation)",
+      "path": "novels/010/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Battle of the Hollow",
+      "path": "novels/010/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Cathedral Defended",
+      "path": "novels/010/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Duel",
+      "path": "novels/010/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Sera Mates",
+      "path": "novels/010/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The Triadal Luna",
+      "path": "novels/010/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — One Year",
+      "path": "novels/010/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

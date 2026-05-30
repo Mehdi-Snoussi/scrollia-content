@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-30T17:42:53Z",
-  "totalNovels": 13,
+  "lastUpdated": "2026-05-30T18:07:39Z",
+  "totalNovels": 50,
   "novels": [
     {
       "id": "001",
@@ -18,7 +18,8 @@
         "contract marriage",
         "grief",
         "found family"
-      ]
+      ],
+      "auditBucket": "clean"
     },
     {
       "id": "002",
@@ -29,7 +30,140 @@
       "coverPath": "covers/002.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": []
+      "subtropes": [],
+      "auditBucket": "mild"
+    },
+    {
+      "id": "003",
+      "title": "Nanny to the Billionaire's Twins",
+      "subtitle": "",
+      "penName": "Reese Ballard",
+      "genre": "billionaireRomance",
+      "coverPath": "covers/003.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [],
+      "auditBucket": "heavy"
+    },
+    {
+      "id": "004",
+      "title": "Bought for the Season",
+      "subtitle": "",
+      "penName": "Asha Devi",
+      "genre": "billionaireRomance",
+      "coverPath": "covers/004.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [],
+      "auditBucket": "heavy"
+    },
+    {
+      "id": "005",
+      "title": "Wife to a Stranger",
+      "subtitle": "",
+      "penName": "Wren Halliday",
+      "genre": "billionaireRomance",
+      "coverPath": "covers/005.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [],
+      "auditBucket": "heavy"
+    },
+    {
+      "id": "006",
+      "title": "The Billionaire's Secret Pregnancy",
+      "subtitle": "",
+      "penName": "Juno Ash",
+      "genre": "billionaireRomance",
+      "coverPath": "covers/006.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "007",
+      "title": "Rejected by the Alpha King",
+      "subtitle": "",
+      "penName": "Selene Faulkner",
+      "genre": "werewolf",
+      "coverPath": "covers/007.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [],
+      "auditBucket": "heavy"
+    },
+    {
+      "id": "008",
+      "title": "The Beta's Mate",
+      "subtitle": "",
+      "penName": "Saoirse Wynn",
+      "genre": "werewolf",
+      "coverPath": "covers/008.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [],
+      "auditBucket": "heavy"
+    },
+    {
+      "id": "009",
+      "title": "The Mechanic's Wolf",
+      "subtitle": "",
+      "penName": "Reagan Holt",
+      "genre": "werewolf",
+      "coverPath": "covers/009.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [],
+      "auditBucket": "mild"
+    },
+    {
+      "id": "010",
+      "title": "The Triplets' Luna",
+      "subtitle": "",
+      "penName": "Eveline Crow",
+      "genre": "werewolf",
+      "coverPath": "covers/010.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "011",
+      "title": "Wolfless",
+      "subtitle": "",
+      "penName": "Lyric Vassen",
+      "genre": "werewolf",
+      "coverPath": "covers/011.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [],
+      "auditBucket": "heavy"
+    },
+    {
+      "id": "012",
+      "title": "Bride of the Vitri",
+      "subtitle": "",
+      "penName": "Catarina Russo",
+      "genre": "darkMafia",
+      "coverPath": "covers/012.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [],
+      "auditBucket": "heavy"
+    },
+    {
+      "id": "013",
+      "title": "The Bratva's Wife",
+      "subtitle": "",
+      "penName": "Anastasia Kova",
+      "genre": "darkMafia",
+      "coverPath": "covers/013.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [],
+      "auditBucket": "heavy"
     },
     {
       "id": "014",
@@ -40,7 +174,8 @@
       "coverPath": "covers/014.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": []
+      "subtropes": [],
+      "auditBucket": "mild"
     },
     {
       "id": "015",
@@ -51,7 +186,8 @@
       "coverPath": "covers/015.jpg",
       "totalChapters": 50,
       "paywallChapter": 9,
-      "subtropes": []
+      "subtropes": [],
+      "auditBucket": "mild"
     },
     {
       "id": "016",
@@ -69,7 +205,8 @@
         "cancer-sister",
         "teen-stepdaughter",
         "forced cohabitation"
-      ]
+      ],
+      "auditBucket": "clean"
     },
     {
       "id": "017",
@@ -87,7 +224,8 @@
         "six-year ghost",
         "brownstone inheritance",
         "Columbia musicology PhD FMC"
-      ]
+      ],
+      "auditBucket": "clean"
     },
     {
       "id": "018",
@@ -105,7 +243,27 @@
         "small-business save",
         "ICE investigation",
         "Puerto Rican chef FMC"
-      ]
+      ],
+      "auditBucket": "clean"
+    },
+    {
+      "id": "019",
+      "title": "The Wedding Plus-One",
+      "subtitle": "\"I had seven weddings in a summer. My ex was at three. My neighbor agreed to be my fake boyfriend over rosé on the fire escape.\"",
+      "penName": "Darcy Maren",
+      "genre": "fakeDating",
+      "coverPath": "covers/019.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "fake dating",
+        "neighbor-to-boyfriend",
+        "grumpy-sunshine",
+        "summer wedding season",
+        "PTSD journalist",
+        "NYC"
+      ],
+      "auditBucket": "mild"
     },
     {
       "id": "020",
@@ -123,7 +281,8 @@
         "mistaken-identity-of-accuser",
         "publishing-industry",
         "literary-meta"
-      ]
+      ],
+      "auditBucket": "mild"
     },
     {
       "id": "021",
@@ -140,7 +299,8 @@
         "family-wedding pressure",
         "grandmother-as-catalyst",
         "sweet-spicy balance"
-      ]
+      ],
+      "auditBucket": "clean"
     },
     {
       "id": "022",
@@ -157,7 +317,272 @@
         "M&A law",
         "forced collaboration",
         "dual POV alternating"
-      ]
+      ],
+      "auditBucket": "clean"
+    },
+    {
+      "id": "023",
+      "title": "The Other Scott",
+      "subtitle": "\"The reclusive billionaire invited two journalists to her Capri villa. She neglected to mention the other invitee was my ex.\"",
+      "penName": "Alice Scott",
+      "genre": "enemiesToLovers",
+      "coverPath": "covers/023.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "rival journalists",
+        "second chance",
+        "forced proximity",
+        "NDA intrigue",
+        "italian island",
+        "reclusive billionaire subject"
+      ],
+      "auditBucket": "heavy"
+    },
+    {
+      "id": "024",
+      "title": "The Debate Partner",
+      "subtitle": "\"Professor Beaumont and I had argued in the pages of the Yale Law Review for four years. Now we were required to co-teach a seminar.\"",
+      "penName": "Adelaide Monroe",
+      "genre": "enemiesToLovers",
+      "coverPath": "covers/024.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "academic rivalry",
+        "law school",
+        "forced co-teaching",
+        "intellectual sparring",
+        "older colleagues",
+        "grumpy-sunshine reversed (Adelaide sharp"
+      ],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "025",
+      "title": "Rival's Secret Son",
+      "subtitle": "\"I slept with my professional rival once. I paid for that night with four years of silence and one little boy with his eyes.\"",
+      "penName": "Mira Belgrave",
+      "genre": "enemiesToLovers",
+      "coverPath": "covers/025.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "secret baby",
+        "professional rival",
+        "one-night-stand consequences",
+        "academic",
+        "journalistic reunion",
+        "4-year-old child"
+      ],
+      "auditBucket": "heavy"
+    },
+    {
+      "id": "026",
+      "title": "Back to Big Timber",
+      "subtitle": "\"He left our small Montana town at nineteen. Five years later I moved back with our four-year-old daughter and he was the first person I saw.\"",
+      "penName": "Tess Harrow",
+      "genre": "secretPregnancy",
+      "coverPath": "covers/026.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "secret baby",
+        "second chance",
+        "ghosted-ex returns",
+        "small-town reunion",
+        "rancher hero",
+        "single-mom FMC"
+      ],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "027",
+      "title": "The Reunion Tour",
+      "subtitle": "\"Three years after we signed the divorce papers, my father died. I asked my ex-husband to play at the funeral. He said yes before I finished the sentence.\"",
+      "penName": "Denver Lane",
+      "genre": "secondChance",
+      "coverPath": "covers/027.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "divorce reunion",
+        "rockstar hero",
+        "family death catalyst",
+        "texas small-town",
+        "tour-together",
+        "sobriety arc"
+      ],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "028",
+      "title": "Return to Blackwell",
+      "subtitle": "\"Two years after my husband died, I moved to the Vermont house he left me. My husband's oldest friend was still there, still taking care of it, still waiting.\"",
+      "penName": "Cece Voss",
+      "genre": "secondChance",
+      "coverPath": "covers/028.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "widow",
+        "first-love-that-might-have-been",
+        "vermont small-town",
+        "late husband's legacy",
+        "grief-integrated",
+        "slow-burn"
+      ],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "029",
+      "title": "The Princess of Asari",
+      "subtitle": "\"I was a middle-school music teacher in Brooklyn. I had eight thousand dollars in savings. A man in a navy suit told me I was the heir to a throne I had never heard of.\"",
+      "penName": "Nia Okoro-Bellamy",
+      "genre": "contractMarriage",
+      "coverPath": "covers/029.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "hidden princess",
+        "cultural rediscovery",
+        "arranged marriage",
+        "kingdom alliance",
+        "diverse royal",
+        "music-teacher FMC"
+      ],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "030",
+      "title": "Crown & Contract",
+      "subtitle": "\"The Crown Prince of Volarna needed a wife in four weeks or lose the throne to his younger brother. The palace's HR department hired me.\"",
+      "penName": "Svetlana Voss",
+      "genre": "contractMarriage",
+      "coverPath": "covers/030.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "prince",
+        "commoner",
+        "contract marriage",
+        "succession crisis",
+        "fictional European kingdom",
+        "nurse FMC"
+      ],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "031",
+      "title": "Quartet",
+      "subtitle": "\"They needed a fifth musician for a twelve-city tour. By week three I had four men in my bed and a rock album to finish.\"",
+      "penName": "Juniper Cash",
+      "genre": "reverseHarem",
+      "coverPath": "covers/031.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "Why Choose",
+        "rock band",
+        "tour bus",
+        "session musician FMC",
+        "four distinct-archetype heroes"
+      ],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "032",
+      "title": "Protected",
+      "subtitle": "\"The senator assigned three bodyguards to me after the first letter. By the tenth letter I was no longer alone. I was in love.\"",
+      "penName": "Briar Cadeau",
+      "genre": "reverseHarem",
+      "coverPath": "covers/032.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "Why Choose",
+        "three bodyguards",
+        "political threat",
+        "senator-father",
+        "DC setting",
+        "slow-burn-stacked"
+      ],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "033",
+      "title": "Forty-Two and Nine",
+      "subtitle": "\"I was forty-two. He was twenty-nine. He was renovating the house I had just bought with the money from my divorce.\"",
+      "penName": "Margaux Renn",
+      "genre": "ageGap",
+      "coverPath": "covers/033.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "13-year age gap",
+        "post-divorce",
+        "renovation",
+        "urban-to-rural",
+        "slow-burn",
+        "professional FMC"
+      ],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "034",
+      "title": "The Prince's Strategist",
+      "subtitle": "\"Valen and I were seven years old when we swore the first oath. We were twenty-seven when the king said he was marrying Valen to a foreign duke's daughter.\"",
+      "penName": "Aiden Frost",
+      "genre": "blMm",
+      "coverPath": "covers/034.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "friends-to-lovers",
+        "prince",
+        "strategist",
+        "arranged-marriage threat",
+        "fantasy court",
+        "20-year slow burn"
+      ],
+      "auditBucket": "heavy"
+    },
+    {
+      "id": "035",
+      "title": "The First Tier",
+      "subtitle": "\"At 11:47 on a Tuesday the sky cracked open and my PhD became useless. The System told me I was Rank F. It did not tell me I was the only person on the planet with a Null-affinity class.\"",
+      "penName": "Corin Adler",
+      "genre": "litrpgSystem",
+      "coverPath": "covers/035.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "modern-world system arrival",
+        "academic MC unexpected skills",
+        "urban apocalypse",
+        "slow progression",
+        "party formation"
+      ],
+      "auditBucket": "heavy"
+    },
+    {
+      "id": "036",
+      "title": "The Coffee Shop at the End of the Dungeon",
+      "subtitle": "\"I retired from adventuring at thirty-eight. I opened a coffee shop. The coffee shop was inside a dungeon.\"",
+      "penName": "Fen Holloway",
+      "genre": "litrpgSystem",
+      "coverPath": "covers/036.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "Cozy LitRPG",
+        "retired-adventurer",
+        "craft-progression",
+        "monster regulars",
+        "small-business",
+        "found-family"
+      ],
+      "auditBucket": "collapsed"
     },
     {
       "id": "037",
@@ -175,7 +600,101 @@
         "Buffalo NY",
         "comedy",
         "ethical weight"
-      ]
+      ],
+      "auditBucket": "clean"
+    },
+    {
+      "id": "038",
+      "title": "Rank C Immortal",
+      "subtitle": "\"I awakened with a healing class in a world where healers died first. My party was led by an arrogant Rank S warrior who had buried three of us already. I was going to be the fourth.\"",
+      "penName": "Nadia Kiernan",
+      "genre": "litrpgSystem",
+      "coverPath": "covers/038.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "system awakening",
+        "healer FMC",
+        "arrogant S-rank warrior",
+        "forced party",
+        "progression",
+        "enemies-to-lovers-lite"
+      ],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "039",
+      "title": "The Fourteenth Loop",
+      "subtitle": "\"Every week is the same week. I have lived it thirteen times. On the fourteenth loop I stop trying to save everyone and start trying to figure out what the System wants.\"",
+      "penName": "Eliot Mahr",
+      "genre": "regressionTimeloop",
+      "coverPath": "covers/039.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "7-day time loop",
+        "save-everyone-failures",
+        "smart MC",
+        "system mystery",
+        "one-anomaly-companion"
+      ],
+      "auditBucket": "heavy"
+    },
+    {
+      "id": "040",
+      "title": "The Second Time Through",
+      "subtitle": "\"I died at sixty-eight in a war I'd spent fifty years trying to stop. I woke up at seventeen in my parents' kitchen in Wichita with the System asking me, politely, what class I would like this time.\"",
+      "penName": "Owen Kalb",
+      "genre": "regressionTimeloop",
+      "coverPath": "covers/040.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "regression",
+        "50-year knowledge carry",
+        "system class-choice",
+        "save-the-world arc",
+        "relationships earlier-now"
+      ],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "041",
+      "title": "The Pill and the Flaw",
+      "subtitle": "\"Every pill I refined had one flaw. My master said to fix it. My master had never refined a pill in his life. I kept the flaw. I became the most dangerous alchemist in the Azure Mountain Sect.\"",
+      "penName": "Luo Ziyan",
+      "genre": "cultivationXianxia",
+      "coverPath": "covers/041.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "Alchemist-MC",
+        "sect politics",
+        "smart-MC",
+        "flaws-as-features",
+        "sect tournament",
+        "arrogant-elder subverted"
+      ],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "042",
+      "title": "The Tea Master",
+      "subtitle": "\"The immortal heavens offered me ascension. I declined. I opened a teahouse on the road between the Five Sects. My customers included demons, elders, and one very persistent Heavenly Emperor.\"",
+      "penName": "Feng Qi",
+      "genre": "cultivationXianxia",
+      "coverPath": "covers/042.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "cozy cultivation",
+        "retired-immortal",
+        "teahouse",
+        "customer-ensemble",
+        "non-combat progression",
+        "gentle widowed romance"
+      ],
+      "auditBucket": "collapsed"
     },
     {
       "id": "043",
@@ -193,7 +712,102 @@
         "single-mother MC",
         "settlement-building",
         "rural fallback"
-      ]
+      ],
+      "auditBucket": "mild"
+    },
+    {
+      "id": "044",
+      "title": "The Rapture Protocol",
+      "subtitle": "\"Three billion people vanished. The rest of us were told to fight for the right to follow them. I was a high-school chemistry teacher. I refused.\"",
+      "penName": "Adele Frye",
+      "genre": "apocalypseZombie",
+      "coverPath": "covers/044.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "sudden depopulation",
+        "system arrives",
+        "\"follow the vanished\" quest",
+        "chemistry-teacher MC",
+        "refusal arc",
+        "moral complexity"
+      ],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "045",
+      "title": "Floor Thirty-Nine",
+      "subtitle": "\"Humanity had cleared thirty-eight floors of the Tower in sixty years. Floor Thirty-Nine was where we started losing. I was the first Rank E to clear it solo.\"",
+      "penName": "Eren Halverson",
+      "genre": "dungeonTower",
+      "coverPath": "covers/045.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "solo climb",
+        "Rank F underdog",
+        "hidden class",
+        "floor-by-floor progression",
+        "guild politics"
+      ],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "046",
+      "title": "Dungeon and Breakfast",
+      "subtitle": "\"I woke up as a dungeon core in the basement of a retired farmer. The System said I was supposed to kill and eat adventurers. I opened a bed-and-breakfast instead.\"",
+      "penName": "Hollowell Vine",
+      "genre": "dungeonTower",
+      "coverPath": "covers/046.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "Dungeon-core MC",
+        "cozy",
+        "non-combat",
+        "hospitality progression",
+        "monster ensemble",
+        "found family"
+      ],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "047",
+      "title": "The Villainess Who Was Warned",
+      "subtitle": "\"I woke up as Amara Vex, the villainess of an otome game I'd finished six times. I had until the Spring Ball to avoid beheading. I had seventy-three days.\"",
+      "penName": "Harper Quinn",
+      "genre": "villainessIsekai",
+      "coverPath": "covers/047.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "reincarnation",
+        "otome-game villainess",
+        "death-flag avoidance",
+        "befriending-original-heroine",
+        "game-knowledge advantage",
+        "non-canon love interest"
+      ],
+      "auditBucket": "collapsed"
+    },
+    {
+      "id": "048",
+      "title": "My Better Ending",
+      "subtitle": "\"I was reincarnated as the villainess. She was badly written. I decided to write her better.\"",
+      "penName": "Rhea Sands",
+      "genre": "villainessIsekai",
+      "coverPath": "covers/048.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "reincarnation",
+        "villainess",
+        "game-critique",
+        "feminist reclaim",
+        "better-ending arc",
+        "meta-author plot device"
+      ],
+      "auditBucket": "collapsed"
     },
     {
       "id": "049",
@@ -211,7 +825,27 @@
         "basement-captive",
         "dual POV",
         "reveal escalations"
-      ]
+      ],
+      "auditBucket": "heavy"
+    },
+    {
+      "id": "050",
+      "title": "The Island She Returned To",
+      "subtitle": "\"My wife disappeared from a small island in Maine eleven months ago. I have been returning to the island every weekend since. Last Saturday she walked past the harbor café. She was not my wife.\"",
+      "penName": "Hugh Lark",
+      "genre": "mysteryThriller",
+      "coverPath": "covers/050.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "missing wife",
+        "lookalike stranger",
+        "maine island",
+        "widower protagonist",
+        "slow unravel",
+        "pharmaceutical conspiracy"
+      ],
+      "auditBucket": "collapsed"
     }
   ]
 }

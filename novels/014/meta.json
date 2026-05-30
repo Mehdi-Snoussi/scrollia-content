@@ -311,5 +311,6 @@
       "path": "novels/014/ch050.json",
       "requiresPayment": true
     }
-  ]
+  ],
+  "auditBucket": "mild"
 }

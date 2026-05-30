@@ -1,0 +1,323 @@
+{
+  "id": "041",
+  "title": "The Pill and the Flaw",
+  "subtitle": "\"Every pill I refined had one flaw. My master said to fix it. My master had never refined a pill in his life. I kept the flaw. I became the most dangerous alchemist in the Azure Mountain Sect.\"",
+  "penName": "Luo Ziyan",
+  "genre": "cultivationXianxia",
+  "hook": "I was born in the Lower Realm in a village that had never seen a cultivator. I arrived at Azure Mountain Sect at fourteen as the last-chosen disciple of Elder Mu, the sect's Alchemy Master — a position considered secondary, safe, unambitious. Every pill I refined carried a flaw my master told me to eliminate. I studied the flaws instead. By the time I was seventeen, my flawed pills were doing things no other alchemist's pills did. My junior sister Wen fell into demonic corruption. My flawed Soul-Clarity Pill was the only pill in the Azure Mountains that could save her.",
+  "coverPath": "covers/041.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "2/5 (Ch 36 closed-door, Senior Sister Lian)",
+  "subtropes": [
+    "Alchemist-MC",
+    "sect politics",
+    "smart-MC",
+    "flaws-as-features",
+    "sect tournament",
+    "arrogant-elder subverted"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Flawed Pill",
+      "path": "novels/041/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Seven Days",
+      "path": "novels/041/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Sect Examination",
+      "path": "novels/041/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "The Sect Master's Chamber",
+      "path": "novels/041/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Departure",
+      "path": "novels/041/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "The Road East",
+      "path": "novels/041/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "The First Mountain",
+      "path": "novels/041/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Mei Zhou",
+      "path": "novels/041/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Third Event",
+      "path": "novels/041/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Wu-Zai Shan",
+      "path": "novels/041/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "The Stranded",
+      "path": "novels/041/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Xianxu Shan",
+      "path": "novels/041/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "The First Decade",
+      "path": "novels/041/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Return to the Cloud Lake Sect",
+      "path": "novels/041/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "The Second Deposit",
+      "path": "novels/041/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The Southern Hermitage",
+      "path": "novels/041/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Liu Yan-er at Forty",
+      "path": "novels/041/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "The Third Century",
+      "path": "novels/041/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Bai Yu's Departure",
+      "path": "novels/041/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "My Own Body",
+      "path": "novels/041/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "The First Century as a Pattern",
+      "path": "novels/041/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "The Second Millennium",
+      "path": "novels/041/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Suppression",
+      "path": "novels/041/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "The Fourth Millennium",
+      "path": "novels/041/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Sixth Millennium",
+      "path": "novels/041/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Seventh Millennium",
+      "path": "novels/041/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Hermitage Stands",
+      "path": "novels/041/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Wen Han-Mei's Pattern",
+      "path": "novels/041/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Master Yan's Pendant",
+      "path": "novels/041/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Final Loosening",
+      "path": "novels/041/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Wen Han-Mei Continues",
+      "path": "novels/041/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Visitors",
+      "path": "novels/041/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "The Dynasties",
+      "path": "novels/041/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Pendant",
+      "path": "novels/041/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Other Keepers",
+      "path": "novels/041/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "A Child Returns",
+      "path": "novels/041/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Seasons",
+      "path": "novels/041/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Recordings",
+      "path": "novels/041/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "The Successor",
+      "path": "novels/041/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Lin Zhao-Hai's Period",
+      "path": "novels/041/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "The Twelfth Millennium",
+      "path": "novels/041/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "The Drought Refuge",
+      "path": "novels/041/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Three Villages",
+      "path": "novels/041/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The Final Centuries",
+      "path": "novels/041/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "The Third Successor",
+      "path": "novels/041/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Long Continuation",
+      "path": "novels/041/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Wen Bao-Lin Speaks",
+      "path": "novels/041/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "The Visitor in the Forty-Thousandth Year",
+      "path": "novels/041/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The Long View",
+      "path": "novels/041/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "The Morning",
+      "path": "novels/041/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "collapsed"
+}

@@ -1,0 +1,316 @@
+{
+  "id": "011",
+  "title": "Wolfless",
+  "subtitle": "",
+  "penName": "Lyric Vassen",
+  "genre": "werewolf",
+  "hook": "",
+  "coverPath": "covers/011.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": null,
+  "subtropes": [],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Foreleg",
+      "path": "novels/011/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Brennan",
+      "path": "novels/011/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Lunar Gala, Six Years Ago",
+      "path": "novels/011/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Six Patients",
+      "path": "novels/011/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Burning Milk",
+      "path": "novels/011/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Forty Miles Away",
+      "path": "novels/011/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "The Wolf Inside",
+      "path": "novels/011/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Brennan Sees",
+      "path": "novels/011/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Howl",
+      "path": "novels/011/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The Threshold",
+      "path": "novels/011/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "The Naming",
+      "path": "novels/011/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Sere",
+      "path": "novels/011/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Pack Reaction",
+      "path": "novels/011/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Roan",
+      "path": "novels/011/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "First Visit to Marrowbreak",
+      "path": "novels/011/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Old Vyer",
+      "path": "novels/011/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "The Library",
+      "path": "novels/011/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Mother's Method",
+      "path": "novels/011/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Korvas Arrives",
+      "path": "novels/011/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "The Test",
+      "path": "novels/011/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Sere's Grave",
+      "path": "novels/011/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "First Mating",
+      "path": "novels/011/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Brennan's Question",
+      "path": "novels/011/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Court Politics",
+      "path": "novels/011/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Korvas's Faction",
+      "path": "novels/011/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Clinic Continues",
+      "path": "novels/011/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Hessa's Pup",
+      "path": "novels/011/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Sere",
+      "path": "novels/011/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "The Council of Moonsworn Convenes",
+      "path": "novels/011/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Second Mating",
+      "path": "novels/011/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Brennan's Birthday",
+      "path": "novels/011/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Korvas Strikes",
+      "path": "novels/011/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Recovery",
+      "path": "novels/011/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Trial of Korvas",
+      "path": "novels/011/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Moon Cycle",
+      "path": "novels/011/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Roan's Protection",
+      "path": "novels/011/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Vyer's Death",
+      "path": "novels/011/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Council Speaks",
+      "path": "novels/011/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Third Mating",
+      "path": "novels/011/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Korvas Calls the Duel",
+      "path": "novels/011/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Pre-Duel",
+      "path": "novels/011/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "The Duel Witness",
+      "path": "novels/011/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Duel",
+      "path": "novels/011/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Brennan's Wolf",
+      "path": "novels/011/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "The Clinic Expanded",
+      "path": "novels/011/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Roan's Romance",
+      "path": "novels/011/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Fourth Mating",
+      "path": "novels/011/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Korvas's Letter",
+      "path": "novels/011/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Moon Sworn",
+      "path": "novels/011/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — Nine Months",
+      "path": "novels/011/ch050.json",
+      "requiresPayment": true
+    }
+  ],
+  "auditBucket": "heavy"
+}
