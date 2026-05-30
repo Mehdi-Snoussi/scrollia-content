@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-18T21:21:42Z",
-  "totalNovels": 2,
+  "lastUpdated": "2026-05-30T17:42:53Z",
+  "totalNovels": 13,
   "novels": [
     {
       "id": "001",
@@ -21,6 +21,145 @@
       ]
     },
     {
+      "id": "002",
+      "title": "The Billionaire's Divorce Papers",
+      "subtitle": "On my third anniversary, my husband had his assistant FedEx me the divorce papers. Three hours later, my grandmother died and left me two billion dollars.",
+      "penName": "Sofia Castellanos",
+      "genre": "billionaireRomance",
+      "coverPath": "covers/002.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": []
+    },
+    {
+      "id": "014",
+      "title": "Hostage Heart",
+      "subtitle": "They took me from a Manhattan parking garage on a Wednesday night. The man who carried me to the South of France told me my husband had refused to negotiate.",
+      "penName": "Sasha Lake",
+      "genre": "darkMafia",
+      "coverPath": "covers/014.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": []
+    },
+    {
+      "id": "015",
+      "title": "The Boss's Daughter",
+      "subtitle": "My father is the boss of South Boston. Conor has driven me home since I was thirteen. The wedding to a man I do not love is in three months.",
+      "penName": "Maeve Connaughton",
+      "genre": "darkMafia",
+      "coverPath": "covers/015.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": []
+    },
+    {
+      "id": "016",
+      "title": "Nine Months Contract",
+      "subtitle": "\"He needed a wife for his custody hearing. I needed ninety thousand dollars for my sister's chemotherapy. We signed.\"",
+      "penName": "Harper Lane",
+      "genre": "contractMarriage",
+      "coverPath": "covers/016.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "marriage of convenience",
+        "custody-battle stakes",
+        "single dad",
+        "cancer-sister",
+        "teen-stepdaughter",
+        "forced cohabitation"
+      ]
+    },
+    {
+      "id": "017",
+      "title": "The Inheritance Clause",
+      "subtitle": "\"I had forty-three days to find a husband. I called the only man I had ever trusted: the boy who'd been my best friend until the summer we both turned twenty-one.\"",
+      "penName": "Meredith Drake",
+      "genre": "contractMarriage",
+      "coverPath": "covers/017.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "inheritance clause",
+        "childhood best friends",
+        "second chance",
+        "six-year ghost",
+        "brownstone inheritance",
+        "Columbia musicology PhD FMC"
+      ]
+    },
+    {
+      "id": "018",
+      "title": "Green Card",
+      "subtitle": "\"He offered me five hundred thousand to marry him. Three weeks later ICE was standing in our kitchen.\"",
+      "penName": "Sofia Milagros",
+      "genre": "contractMarriage",
+      "coverPath": "covers/018.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "visa marriage",
+        "grumpy-sunshine",
+        "forced cohabitation",
+        "small-business save",
+        "ICE investigation",
+        "Puerto Rican chef FMC"
+      ]
+    },
+    {
+      "id": "020",
+      "title": "Review Bombed",
+      "subtitle": "\"His name was on 47 one-star reviews of my novel. My publisher said the fix was to date him publicly.\"",
+      "penName": "Ada Sinclair",
+      "genre": "fakeDating",
+      "coverPath": "covers/020.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "fake dating",
+        "enemies-to-lovers",
+        "book tour",
+        "mistaken-identity-of-accuser",
+        "publishing-industry",
+        "literary-meta"
+      ]
+    },
+    {
+      "id": "021",
+      "title": "My Grandmother's Wedding",
+      "subtitle": "\"My 78-year-old grandmother was getting married for the third time. She demanded I bring a 'serious boyfriend.' I asked the coffee-shop regular I'd been mildly in love with since spring.\"",
+      "penName": "Sunny Ogden",
+      "genre": "fakeDating",
+      "coverPath": "covers/021.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "fake dating",
+        "secret-profession (barista hero is Dartmouth philosophy prof",
+        "family-wedding pressure",
+        "grandmother-as-catalyst",
+        "sweet-spicy balance"
+      ]
+    },
+    {
+      "id": "022",
+      "title": "The Corner Office",
+      "subtitle": "\"We started on the same day. In eighteen months, one of us would be partner.\"",
+      "penName": "Harper Nash",
+      "genre": "enemiesToLovers",
+      "coverPath": "covers/022.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "workplace rivalry",
+        "same-promotion",
+        "M&A law",
+        "forced collaboration",
+        "dual POV alternating"
+      ]
+    },
+    {
       "id": "037",
       "title": "The System Lied",
       "subtitle": "The System told me my class was Paladin. I was a Necromancer. By the time I figured it out, I had eleven corpses in my shed.",
@@ -36,6 +175,42 @@
         "Buffalo NY",
         "comedy",
         "ethical weight"
+      ]
+    },
+    {
+      "id": "043",
+      "title": "Day One Stat Screen",
+      "subtitle": "\"The infection landed at 6:42 AM. The stat screen appeared at 6:44. I had two minutes to read it before the first zombie reached my building.\"",
+      "penName": "Remi Ash",
+      "genre": "apocalypseZombie",
+      "coverPath": "covers/043.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "system apocalypse",
+        "zombie",
+        "urban survival",
+        "single-mother MC",
+        "settlement-building",
+        "rural fallback"
+      ]
+    },
+    {
+      "id": "049",
+      "title": "The Woman Downstairs",
+      "subtitle": "\"I knew my husband was having an affair. I knew who with. What I did not know was that she was planning my murder, and that by the time I figured it out, I would be downstairs in her basement.\"",
+      "penName": "Sylvia Crane",
+      "genre": "mysteryThriller",
+      "coverPath": "covers/049.jpg",
+      "totalChapters": 50,
+      "paywallChapter": 9,
+      "subtropes": [
+        "unreliable narrator",
+        "marriage",
+        "affair",
+        "basement-captive",
+        "dual POV",
+        "reveal escalations"
       ]
     }
   ]

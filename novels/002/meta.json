@@ -1,0 +1,315 @@
+{
+  "id": "002",
+  "title": "The Billionaire's Divorce Papers",
+  "subtitle": "On my third anniversary, my husband had his assistant FedEx me the divorce papers. Three hours later, my grandmother died and left me two billion dollars.",
+  "penName": "Sofia Castellanos",
+  "genre": "billionaireRomance",
+  "hook": "On the morning of my third wedding anniversary, my husband's assistant hand-delivered a FedEx envelope to my office. I thought it was flowers. It was divorce papers, signed by him, not by me. Three hours later, my grandmother — the one I hadn't spoken to in twelve years — died of an aneurysm in Buenos Aires. She left me two billion dollars and one very specific instruction: finish what I started with the Wolfes. I signed the divorce papers. I quit my job. I went shopping. By the end of the quarter, I owned twelve percent of my husband's company.",
+  "coverPath": "covers/002.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": null,
+  "subtropes": [],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The FedEx Envelope",
+      "path": "novels/002/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Abuela",
+      "path": "novels/002/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Quit",
+      "path": "novels/002/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "1964",
+      "path": "novels/002/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Sister",
+      "path": "novels/002/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Tuesday Silence",
+      "path": "novels/002/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "The Shell Game",
+      "path": "novels/002/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Six Months Ago (Damian POV #1)",
+      "path": "novels/002/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "St. Regis",
+      "path": "novels/002/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Morning After",
+      "path": "novels/002/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Twelve Percent",
+      "path": "novels/002/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "The Aston Martin",
+      "path": "novels/002/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "The Note",
+      "path": "novels/002/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Kiana's Strategy",
+      "path": "novels/002/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Buenos Aires 1989",
+      "path": "novels/002/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The Harvard Club",
+      "path": "novels/002/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Twenty-Five Minutes",
+      "path": "novels/002/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "The Weekend",
+      "path": "novels/002/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Midnight at the Archive",
+      "path": "novels/002/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Tuesday, 4:48 A.M. (Damian POV #2)",
+      "path": "novels/002/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Ted",
+      "path": "novels/002/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Uniform",
+      "path": "novels/002/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Butter Yellow",
+      "path": "novels/002/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Wolfe Ingram Tower",
+      "path": "novels/002/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Valentina",
+      "path": "novels/002/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Leak",
+      "path": "novels/002/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Second Night",
+      "path": "novels/002/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "CNBC",
+      "path": "novels/002/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Volume Twenty-One",
+      "path": "novels/002/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Tuesday, 6:00 A.M. (Damian POV #3)",
+      "path": "novels/002/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Containment",
+      "path": "novels/002/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "1996",
+      "path": "novels/002/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Laight Street",
+      "path": "novels/002/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The NDA",
+      "path": "novels/002/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Ezeiza",
+      "path": "novels/002/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The Alvear",
+      "path": "novels/002/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Júlia",
+      "path": "novels/002/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Lillian",
+      "path": "novels/002/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Friday",
+      "path": "novels/002/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Monday",
+      "path": "novels/002/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "The Meeting",
+      "path": "novels/002/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Friday, Greenwich (Damian POV #4)",
+      "path": "novels/002/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Grovel",
+      "path": "novels/002/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "December",
+      "path": "novels/002/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "The Blouse",
+      "path": "novels/002/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Monday, Budapest",
+      "path": "novels/002/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Tuesday, Klauzál utca",
+      "path": "novels/002/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Home",
+      "path": "novels/002/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "January 4",
+      "path": "novels/002/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "One Year Later",
+      "path": "novels/002/ch050.json",
+      "requiresPayment": true
+    }
+  ]
+}

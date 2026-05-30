@@ -1,0 +1,322 @@
+{
+  "id": "017",
+  "title": "The Inheritance Clause",
+  "subtitle": "\"I had forty-three days to find a husband. I called the only man I had ever trusted: the boy who'd been my best friend until the summer we both turned twenty-one.\"",
+  "penName": "Meredith Drake",
+  "genre": "contractMarriage",
+  "hook": "My grandfather left me a New York brownstone, fourteen million dollars, and a clause: married before my twenty-eighth birthday or it all goes to the Metropolitan Opera. I had forty-three days. I called Theodore Wren. We had been each other's best friends from nine to twenty-one. The last time I saw him he was getting on a train to Oxford and I was pretending I did not love him. I flew to London. He opened his door. He said, \"Say the whole sentence.\" I said, \"Marry me, Theo, for a year.\" He said, \"Yes, Meredith. Of course.\"",
+  "coverPath": "covers/017.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "3.5/5 (Ch 18, 29, 42)",
+  "subtropes": [
+    "inheritance clause",
+    "childhood best friends",
+    "second chance",
+    "six-year ghost",
+    "brownstone inheritance",
+    "Columbia musicology PhD FMC"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Letter and the Math",
+      "path": "novels/017/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The London Flight",
+      "path": "novels/017/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Say the Whole Sentence",
+      "path": "novels/017/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "The Special License",
+      "path": "novels/017/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Oxford, in Passing",
+      "path": "novels/017/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "The Brownstone, Again",
+      "path": "novels/017/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Theo — Paddington, 2020",
+      "path": "novels/017/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Ten Forty-Three",
+      "path": "novels/017/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Bona Fide",
+      "path": "novels/017/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Shelf by Shelf",
+      "path": "novels/017/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Prudence at the Table",
+      "path": "novels/017/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "The Committee",
+      "path": "novels/017/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "The Morning Room",
+      "path": "novels/017/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "The Metropolitan Benefit",
+      "path": "novels/017/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "The Library, with a Bottle",
+      "path": "novels/017/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Edmond, at Eleven",
+      "path": "novels/017/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Harold, September",
+      "path": "novels/017/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Rosemary",
+      "path": "novels/017/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Theo — What Forgiveness Is",
+      "path": "novels/017/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "A Weekend at Corpus",
+      "path": "novels/017/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "A Line from the Eighth",
+      "path": "novels/017/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Subsection (e)",
+      "path": "novels/017/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "A Letter to the Dead",
+      "path": "novels/017/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Prudence Has Been Keeping Something",
+      "path": "novels/017/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Private Codicil",
+      "path": "novels/017/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Oboe, Solved",
+      "path": "novels/017/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Callum from Yale",
+      "path": "novels/017/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "The Third Ode",
+      "path": "novels/017/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "A Sunday Afternoon",
+      "path": "novels/017/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The West Wall",
+      "path": "novels/017/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Theo — The Domestic",
+      "path": "novels/017/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Platform One",
+      "path": "novels/017/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "The Photograph",
+      "path": "novels/017/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Arrivals Gate",
+      "path": "novels/017/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Third Floor",
+      "path": "novels/017/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The Letter Theo Did Not Send",
+      "path": "novels/017/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Rue des Rosiers",
+      "path": "novels/017/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Letter to Aliénor",
+      "path": "novels/017/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Prudence, Deciding",
+      "path": "novels/017/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Defense",
+      "path": "novels/017/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "The Advance Copy",
+      "path": "novels/017/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "The Monday Night",
+      "path": "novels/017/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Theo — The Hour of the Committee",
+      "path": "novels/017/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Dr. Drake",
+      "path": "novels/017/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "The Days After",
+      "path": "novels/017/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The Twelfth of May",
+      "path": "novels/017/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Prudence and Callum",
+      "path": "novels/017/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Not a Contract",
+      "path": "novels/017/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Theo — The Moleskine, Closed",
+      "path": "novels/017/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "One Year",
+      "path": "novels/017/ch050.json",
+      "requiresPayment": true
+    }
+  ]
+}

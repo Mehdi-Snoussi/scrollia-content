@@ -1,0 +1,322 @@
+{
+  "id": "020",
+  "title": "Review Bombed",
+  "subtitle": "\"His name was on 47 one-star reviews of my novel. My publisher said the fix was to date him publicly.\"",
+  "penName": "Ada Sinclair",
+  "genre": "fakeDating",
+  "hook": "My debut novel got forty-seven one-star reviews in a single afternoon. The pattern was surgical. All posted by different accounts — all coming from the same IP in Brooklyn — all quoting Callum Brennan, the litfic bro whose novel I had once called *performatively masculine* on a podcast he'd never heard. My publisher called. Her solution was a joint book tour, a public rivalry-turned-romance, and a fake relationship. Callum's publisher was demanding the same. We were introduced in a conference room in midtown. He walked in, read my opening line aloud, and said *I did not write those reviews.*",
+  "coverPath": "covers/020.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "4/5 (Ch 20, 32, 43)",
+  "subtropes": [
+    "fake dating",
+    "enemies-to-lovers",
+    "book tour",
+    "mistaken-identity-of-accuser",
+    "publishing-industry",
+    "literary-meta"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Three-Point-One",
+      "path": "novels/020/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Issey Miyake",
+      "path": "novels/020/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Plan",
+      "path": "novels/020/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Conference Room Nine",
+      "path": "novels/020/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Odeon",
+      "path": "novels/020/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Pre-Tour Training",
+      "path": "novels/020/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Callum — The Pukka Pad",
+      "path": "novels/020/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Other People's Sentences",
+      "path": "novels/020/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Strand",
+      "path": "novels/020/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Page Six",
+      "path": "novels/020/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Brunch on Tompkins",
+      "path": "novels/020/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Acela",
+      "path": "novels/020/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Centre Street",
+      "path": "novels/020/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Politics and Prose",
+      "path": "novels/020/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Tabard Inn",
+      "path": "novels/020/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Seminary Co-op",
+      "path": "novels/020/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Parnassus",
+      "path": "novels/020/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Callum — The Tally",
+      "path": "novels/020/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "BookPeople",
+      "path": "novels/020/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Suzanne",
+      "path": "novels/020/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Morning at the Saint Cecilia",
+      "path": "novels/020/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "The Second Printing",
+      "path": "novels/020/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Skylight",
+      "path": "novels/020/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Mom",
+      "path": "novels/020/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Green Apple",
+      "path": "novels/020/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Powell's",
+      "path": "novels/020/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Tompkins, Reset",
+      "path": "novels/020/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "The Memoir Pitch",
+      "path": "novels/020/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Callum — The Drawer",
+      "path": "novels/020/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Notebook",
+      "path": "novels/020/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Friday at Four",
+      "path": "novels/020/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The Kitchen",
+      "path": "novels/020/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "No to the Memoir",
+      "path": "novels/020/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Konditori",
+      "path": "novels/020/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Three O'Clock",
+      "path": "novels/020/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "The Eight Pages",
+      "path": "novels/020/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Pernil",
+      "path": "novels/020/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Schomburg, Sunday",
+      "path": "novels/020/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "The Drive",
+      "path": "novels/020/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Callum — Da Slept in a Chair",
+      "path": "novels/020/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Lit Hub",
+      "path": "novels/020/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Kaufmann Concert Hall",
+      "path": "novels/020/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Sterling Place",
+      "path": "novels/020/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The Cover",
+      "path": "novels/020/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Bright Harbor Three",
+      "path": "novels/020/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Thanksgiving",
+      "path": "novels/020/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "December First",
+      "path": "novels/020/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Callum — The Volvo to Boston",
+      "path": "novels/020/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Christmas at Centre Street",
+      "path": "novels/020/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — The Brownstone",
+      "path": "novels/020/ch050.json",
+      "requiresPayment": true
+    }
+  ]
+}

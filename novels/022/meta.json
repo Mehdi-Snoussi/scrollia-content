@@ -1,0 +1,321 @@
+{
+  "id": "022",
+  "title": "The Corner Office",
+  "subtitle": "\"We started on the same day. In eighteen months, one of us would be partner.\"",
+  "penName": "Harper Nash",
+  "genre": "enemiesToLovers",
+  "hook": "Nina Ackermann and Calloway Hayes started at Keller Crane LLP on the same Monday in September. They were both Stanford Law. They were both gunning for the M&A partner slot that would open in eighteen months. They were both too smart to be friends. For the first seventeen months, they billed past each other, beat each other to partner's doors, and swapped deals in the same breath with the same clients. In month eighteen, the firm's biggest client demanded they work the same deal. Six weeks in a conference room. One bathroom. Neither of them slept.",
+  "coverPath": "covers/022.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "4/5 (Ch 20, 31, 42)",
+  "subtropes": [
+    "workplace rivalry",
+    "same-promotion",
+    "M&A law",
+    "forced collaboration",
+    "dual POV alternating"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The 7:42 Coffee Cart",
+      "path": "novels/022/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Other Bathroom Door",
+      "path": "novels/022/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Month Six",
+      "path": "novels/022/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "The Vornado Letter",
+      "path": "novels/022/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Marion Notices",
+      "path": "novels/022/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "What Marion Said at Nine",
+      "path": "novels/022/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Month Seventeen",
+      "path": "novels/022/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Same Announcement",
+      "path": "novels/022/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Wheels Up",
+      "path": "novels/022/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Twenty-Eight Oh-Six",
+      "path": "novels/022/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Week One",
+      "path": "novels/022/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "The Lake",
+      "path": "novels/022/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "The First Argument",
+      "path": "novels/022/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "Sunday at Four-Twelve",
+      "path": "novels/022/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "Karen Lee",
+      "path": "novels/022/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The Two-Fourteen Idea",
+      "path": "novels/022/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Seven Hours",
+      "path": "novels/022/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Anton",
+      "path": "novels/022/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The Elevator",
+      "path": "novels/022/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "After the Argument",
+      "path": "novels/022/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Morning After",
+      "path": "novels/022/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Twenty-Eight Oh-Four",
+      "path": "novels/022/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Pearls",
+      "path": "novels/022/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "The Tie",
+      "path": "novels/022/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Week Three Close",
+      "path": "novels/022/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Return to New York",
+      "path": "novels/022/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "Marion's Chair",
+      "path": "novels/022/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Sunnyside",
+      "path": "novels/022/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Michael Approves",
+      "path": "novels/022/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Evaluation",
+      "path": "novels/022/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Murray Hill",
+      "path": "novels/022/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Trevor",
+      "path": "novels/022/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Yasmine",
+      "path": "novels/022/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Document",
+      "path": "novels/022/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Closing",
+      "path": "novels/022/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Marion's Dinner",
+      "path": "novels/022/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Both Offered",
+      "path": "novels/022/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Pret",
+      "path": "novels/022/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "The Night Before",
+      "path": "novels/022/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Theresa",
+      "path": "novels/022/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "The Conversation with Marion",
+      "path": "novels/022/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Sunday",
+      "path": "novels/022/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "March First",
+      "path": "novels/022/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Napa",
+      "path": "novels/022/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "April",
+      "path": "novels/022/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "The White House Call",
+      "path": "novels/022/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Confirmation",
+      "path": "novels/022/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Investiture",
+      "path": "novels/022/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The Brownstone",
+      "path": "novels/022/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "One Year",
+      "path": "novels/022/ch050.json",
+      "requiresPayment": true
+    }
+  ]
+}

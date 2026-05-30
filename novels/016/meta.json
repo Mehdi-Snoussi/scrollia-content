@@ -1,0 +1,322 @@
+{
+  "id": "016",
+  "title": "Nine Months Contract",
+  "subtitle": "\"He needed a wife for his custody hearing. I needed ninety thousand dollars for my sister's chemotherapy. We signed.\"",
+  "penName": "Harper Lane",
+  "genre": "contractMarriage",
+  "hook": "My sister was twenty years old and had stage three ovarian cancer and thirty percent insurance coverage. The oncologist said ninety thousand dollars out of pocket. I had three thousand in savings and a job waiting tables. The man at the bar said he would pay me ninety thousand dollars plus a salary for nine months. He needed a wife. He had a fourteen-year-old daughter, a dead ex-wife, and a custody battle with the ex-wife's mother who was trying to take the girl to Connecticut. We had one drink. I signed the contract in his lawyer's office the next morning.",
+  "coverPath": "covers/016.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "3.5/5 (Ch 21, 32, 43)",
+  "subtropes": [
+    "marriage of convenience",
+    "custody-battle stakes",
+    "single dad",
+    "cancer-sister",
+    "teen-stepdaughter",
+    "forced cohabitation"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Coffee Going Cold",
+      "path": "novels/016/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Proposition",
+      "path": "novels/016/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Absolutely Not",
+      "path": "novels/016/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Bex's Office",
+      "path": "novels/016/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Moving In",
+      "path": "novels/016/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Graham — Why Her",
+      "path": "novels/016/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "The Salt Jar",
+      "path": "novels/016/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Leah's Hallway",
+      "path": "novels/016/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Mom",
+      "path": "novels/016/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Rosalind's Move",
+      "path": "novels/016/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Continuing Education",
+      "path": "novels/016/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "The Aunt in Larchmont",
+      "path": "novels/016/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Round Seven",
+      "path": "novels/016/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "In the Hall Outside Courtroom Seven",
+      "path": "novels/016/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "The Art Room",
+      "path": "novels/016/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The Studio",
+      "path": "novels/016/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "The Sink in Queens",
+      "path": "novels/016/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Graham — The Overlap",
+      "path": "novels/016/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The Reservoir",
+      "path": "novels/016/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Bedroom Door",
+      "path": "novels/016/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Christmas Eve",
+      "path": "novels/016/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Clause Seven",
+      "path": "novels/016/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Andrew",
+      "path": "novels/016/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Deposition Prep",
+      "path": "novels/016/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Second Tranche",
+      "path": "novels/016/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Mid Scan",
+      "path": "novels/016/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Middle Drawer",
+      "path": "novels/016/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Therapy Records",
+      "path": "novels/016/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "The Letter",
+      "path": "novels/016/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Graham — The Tuesday in March",
+      "path": "novels/016/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Setback",
+      "path": "novels/016/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "The Weekend Before",
+      "path": "novels/016/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "The Art Show",
+      "path": "novels/016/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "The Pending Scan",
+      "path": "novels/016/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Crown Heights",
+      "path": "novels/016/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Lenny's",
+      "path": "novels/016/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Paintings",
+      "path": "novels/016/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Leah's Birthday",
+      "path": "novels/016/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Emergency Custody",
+      "path": "novels/016/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Black Moment",
+      "path": "novels/016/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Graham — Rosalind's Door",
+      "path": "novels/016/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "The Apology",
+      "path": "novels/016/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "The Night Before",
+      "path": "novels/016/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "The Morning Of",
+      "path": "novels/016/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "The Ruling",
+      "path": "novels/016/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Capstone",
+      "path": "novels/016/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "The Ring and the Ring",
+      "path": "novels/016/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Graham — The Real One",
+      "path": "novels/016/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Bex's Office",
+      "path": "novels/016/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "One Year",
+      "path": "novels/016/ch050.json",
+      "requiresPayment": true
+    }
+  ]
+}

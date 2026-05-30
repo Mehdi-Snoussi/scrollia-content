@@ -1,0 +1,322 @@
+{
+  "id": "049",
+  "title": "The Woman Downstairs",
+  "subtitle": "\"I knew my husband was having an affair. I knew who with. What I did not know was that she was planning my murder, and that by the time I figured it out, I would be downstairs in her basement.\"",
+  "penName": "Sylvia Crane",
+  "genre": "mysteryThriller",
+  "hook": "My husband Jamie had been having an affair with Dana Kaminski since February. I knew because I had read his phone. I had a plan. It was a simple, legal, humiliating plan — I was going to leave him with a divorce that took his condo, his practice, and the Tesla. On a Wednesday in July I drove to Dana's house to tell her face to face. She offered me a glass of wine. I accepted. By the time I understood what was in the wine, I was on her basement floor. The plan was no longer mine.",
+  "coverPath": "covers/049.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "1/5 (thriller — not romance)",
+  "subtropes": [
+    "unreliable narrator",
+    "marriage",
+    "affair",
+    "basement-captive",
+    "dual POV",
+    "reveal escalations"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Margaret",
+      "path": "novels/049/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Second Bedroom",
+      "path": "novels/049/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "David",
+      "path": "novels/049/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "The Room",
+      "path": "novels/049/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Morning",
+      "path": "novels/049/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Cooper",
+      "path": "novels/049/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Brennan's",
+      "path": "novels/049/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "Mr. Lowery",
+      "path": "novels/049/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "The Service",
+      "path": "novels/049/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "The First Tuesday",
+      "path": "novels/049/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Thank-You Notes",
+      "path": "novels/049/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Sunday Afternoon",
+      "path": "novels/049/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Cooper Comes Down",
+      "path": "novels/049/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "The Hospice Van",
+      "path": "novels/049/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "The Closet",
+      "path": "novels/049/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "Cooper's Question",
+      "path": "novels/049/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Frog and Toad",
+      "path": "novels/049/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Joan",
+      "path": "novels/049/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "Snow",
+      "path": "novels/049/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Christmas",
+      "path": "novels/049/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "New Year",
+      "path": "novels/049/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Dr. Hadley",
+      "path": "novels/049/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Echocardiogram",
+      "path": "novels/049/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Joan, February",
+      "path": "novels/049/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Telling Ada",
+      "path": "novels/049/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "The Night Before",
+      "path": "novels/049/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Waiting Room",
+      "path": "novels/049/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "ICU",
+      "path": "novels/049/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Step-Down",
+      "path": "novels/049/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Recovery",
+      "path": "novels/049/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Mr. Lowery's Visit",
+      "path": "novels/049/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Summer",
+      "path": "novels/049/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Mount Auburn",
+      "path": "novels/049/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "October Again",
+      "path": "novels/049/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "Middlemarch",
+      "path": "novels/049/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Christmas, Together",
+      "path": "novels/049/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "The Journal",
+      "path": "novels/049/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "The Cough",
+      "path": "novels/049/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Spring, Slower",
+      "path": "novels/049/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Stairs",
+      "path": "novels/049/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "June, the Hospice Consult",
+      "path": "novels/049/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Joan, the Last Visit",
+      "path": "novels/049/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "August",
+      "path": "novels/049/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Hospice In",
+      "path": "novels/049/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "October, Again Again",
+      "path": "novels/049/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Ada's Sunday",
+      "path": "novels/049/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "November",
+      "path": "novels/049/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "The Last Week",
+      "path": "novels/049/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Four-Twenty",
+      "path": "novels/049/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Ten Years",
+      "path": "novels/049/ch050.json",
+      "requiresPayment": true
+    }
+  ]
+}

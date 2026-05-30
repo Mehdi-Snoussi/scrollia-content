@@ -1,0 +1,321 @@
+{
+  "id": "021",
+  "title": "My Grandmother's Wedding",
+  "subtitle": "\"My 78-year-old grandmother was getting married for the third time. She demanded I bring a 'serious boyfriend.' I asked the coffee-shop regular I'd been mildly in love with since spring.\"",
+  "penName": "Sunny Ogden",
+  "genre": "fakeDating",
+  "hook": "My grandmother Millicent was seventy-eight. She had buried two husbands. She was about to marry her third in six weeks. She called me at the bookstore where I work — the Back Pages, in Brattleboro — and informed me that if I showed up to her Vermont wedding alone, she would personally introduce me to her fiancé's seventy-five-year-old widowed nephew as \"available.\" I asked Theodore Ash, the coffee-shop regular I had been mildly in love with since March, if he would drive to my grandmother's wedding with me and pretend, for one weekend, to be serious. He closed his book and said yes.",
+  "coverPath": "covers/021.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": "3.5/5 (Ch 19, 28, 41)",
+  "subtropes": [
+    "fake dating",
+    "secret-profession (barista hero is Dartmouth philosophy prof",
+    "family-wedding pressure",
+    "grandmother-as-catalyst",
+    "sweet-spicy balance"
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Nine-Seventeen",
+      "path": "novels/021/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "Wren's Kitchen",
+      "path": "novels/021/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "Thursday, Black Coffee",
+      "path": "novels/021/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Between the Pages",
+      "path": "novels/021/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "Pine Hollow, with Harold",
+      "path": "novels/021/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "The Dartmouth Drawer",
+      "path": "novels/021/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "The Marsh Kitchen",
+      "path": "novels/021/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "One Room, Two Beds",
+      "path": "novels/021/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Room Four",
+      "path": "novels/021/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Before the Field",
+      "path": "novels/021/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "The Light Is Going To Happen",
+      "path": "novels/021/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "A Reading",
+      "path": "novels/021/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Sprigs",
+      "path": "novels/021/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "And Dale Waited",
+      "path": "novels/021/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "A Song from 1974",
+      "path": "novels/021/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "I-91, Southbound",
+      "path": "novels/021/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "The Drawer, Closed",
+      "path": "novels/021/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "In Cash",
+      "path": "novels/021/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The Road Past Occom Pond",
+      "path": "novels/021/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "Wren Knows",
+      "path": "novels/021/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "Two Calls",
+      "path": "novels/021/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "Thornton 307",
+      "path": "novels/021/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "Vålerenga",
+      "path": "novels/021/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "The Honest Counter",
+      "path": "novels/021/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "The Word Pretend",
+      "path": "novels/021/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Forty-Eight Hours",
+      "path": "novels/021/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "A Walk to the River",
+      "path": "novels/021/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "The Apartment on Main",
+      "path": "novels/021/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Logan",
+      "path": "novels/021/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "The Ledger",
+      "path": "novels/021/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Astrid at the Counter",
+      "path": "novels/021/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Vålerenga vs Stabæk",
+      "path": "novels/021/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Seventy-Nine",
+      "path": "novels/021/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "A Letter from 1986",
+      "path": "novels/021/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "The Basement",
+      "path": "novels/021/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Wren's Guest Room",
+      "path": "novels/021/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "A Shelf and a FaceTime",
+      "path": "novels/021/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "A Cottage on Elliot Street",
+      "path": "novels/021/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Two Blocks",
+      "path": "novels/021/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "The Porch at Occom Pond",
+      "path": "novels/021/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Christmas Eve",
+      "path": "novels/021/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "Evelyn's Letter, Read in a Guest Room",
+      "path": "novels/021/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Across the GWB",
+      "path": "novels/021/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Barney Greengrass",
+      "path": "novels/021/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Washington Square, Four P.M.",
+      "path": "novels/021/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Amsterdam and 96",
+      "path": "novels/021/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "A Vermont Christmas, in January",
+      "path": "novels/021/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "The Three Boxes",
+      "path": "novels/021/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "Lucinda's Ring",
+      "path": "novels/021/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "A Thursday in April",
+      "path": "novels/021/ch050.json",
+      "requiresPayment": true
+    }
+  ]
+}

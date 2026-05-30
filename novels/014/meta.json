@@ -1,0 +1,315 @@
+{
+  "id": "014",
+  "title": "Hostage Heart",
+  "subtitle": "They took me from a Manhattan parking garage on a Wednesday night. The man who carried me to the South of France told me my husband had refused to negotiate.",
+  "penName": "Sasha Lake",
+  "genre": "darkMafia",
+  "hook": "They took me from the parking garage of my Manhattan office on a Wednesday night. The man who carried me out had bone-cold hands and apologized through a black silk scarf. They drove me to a stone house in the South of France with a courtyard full of olive trees and a man named Reign who was not the one I had been taken to leverage. He looked at me like I was a math error in his quarterly report. He offered me coffee. He told me my husband had refused to negotiate. He told me he was sorry.",
+  "coverPath": "covers/014.jpg",
+  "totalChapters": 50,
+  "paywallChapter": 9,
+  "contentRating": null,
+  "subtropes": [],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Cobb Salad",
+      "path": "novels/014/ch001.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 2,
+      "title": "The Gulfstream",
+      "path": "novels/014/ch002.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 3,
+      "title": "The Stone Room",
+      "path": "novels/014/ch003.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 4,
+      "title": "Coffee with Reign",
+      "path": "novels/014/ch004.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 5,
+      "title": "The Compound",
+      "path": "novels/014/ch005.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 6,
+      "title": "Second Day",
+      "path": "novels/014/ch006.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 7,
+      "title": "Why He Didn't",
+      "path": "novels/014/ch007.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 8,
+      "title": "The Escape Attempt",
+      "path": "novels/014/ch008.json",
+      "requiresPayment": false
+    },
+    {
+      "number": 9,
+      "title": "Refuses Room Change",
+      "path": "novels/014/ch009.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 10,
+      "title": "Madame Couret",
+      "path": "novels/014/ch010.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 11,
+      "title": "Walden's Voicemail",
+      "path": "novels/014/ch011.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 12,
+      "title": "Saturday Market",
+      "path": "novels/014/ch012.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 13,
+      "title": "Pierre and Hélène",
+      "path": "novels/014/ch013.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 14,
+      "title": "First Lavender Soap",
+      "path": "novels/014/ch014.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 15,
+      "title": "The Garden Work",
+      "path": "novels/014/ch015.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 16,
+      "title": "The Day Anais Visits",
+      "path": "novels/014/ch016.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 17,
+      "title": "Anais Arrives",
+      "path": "novels/014/ch017.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 18,
+      "title": "Sloan Not Yet",
+      "path": "novels/014/ch018.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 19,
+      "title": "The First Night",
+      "path": "novels/014/ch019.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 20,
+      "title": "The Named Conversation",
+      "path": "novels/014/ch020.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 21,
+      "title": "The Press Visit",
+      "path": "novels/014/ch021.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 22,
+      "title": "First Private Tears",
+      "path": "novels/014/ch022.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 23,
+      "title": "The Contract Ledger",
+      "path": "novels/014/ch023.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 24,
+      "title": "Walden's PI in France",
+      "path": "novels/014/ch024.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 25,
+      "title": "Reign Offers Escape",
+      "path": "novels/014/ch025.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 26,
+      "title": "Wren Chooses to Stay",
+      "path": "novels/014/ch026.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 27,
+      "title": "The Choice Received",
+      "path": "novels/014/ch027.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 28,
+      "title": "Marseille Extraction",
+      "path": "novels/014/ch028.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 29,
+      "title": "Second Spicy Scene",
+      "path": "novels/014/ch029.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 30,
+      "title": "Camille Phone Call",
+      "path": "novels/014/ch030.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 31,
+      "title": "Walden's Mistress",
+      "path": "novels/014/ch031.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 32,
+      "title": "Sloan Finds Out",
+      "path": "novels/014/ch032.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 33,
+      "title": "Third Spicy Scene",
+      "path": "novels/014/ch033.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 34,
+      "title": "Concord Defection",
+      "path": "novels/014/ch034.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 35,
+      "title": "MAD Clause Activated",
+      "path": "novels/014/ch035.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 36,
+      "title": "Mistress Flips",
+      "path": "novels/014/ch036.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 37,
+      "title": "Léa Visits",
+      "path": "novels/014/ch037.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 38,
+      "title": "Fourth Spicy Scene",
+      "path": "novels/014/ch038.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 39,
+      "title": "Final Operative Sent",
+      "path": "novels/014/ch039.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 40,
+      "title": "Black Moment — Reign Wounded",
+      "path": "novels/014/ch040.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 41,
+      "title": "Camille Tends Reign",
+      "path": "novels/014/ch041.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 42,
+      "title": "The Exit Plan",
+      "path": "novels/014/ch042.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 43,
+      "title": "Legal Cover",
+      "path": "novels/014/ch043.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 44,
+      "title": "Reign Exits",
+      "path": "novels/014/ch044.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 45,
+      "title": "Saint-Michel Publicly",
+      "path": "novels/014/ch045.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 46,
+      "title": "Fifth Spicy Scene",
+      "path": "novels/014/ch046.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 47,
+      "title": "Walden Killed",
+      "path": "novels/014/ch047.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 48,
+      "title": "Legally Widowed",
+      "path": "novels/014/ch048.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 49,
+      "title": "The Press",
+      "path": "novels/014/ch049.json",
+      "requiresPayment": true
+    },
+    {
+      "number": 50,
+      "title": "Epilogue — One Year",
+      "path": "novels/014/ch050.json",
+      "requiresPayment": true
+    }
+  ]
+}
