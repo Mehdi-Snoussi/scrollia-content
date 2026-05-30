@@ -17,6 +17,7 @@
     "settlement-building",
     "rural fallback"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,

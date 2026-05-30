@@ -17,6 +17,7 @@
     "dual POV",
     "reveal escalations"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,

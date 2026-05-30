@@ -17,6 +17,7 @@
     "publishing-industry",
     "literary-meta"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
