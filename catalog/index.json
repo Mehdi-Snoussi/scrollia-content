@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-30T21:14:36Z",
+  "lastUpdated": "2026-05-30T21:45:38Z",
   "totalNovels": 50,
   "novels": [
     {
@@ -43,7 +43,7 @@
       "totalChapters": 50,
       "paywallChapter": 9,
       "subtropes": [],
-      "auditBucket": "heavy"
+      "auditBucket": "clean"
     },
     {
       "id": "004",
@@ -55,7 +55,7 @@
       "totalChapters": 50,
       "paywallChapter": 9,
       "subtropes": [],
-      "auditBucket": "heavy"
+      "auditBucket": "clean"
     },
     {
       "id": "005",
@@ -67,7 +67,7 @@
       "totalChapters": 50,
       "paywallChapter": 9,
       "subtropes": [],
-      "auditBucket": "heavy"
+      "auditBucket": "clean"
     },
     {
       "id": "006",
@@ -91,7 +91,7 @@
       "totalChapters": 50,
       "paywallChapter": 9,
       "subtropes": [],
-      "auditBucket": "heavy"
+      "auditBucket": "clean"
     },
     {
       "id": "008",
@@ -103,7 +103,7 @@
       "totalChapters": 50,
       "paywallChapter": 9,
       "subtropes": [],
-      "auditBucket": "heavy"
+      "auditBucket": "clean"
     },
     {
       "id": "009",
@@ -139,7 +139,7 @@
       "totalChapters": 50,
       "paywallChapter": 9,
       "subtropes": [],
-      "auditBucket": "heavy"
+      "auditBucket": "clean"
     },
     {
       "id": "012",
@@ -151,7 +151,7 @@
       "totalChapters": 50,
       "paywallChapter": 9,
       "subtropes": [],
-      "auditBucket": "heavy"
+      "auditBucket": "clean"
     },
     {
       "id": "013",
@@ -163,7 +163,7 @@
       "totalChapters": 50,
       "paywallChapter": 9,
       "subtropes": [],
-      "auditBucket": "heavy"
+      "auditBucket": "clean"
     },
     {
       "id": "014",
@@ -337,7 +337,7 @@
         "italian island",
         "reclusive billionaire subject"
       ],
-      "auditBucket": "heavy"
+      "auditBucket": "clean"
     },
     {
       "id": "024",
@@ -375,7 +375,7 @@
         "journalistic reunion",
         "4-year-old child"
       ],
-      "auditBucket": "heavy"
+      "auditBucket": "clean"
     },
     {
       "id": "026",
@@ -545,7 +545,7 @@
         "fantasy court",
         "20-year slow burn"
       ],
-      "auditBucket": "heavy"
+      "auditBucket": "clean"
     },
     {
       "id": "035",
@@ -563,7 +563,7 @@
         "slow progression",
         "party formation"
       ],
-      "auditBucket": "heavy"
+      "auditBucket": "clean"
     },
     {
       "id": "036",
@@ -638,7 +638,7 @@
         "system mystery",
         "one-anomaly-companion"
       ],
-      "auditBucket": "heavy"
+      "auditBucket": "clean"
     },
     {
       "id": "040",

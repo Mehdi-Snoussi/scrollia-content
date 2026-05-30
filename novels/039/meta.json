@@ -16,6 +16,7 @@
     "system mystery",
     "one-anomaly-companion"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
@@ -317,6 +318,5 @@
       "path": "novels/039/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "heavy"
+  ]
 }

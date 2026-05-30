@@ -10,6 +10,7 @@
   "paywallChapter": 9,
   "contentRating": null,
   "subtropes": [],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
@@ -311,6 +312,5 @@
       "path": "novels/004/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "heavy"
+  ]
 }

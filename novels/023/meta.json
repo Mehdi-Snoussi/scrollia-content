@@ -17,6 +17,7 @@
     "italian island",
     "reclusive billionaire subject"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
@@ -318,6 +319,5 @@
       "path": "novels/023/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "heavy"
+  ]
 }

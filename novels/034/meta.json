@@ -17,6 +17,7 @@
     "fantasy court",
     "20-year slow burn"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
@@ -318,6 +319,5 @@
       "path": "novels/034/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "heavy"
+  ]
 }

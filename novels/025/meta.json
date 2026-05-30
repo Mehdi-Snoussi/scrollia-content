@@ -17,6 +17,7 @@
     "journalistic reunion",
     "4-year-old child"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
@@ -318,6 +319,5 @@
       "path": "novels/025/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "heavy"
+  ]
 }
