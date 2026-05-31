@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-31T10:23:06Z",
+  "lastUpdated": "2026-05-31T10:28:41Z",
   "totalNovels": 50,
   "novels": [
     {
@@ -694,7 +694,7 @@
         "non-combat progression",
         "gentle widowed romance"
       ],
-      "auditBucket": "collapsed"
+      "auditBucket": "clean"
     },
     {
       "id": "043",

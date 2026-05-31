@@ -17,6 +17,7 @@
     "non-combat progression",
     "gentle widowed romance"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
@@ -104,13 +105,13 @@
     },
     {
       "number": 15,
-      "title": "The Last Years",
+      "title": "The Brothers Pao",
       "path": "novels/042/ch015.json",
       "requiresPayment": true
     },
     {
       "number": 16,
-      "title": "Linlin Speaks",
+      "title": "The Girl Beneath the Porch",
       "path": "novels/042/ch016.json",
       "requiresPayment": true
     },
@@ -128,7 +129,7 @@
     },
     {
       "number": 19,
-      "title": "Mei Lan's Master-Tea",
+      "title": "The Owl",
       "path": "novels/042/ch019.json",
       "requiresPayment": true
     },
@@ -140,7 +141,7 @@
     },
     {
       "number": 21,
-      "title": "Mei Lan",
+      "title": "The Scholar Stays Three Days",
       "path": "novels/042/ch021.json",
       "requiresPayment": true
     },
@@ -170,7 +171,7 @@
     },
     {
       "number": 26,
-      "title": "Masters Seventeen Through Twenty",
+      "title": "The Mid-Week Beam",
       "path": "novels/042/ch026.json",
       "requiresPayment": true
     },
@@ -218,7 +219,7 @@
     },
     {
       "number": 34,
-      "title": "The Third Millennium",
+      "title": "The Comb",
       "path": "novels/042/ch034.json",
       "requiresPayment": true
     },
@@ -278,7 +279,7 @@
     },
     {
       "number": 44,
-      "title": "The Daily Morning",
+      "title": "The Dragon Coin",
       "path": "novels/042/ch044.json",
       "requiresPayment": true
     },
@@ -318,6 +319,5 @@
       "path": "novels/042/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "collapsed"
+  ]
 }
