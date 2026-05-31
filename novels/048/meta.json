@@ -17,307 +17,307 @@
     "better-ending arc",
     "meta-author plot device"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
-      "title": "I Have Read This Novel",
+      "title": "Two Stars, A Black Border",
       "path": "novels/048/ch001.json",
       "requiresPayment": false
     },
     {
       "number": 2,
-      "title": "Day 1 — The Lady's-Maid",
+      "title": "Things That Are Broken",
       "path": "novels/048/ch002.json",
       "requiresPayment": false
     },
     {
       "number": 3,
-      "title": "Day 3 — The Summer Ball",
+      "title": "The Fourth Documented Occasion",
       "path": "novels/048/ch003.json",
       "requiresPayment": false
     },
     {
       "number": 4,
-      "title": "Day 4 — The Library",
+      "title": "The Morning Room, Past Nine",
       "path": "novels/048/ch004.json",
       "requiresPayment": false
     },
     {
       "number": 5,
-      "title": "Days 5 to 21 — Reconstruction",
+      "title": "The Whites Along the South Wall",
       "path": "novels/048/ch005.json",
       "requiresPayment": false
     },
     {
       "number": 6,
-      "title": "Day 25 — Count Aldric",
+      "title": "A Floor Like a Board",
       "path": "novels/048/ch006.json",
       "requiresPayment": false
     },
     {
       "number": 7,
-      "title": "Day 43 — The Gallery",
+      "title": "Things I Cannot Fix",
       "path": "novels/048/ch007.json",
       "requiresPayment": false
     },
     {
       "number": 8,
-      "title": "Day 65 — The Cat",
+      "title": "The Wrong Opening",
       "path": "novels/048/ch008.json",
       "requiresPayment": false
     },
     {
       "number": 9,
-      "title": "Day 78 — The Academy Assessment",
+      "title": "The Line I Didn't Say",
       "path": "novels/048/ch009.json",
       "requiresPayment": true
     },
     {
       "number": 10,
-      "title": "Day 100 — Iris Marries the Wrong Person",
+      "title": "The Ledger-Keeper",
       "path": "novels/048/ch010.json",
       "requiresPayment": true
     },
     {
       "number": 11,
-      "title": "Day 102 — The Brevin Reveal",
+      "title": "The Locked Box",
       "path": "novels/048/ch011.json",
       "requiresPayment": true
     },
     {
       "number": 12,
-      "title": "Day 115 — The Ring",
+      "title": "What Was in the Box",
       "path": "novels/048/ch012.json",
       "requiresPayment": true
     },
     {
       "number": 13,
-      "title": "Day 145 — The Brevin Petition",
+      "title": "The Wrong Gloves",
       "path": "novels/048/ch013.json",
       "requiresPayment": true
     },
     {
       "number": 14,
-      "title": "Day 178 — The Cassell Mother",
+      "title": "Day Fourteen",
       "path": "novels/048/ch014.json",
       "requiresPayment": true
     },
     {
       "number": 15,
-      "title": "Day 200 — The Sponsorship",
+      "title": "A Window and a Name",
       "path": "novels/048/ch015.json",
       "requiresPayment": true
     },
     {
       "number": 16,
-      "title": "Day 220 — The Ratification",
+      "title": "The East Stair",
       "path": "novels/048/ch016.json",
       "requiresPayment": true
     },
     {
       "number": 17,
-      "title": "Day 240 — The Trial Approaches",
+      "title": "The Heavy Heart Pays Nothing",
       "path": "novels/048/ch017.json",
       "requiresPayment": true
     },
     {
       "number": 18,
-      "title": "Day 265 — Lord Ashen",
+      "title": "The Part That Comes Back",
       "path": "novels/048/ch018.json",
       "requiresPayment": true
     },
     {
       "number": 19,
-      "title": "Day 280 — The Evidence",
+      "title": "A Kingdom Instead of a Staircase",
       "path": "novels/048/ch019.json",
       "requiresPayment": true
     },
     {
       "number": 20,
-      "title": "Day 295 — The Second Letter",
+      "title": "The Garden That Had Hands",
       "path": "novels/048/ch020.json",
       "requiresPayment": true
     },
     {
       "number": 21,
-      "title": "Day 300 — Refusal",
+      "title": "What Cas Was For",
       "path": "novels/048/ch021.json",
       "requiresPayment": true
     },
     {
       "number": 22,
-      "title": "Day 306 — Trial Eve",
+      "title": "The Thing the Camera Cut Away From",
       "path": "novels/048/ch022.json",
       "requiresPayment": true
     },
     {
       "number": 23,
-      "title": "Day 312 — The Trial Begins",
+      "title": "Talen, Plotted",
       "path": "novels/048/ch023.json",
       "requiresPayment": true
     },
     {
       "number": 24,
-      "title": "Day 312 — The Evidence",
+      "title": "The Margin Note",
       "path": "novels/048/ch024.json",
       "requiresPayment": true
     },
     {
       "number": 25,
-      "title": "Day 312 — The Verdict",
+      "title": "The First Letter",
       "path": "novels/048/ch025.json",
       "requiresPayment": true
     },
     {
       "number": 26,
-      "title": "Day 320 — The Co-Protagonist Arrangement",
+      "title": "Bramwell's Blind Side",
       "path": "novels/048/ch026.json",
       "requiresPayment": true
     },
     {
       "number": 27,
-      "title": "The Spring Wedding",
+      "title": "The Statute and the Staircase",
       "path": "novels/048/ch027.json",
       "requiresPayment": true
     },
     {
       "number": 28,
-      "title": "Day 350 — The Third Letter",
+      "title": "Day Forty-seven, the Long Way Round",
       "path": "novels/048/ch028.json",
       "requiresPayment": true
     },
     {
       "number": 29,
-      "title": "Summer at Brevin",
+      "title": "The Guest List",
       "path": "novels/048/ch029.json",
       "requiresPayment": true
     },
     {
       "number": 30,
-      "title": "Autumn at Brevin",
+      "title": "The True Kind",
       "path": "novels/048/ch030.json",
       "requiresPayment": true
     },
     {
       "number": 31,
-      "title": "Year Two — Engagement",
+      "title": "The Bowl",
       "path": "novels/048/ch031.json",
       "requiresPayment": true
     },
     {
       "number": 32,
-      "title": "Year Two — Cassell Reform",
+      "title": "Chief-of-Staff",
       "path": "novels/048/ch032.json",
       "requiresPayment": true
     },
     {
       "number": 33,
-      "title": "Year Two — Iris's First Year",
+      "title": "The Tenant Statute",
       "path": "novels/048/ch033.json",
       "requiresPayment": true
     },
     {
       "number": 34,
-      "title": "Winter — The First Sequel Chapter",
+      "title": "The Staircase, Reversed",
       "path": "novels/048/ch034.json",
       "requiresPayment": true
     },
     {
       "number": 35,
-      "title": "Spring — The Wedding",
+      "title": "The Bargaining Letter",
       "path": "novels/048/ch035.json",
       "requiresPayment": true
     },
     {
       "number": 36,
-      "title": "Iris's Daughter",
+      "title": "The Frost Comes Hard",
       "path": "novels/048/ch036.json",
       "requiresPayment": true
     },
     {
       "number": 37,
-      "title": "Summer of Year Three",
+      "title": "The Trimeter Cut",
       "path": "novels/048/ch037.json",
       "requiresPayment": true
     },
     {
       "number": 38,
-      "title": "Autumn — The Sequel",
+      "title": "Ran Out of the Cold",
       "path": "novels/048/ch038.json",
       "requiresPayment": true
     },
     {
       "number": 39,
-      "title": "Year Four — Our Daughter",
+      "title": "Not Green",
       "path": "novels/048/ch039.json",
       "requiresPayment": true
     },
     {
       "number": 40,
-      "title": "Ch40",
+      "title": "The Body the Story Was Owed",
       "path": "novels/048/ch040.json",
       "requiresPayment": true
     },
     {
       "number": 41,
-      "title": "Year Seven — Our Son",
+      "title": "The Worn Pocket",
       "path": "novels/048/ch041.json",
       "requiresPayment": true
     },
     {
       "number": 42,
-      "title": "Year Ten",
+      "title": "Stand Behind Me",
       "path": "novels/048/ch042.json",
       "requiresPayment": true
     },
     {
       "number": 43,
-      "title": "Year Fifteen",
+      "title": "Name One (1) Policy",
       "path": "novels/048/ch043.json",
       "requiresPayment": true
     },
     {
       "number": 44,
-      "title": "Year Twenty — Cresida Iris's Wedding",
+      "title": "The Flower-Room",
       "path": "novels/048/ch044.json",
       "requiresPayment": true
     },
     {
       "number": 45,
-      "title": "Year Twenty-Five",
+      "title": "The Dance That Isn't About Me",
       "path": "novels/048/ch045.json",
       "requiresPayment": true
     },
     {
       "number": 46,
-      "title": "Year Thirty",
+      "title": "Well Played",
       "path": "novels/048/ch046.json",
       "requiresPayment": true
     },
     {
       "number": 47,
-      "title": "Year Thirty-Five",
+      "title": "The Reckoning That Wasn't",
       "path": "novels/048/ch047.json",
       "requiresPayment": true
     },
     {
       "number": 48,
-      "title": "Year Forty",
+      "title": "More Than One Name",
       "path": "novels/048/ch048.json",
       "requiresPayment": true
     },
     {
       "number": 49,
-      "title": "Year Fifty",
+      "title": "Director's Cut",
       "path": "novels/048/ch049.json",
       "requiresPayment": true
     },
     {
       "number": 50,
-      "title": "A Wednesday Morning at the Brenner Estate",
+      "title": "The South Wall",
       "path": "novels/048/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "collapsed"
+  ]
 }
