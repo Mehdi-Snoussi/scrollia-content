@@ -17,6 +17,7 @@
     "slow unravel",
     "pharmaceutical conspiracy"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
@@ -318,6 +319,5 @@
       "path": "novels/050/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "collapsed"
+  ]
 }
