@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-31T08:12:40Z",
+  "lastUpdated": "2026-05-31T08:18:31Z",
   "totalNovels": 50,
   "novels": [
     {
@@ -127,7 +127,7 @@
       "totalChapters": 50,
       "paywallChapter": 9,
       "subtropes": [],
-      "auditBucket": "collapsed"
+      "auditBucket": "clean"
     },
     {
       "id": "011",
