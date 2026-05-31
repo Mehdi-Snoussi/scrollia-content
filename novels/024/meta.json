@@ -17,6 +17,7 @@
     "older colleagues",
     "grumpy-sunshine reversed (Adelaide sharp"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
@@ -318,6 +319,5 @@
       "path": "novels/024/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "collapsed"
+  ]
 }

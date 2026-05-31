@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-31T05:04:25Z",
+  "lastUpdated": "2026-05-31T05:46:43Z",
   "totalNovels": 50,
   "novels": [
     {
@@ -356,7 +356,7 @@
         "older colleagues",
         "grumpy-sunshine reversed (Adelaide sharp"
       ],
-      "auditBucket": "collapsed"
+      "auditBucket": "clean"
     },
     {
       "id": "025",
