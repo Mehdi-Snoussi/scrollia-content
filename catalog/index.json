@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-31T08:26:36Z",
+  "lastUpdated": "2026-05-31T08:45:28Z",
   "totalNovels": 50,
   "novels": [
     {
@@ -507,7 +507,7 @@
         "DC setting",
         "slow-burn-stacked"
       ],
-      "auditBucket": "collapsed"
+      "auditBucket": "clean"
     },
     {
       "id": "033",
