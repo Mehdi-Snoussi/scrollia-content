@@ -16,6 +16,7 @@
     "save-the-world arc",
     "relationships earlier-now"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
@@ -317,6 +318,5 @@
       "path": "novels/040/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "collapsed"
+  ]
 }
