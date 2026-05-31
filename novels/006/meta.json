@@ -10,6 +10,7 @@
   "paywallChapter": 9,
   "contentRating": null,
   "subtropes": [],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
@@ -271,7 +272,7 @@
     },
     {
       "number": 44,
-      "title": "Wilder Six Months",
+      "title": "Wilder Eight Months",
       "path": "novels/006/ch044.json",
       "requiresPayment": true
     },
@@ -311,6 +312,5 @@
       "path": "novels/006/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "collapsed"
+  ]
 }
