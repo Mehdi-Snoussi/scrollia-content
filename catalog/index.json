@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-31T08:04:14Z",
+  "lastUpdated": "2026-05-31T08:12:40Z",
   "totalNovels": 50,
   "novels": [
     {
@@ -413,7 +413,7 @@
         "tour-together",
         "sobriety arc"
       ],
-      "auditBucket": "collapsed"
+      "auditBucket": "clean"
     },
     {
       "id": "028",
