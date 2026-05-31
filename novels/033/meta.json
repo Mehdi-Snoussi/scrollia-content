@@ -17,6 +17,7 @@
     "slow-burn",
     "professional FMC"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
@@ -50,7 +51,7 @@
     },
     {
       "number": 6,
-      "title": "Reid — The Clipboard",
+      "title": "Reid - The Clipboard",
       "path": "novels/033/ch006.json",
       "requiresPayment": false
     },
@@ -236,7 +237,7 @@
     },
     {
       "number": 37,
-      "title": "Janet Park",
+      "title": "Sloatsburg",
       "path": "novels/033/ch037.json",
       "requiresPayment": true
     },
@@ -318,6 +319,5 @@
       "path": "novels/033/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "collapsed"
+  ]
 }

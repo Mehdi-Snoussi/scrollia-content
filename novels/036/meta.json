@@ -17,6 +17,7 @@
     "small-business",
     "found-family"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
@@ -318,6 +319,5 @@
       "path": "novels/036/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "collapsed"
+  ]
 }
