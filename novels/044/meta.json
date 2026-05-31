@@ -17,298 +17,299 @@
     "refusal arc",
     "moral complexity"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
-      "title": "The Refusal",
+      "title": "Four Seventeen",
       "path": "novels/044/ch001.json",
       "requiresPayment": false
     },
     {
       "number": 2,
-      "title": "Cooper Square in the Morning",
+      "title": "The First Task",
       "path": "novels/044/ch002.json",
       "requiresPayment": false
     },
     {
       "number": 3,
-      "title": "The Strand",
+      "title": "The Same Knife",
       "path": "novels/044/ch003.json",
       "requiresPayment": false
     },
     {
       "number": 4,
-      "title": "Mrs. Vorhees",
+      "title": "On the Record",
       "path": "novels/044/ch004.json",
       "requiresPayment": false
     },
     {
       "number": 5,
-      "title": "The Library",
+      "title": "The Empty School",
       "path": "novels/044/ch005.json",
       "requiresPayment": false
     },
     {
       "number": 6,
-      "title": "Anomaly",
+      "title": "Privileges Suspended",
       "path": "novels/044/ch006.json",
       "requiresPayment": false
     },
     {
       "number": 7,
-      "title": "The Walk-Through",
+      "title": "Mise en Place",
       "path": "novels/044/ch007.json",
       "requiresPayment": false
     },
     {
       "number": 8,
-      "title": "The Library Commons",
+      "title": "Something on the Band",
       "path": "novels/044/ch008.json",
       "requiresPayment": false
     },
     {
       "number": 9,
-      "title": "Queens",
+      "title": "The Mark Takes",
       "path": "novels/044/ch009.json",
       "requiresPayment": true
     },
     {
       "number": 10,
-      "title": "The First Council",
+      "title": "The Others' Dots",
       "path": "novels/044/ch010.json",
       "requiresPayment": true
     },
     {
       "number": 11,
-      "title": "The Routine",
+      "title": "The Note in the Library",
       "path": "novels/044/ch011.json",
       "requiresPayment": true
     },
     {
       "number": 12,
-      "title": "Pavel's Farm",
+      "title": "Room 114",
       "path": "novels/044/ch012.json",
       "requiresPayment": true
     },
     {
       "number": 13,
-      "title": "The Water Cut",
+      "title": "Capability",
       "path": "novels/044/ch013.json",
       "requiresPayment": true
     },
     {
       "number": 14,
-      "title": "Vera",
+      "title": "The Window",
       "path": "novels/044/ch014.json",
       "requiresPayment": true
     },
     {
       "number": 15,
-      "title": "The Roof",
+      "title": "The Youngest",
       "path": "novels/044/ch015.json",
       "requiresPayment": true
     },
     {
       "number": 16,
-      "title": "Vera at the Council",
+      "title": "Nob Hill",
       "path": "novels/044/ch016.json",
       "requiresPayment": true
     },
     {
       "number": 17,
-      "title": "The Question Asked",
+      "title": "The Arithmetic",
       "path": "novels/044/ch017.json",
       "requiresPayment": true
     },
     {
       "number": 18,
-      "title": "Cosmo at the Pew",
+      "title": "What Kev Kept",
       "path": "novels/044/ch018.json",
       "requiresPayment": true
     },
     {
       "number": 19,
-      "title": "The Bronx Mill",
+      "title": "Hana",
       "path": "novels/044/ch019.json",
       "requiresPayment": true
     },
     {
       "number": 20,
-      "title": "The East Harlem Cut",
+      "title": "Privileges Suspended",
       "path": "novels/044/ch020.json",
       "requiresPayment": true
     },
     {
       "number": 21,
-      "title": "The Network",
+      "title": "The Workaround",
       "path": "novels/044/ch021.json",
       "requiresPayment": true
     },
     {
       "number": 22,
-      "title": "Vera in the Children's Room",
+      "title": "The Balcony",
       "path": "novels/044/ch022.json",
       "requiresPayment": true
     },
     {
       "number": 23,
-      "title": "Day Sixty",
+      "title": "Passive and Active",
       "path": "novels/044/ch023.json",
       "requiresPayment": true
     },
     {
       "number": 24,
-      "title": "The Day Before",
+      "title": "The Woman from Santa Fe",
       "path": "novels/044/ch024.json",
       "requiresPayment": true
     },
     {
       "number": 25,
-      "title": "The Broadcast",
+      "title": "Where They Are",
       "path": "novels/044/ch025.json",
       "requiresPayment": true
     },
     {
       "number": 26,
-      "title": "The Forty-Eight",
+      "title": "The Long Tail of the Curve",
       "path": "novels/044/ch026.json",
       "requiresPayment": true
     },
     {
       "number": 27,
-      "title": "Father Bram's Letter",
+      "title": "What He Would Have Wanted",
       "path": "novels/044/ch027.json",
       "requiresPayment": true
     },
     {
       "number": 28,
-      "title": "The Faisal Confession",
+      "title": "Floss and Other Small Mercies",
       "path": "novels/044/ch028.json",
       "requiresPayment": true
     },
     {
       "number": 29,
-      "title": "The Eight Weeks",
+      "title": "The Task with a Name",
       "path": "novels/044/ch029.json",
       "requiresPayment": true
     },
     {
       "number": 30,
-      "title": "Reston, Virginia",
+      "title": "Loud or Quiet",
       "path": "novels/044/ch030.json",
       "requiresPayment": true
     },
     {
       "number": 31,
-      "title": "The Unsorted Decision",
+      "title": "Doc's Vote",
       "path": "novels/044/ch031.json",
       "requiresPayment": true
     },
     {
       "number": 32,
-      "title": "The Training",
+      "title": "The Aperture",
       "path": "novels/044/ch032.json",
       "requiresPayment": true
     },
     {
       "number": 33,
-      "title": "The First Transfers",
+      "title": "The Ones Who Walked In",
       "path": "novels/044/ch033.json",
       "requiresPayment": true
     },
     {
       "number": 34,
-      "title": "The Refusal Faction",
+      "title": "Condemned",
       "path": "novels/044/ch034.json",
       "requiresPayment": true
     },
     {
       "number": 35,
-      "title": "Vera, in the Apartment",
+      "title": "The Closed Door",
       "path": "novels/044/ch035.json",
       "requiresPayment": true
     },
     {
       "number": 36,
-      "title": "The Routine of Return",
+      "title": "Nineteen",
       "path": "novels/044/ch036.json",
       "requiresPayment": true
     },
     {
       "number": 37,
-      "title": "The Vigil",
+      "title": "The Protocol Cracks",
       "path": "novels/044/ch037.json",
       "requiresPayment": true
     },
     {
       "number": 38,
-      "title": "The Children Move",
+      "title": "The Invitation, Again",
       "path": "novels/044/ch038.json",
       "requiresPayment": true
     },
     {
       "number": 39,
-      "title": "The Last Two Days",
+      "title": "Provisions for a Bowl of Dirt",
       "path": "novels/044/ch039.json",
       "requiresPayment": true
     },
     {
       "number": 40,
-      "title": "The Attack",
+      "title": "The Bowl of Dirt at Midday",
       "path": "novels/044/ch040.json",
       "requiresPayment": true
     },
     {
       "number": 41,
-      "title": "Day One-Twenty-Three",
+      "title": "What the Mountain Kept",
       "path": "novels/044/ch041.json",
       "requiresPayment": true
     },
     {
       "number": 42,
-      "title": "Sunday",
+      "title": "The Long Suture",
       "path": "novels/044/ch042.json",
       "requiresPayment": true
     },
     {
       "number": 43,
-      "title": "The Tribunal",
+      "title": "The Obituary on a Deadline",
       "path": "novels/044/ch043.json",
       "requiresPayment": true
     },
     {
       "number": 44,
-      "title": "Spring",
+      "title": "The Set Hour",
       "path": "novels/044/ch044.json",
       "requiresPayment": true
     },
     {
       "number": 45,
-      "title": "Sundays in the Apartment",
+      "title": "The Night Before",
       "path": "novels/044/ch045.json",
       "requiresPayment": true
     },
     {
       "number": 46,
-      "title": "The Apartment of Two Women",
+      "title": "The Script",
       "path": "novels/044/ch046.json",
       "requiresPayment": true
     },
     {
       "number": 47,
-      "title": "The Memorial",
+      "title": "The Last Offer",
       "path": "novels/044/ch047.json",
       "requiresPayment": true
     },
     {
       "number": 48,
-      "title": "The Eve",
+      "title": "Four Seventeen",
       "path": "novels/044/ch048.json",
       "requiresPayment": true
     },
     {
       "number": 49,
-      "title": "One Year",
+      "title": "The Throttle",
       "path": "novels/044/ch049.json",
       "requiresPayment": true
     },
@@ -318,6 +319,5 @@
       "path": "novels/044/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "collapsed"
+  ]
 }
