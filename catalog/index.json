@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-31T10:21:58Z",
+  "lastUpdated": "2026-05-31T10:23:06Z",
   "totalNovels": 50,
   "novels": [
     {
@@ -620,7 +620,7 @@
         "progression",
         "enemies-to-lovers-lite"
       ],
-      "auditBucket": "collapsed"
+      "auditBucket": "clean"
     },
     {
       "id": "039",
