@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-31T08:45:28Z",
+  "lastUpdated": "2026-05-31T10:03:37Z",
   "totalNovels": 50,
   "novels": [
     {
@@ -451,7 +451,7 @@
         "diverse royal",
         "music-teacher FMC"
       ],
-      "auditBucket": "collapsed"
+      "auditBucket": "clean"
     },
     {
       "id": "030",
@@ -470,7 +470,7 @@
         "fictional European kingdom",
         "nurse FMC"
       ],
-      "auditBucket": "collapsed"
+      "auditBucket": "clean"
     },
     {
       "id": "031",
@@ -488,7 +488,7 @@
         "session musician FMC",
         "four distinct-archetype heroes"
       ],
-      "auditBucket": "collapsed"
+      "auditBucket": "clean"
     },
     {
       "id": "032",

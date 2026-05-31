@@ -17,6 +17,7 @@
     "fictional European kingdom",
     "nurse FMC"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
@@ -236,7 +237,7 @@
     },
     {
       "number": 37,
-      "title": "The Small Saint Vitalis Chapel",
+      "title": "The Chapel of Saint Vitalis",
       "path": "novels/030/ch037.json",
       "requiresPayment": true
     },
@@ -314,10 +315,9 @@
     },
     {
       "number": 50,
-      "title": "Epilogue — The Small Kitchen",
+      "title": "Epilogue — The Kitchen",
       "path": "novels/030/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "collapsed"
+  ]
 }
