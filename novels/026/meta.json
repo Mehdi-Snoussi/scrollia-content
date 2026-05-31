@@ -17,6 +17,7 @@
     "rancher hero",
     "single-mom FMC"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
@@ -318,6 +319,5 @@
       "path": "novels/026/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "collapsed"
+  ]
 }
