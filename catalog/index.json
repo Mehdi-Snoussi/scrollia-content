@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-31T15:51:28Z",
+  "lastUpdated": "2026-05-31T16:21:41Z",
   "totalNovels": 50,
   "novels": [
     {
@@ -788,7 +788,7 @@
         "game-knowledge advantage",
         "non-canon love interest"
       ],
-      "auditBucket": "collapsed"
+      "auditBucket": "clean"
     },
     {
       "id": "048",

@@ -17,307 +17,307 @@
     "game-knowledge advantage",
     "non-canon love interest"
   ],
+  "auditBucket": "clean",
   "chapters": [
     {
       "number": 1,
-      "title": "The Warning",
+      "title": "Day Negative-Sixteen",
       "path": "novels/047/ch001.json",
       "requiresPayment": false
     },
     {
       "number": 2,
-      "title": "Day 0 — The Summer Ball",
+      "title": "Day Negative-Fifteen",
       "path": "novels/047/ch002.json",
       "requiresPayment": false
     },
     {
       "number": 3,
-      "title": "Day 1 — The Library",
+      "title": "Day Negative-Fourteen",
       "path": "novels/047/ch003.json",
       "requiresPayment": false
     },
     {
       "number": 4,
-      "title": "Day 2 — The Father",
+      "title": "Day Negative-Twelve",
       "path": "novels/047/ch004.json",
       "requiresPayment": false
     },
     {
       "number": 5,
-      "title": "Day 5 — The Captain",
+      "title": "Day Negative-Ten — Enrollment",
       "path": "novels/047/ch005.json",
       "requiresPayment": false
     },
     {
       "number": 6,
-      "title": "Day 7 — Marielle at the Castle",
+      "title": "Day Negative-Seven — The Witness",
       "path": "novels/047/ch006.json",
       "requiresPayment": false
     },
     {
       "number": 7,
-      "title": "Day 11 — The 7 Train",
+      "title": "Day Negative-Three — The Drawer",
       "path": "novels/047/ch007.json",
       "requiresPayment": false
     },
     {
       "number": 8,
-      "title": "Day 15 — The Prince",
+      "title": "Day One — Saint Adra's",
       "path": "novels/047/ch008.json",
       "requiresPayment": false
     },
     {
       "number": 9,
-      "title": "Day 18 — The First Cruelty Averted",
+      "title": "Day Three — The Flinch",
       "path": "novels/047/ch009.json",
       "requiresPayment": true
     },
     {
       "number": 10,
-      "title": "Day 22 — The Autumn Tournament",
+      "title": "Day Four — The Test",
       "path": "novels/047/ch010.json",
       "requiresPayment": true
     },
     {
       "number": 11,
-      "title": "Day 25 — The Non-Event",
+      "title": "Day Six — The Refectory",
       "path": "novels/047/ch011.json",
       "requiresPayment": true
     },
     {
       "number": 12,
-      "title": "Day 28 — Captain Remy",
+      "title": "Day Eleven — The Horse",
       "path": "novels/047/ch012.json",
       "requiresPayment": true
     },
     {
       "number": 13,
-      "title": "Day 31 — Father's Confrontation",
+      "title": "Day Fourteen — The Grant",
       "path": "novels/047/ch013.json",
       "requiresPayment": true
     },
     {
       "number": 14,
-      "title": "Day 35 — Mother",
+      "title": "Day Seventeen — The Prince in the Rain",
       "path": "novels/047/ch014.json",
       "requiresPayment": true
     },
     {
       "number": 15,
-      "title": "Day 38 — Aunt Aurelia",
+      "title": "Day Eighteen — The Under-Kitchen",
       "path": "novels/047/ch015.json",
       "requiresPayment": true
     },
     {
       "number": 16,
-      "title": "Day 41 — Father Bram",
+      "title": "Day Twenty-Two — The Garth",
       "path": "novels/047/ch016.json",
       "requiresPayment": true
     },
     {
       "number": 17,
-      "title": "Day 43 — Temple-Court",
+      "title": "Day Twenty-Five — The Chapel Register",
       "path": "novels/047/ch017.json",
       "requiresPayment": true
     },
     {
       "number": 18,
-      "title": "Day 45 — The Decommission",
+      "title": "Day Twenty-Eight — The Stables",
       "path": "novels/047/ch018.json",
       "requiresPayment": true
     },
     {
       "number": 19,
-      "title": "Day 48 — Uncle Henrik",
+      "title": "Day Thirty — The North Light",
       "path": "novels/047/ch019.json",
       "requiresPayment": true
     },
     {
       "number": 20,
-      "title": "Day 53 — Marielle's Aside",
+      "title": "Day Thirty-Three — The Squared Light",
       "path": "novels/047/ch020.json",
       "requiresPayment": true
     },
     {
       "number": 21,
-      "title": "Day 56 — A Conversation in the Pasture",
+      "title": "Day Thirty-Five — The Summons",
       "path": "novels/047/ch021.json",
       "requiresPayment": true
     },
     {
       "number": 22,
-      "title": "Day 60 — The 7 Train Again",
+      "title": "Day Thirty-Eight — The Vex Bundle",
       "path": "novels/047/ch022.json",
       "requiresPayment": true
     },
     {
       "number": 23,
-      "title": "Day 65 — Marielle and Theodric",
+      "title": "Day Forty — The Engagement",
       "path": "novels/047/ch023.json",
       "requiresPayment": true
     },
     {
       "number": 24,
-      "title": "Day 70 — Spring Ball Preparations",
+      "title": "Day Forty-Two — The Ball Begins",
       "path": "novels/047/ch024.json",
       "requiresPayment": true
     },
     {
       "number": 25,
-      "title": "Day 73 — The Spring Ball",
+      "title": "Day Forty-Four — The Servant's Lash, Averted",
       "path": "novels/047/ch025.json",
       "requiresPayment": true
     },
     {
       "number": 26,
-      "title": "The Trial",
+      "title": "Day Forty-Six — The Dance of Shame, Turned",
       "path": "novels/047/ch026.json",
       "requiresPayment": true
     },
     {
       "number": 27,
-      "title": "Summer at the Hennen Estate",
+      "title": "Day Forty-Seven — Measured for the Day",
       "path": "novels/047/ch027.json",
       "requiresPayment": true
     },
     {
       "number": 28,
-      "title": "Autumn at Saint Adra's",
+      "title": "Day Forty-Nine — The Wrong Die",
       "path": "novels/047/ch028.json",
       "requiresPayment": true
     },
     {
       "number": 29,
-      "title": "Winter",
+      "title": "Day Fifty-One — Back to the Stair",
       "path": "novels/047/ch029.json",
       "requiresPayment": true
     },
     {
       "number": 30,
-      "title": "The Dissertation",
+      "title": "Day Fifty-Three — Four Vex Wives",
       "path": "novels/047/ch030.json",
       "requiresPayment": true
     },
     {
       "number": 31,
-      "title": "The Royal Wedding",
+      "title": "Day Fifty-Five — The Honesty of a Frailty",
       "path": "novels/047/ch031.json",
       "requiresPayment": true
     },
     {
       "number": 32,
-      "title": "The Visit",
+      "title": "Day Fifty-Seven — The Heroine's Cup, Rerouted",
       "path": "novels/047/ch032.json",
       "requiresPayment": true
     },
     {
       "number": 33,
-      "title": "Autumn at the Hennen",
+      "title": "Day Fifty-Nine — The Prince, Warned",
       "path": "novels/047/ch033.json",
       "requiresPayment": true
     },
     {
       "number": 34,
-      "title": "Winter",
+      "title": "Day Sixty-One — The Priest Begins the Case",
       "path": "novels/047/ch034.json",
       "requiresPayment": true
     },
     {
       "number": 35,
-      "title": "The Spring Evening",
+      "title": "Day Sixty-Three — What the Curse Was For",
       "path": "novels/047/ch035.json",
       "requiresPayment": true
     },
     {
       "number": 36,
-      "title": "Wedding Planning",
+      "title": "Day Sixty-Five — A Date Set, Eight Days Out",
       "path": "novels/047/ch036.json",
       "requiresPayment": true
     },
     {
       "number": 37,
-      "title": "Aunt's Story",
+      "title": "Day Sixty-Seven — Look at Your Own Hands",
       "path": "novels/047/ch037.json",
       "requiresPayment": true
     },
     {
       "number": 38,
-      "title": "The Rehearsal",
+      "title": "Day Sixty-Nine — A Record for You",
       "path": "novels/047/ch038.json",
       "requiresPayment": true
     },
     {
       "number": 39,
-      "title": "The Morning of the Wedding",
+      "title": "Day Seventy — The Measure Taken",
       "path": "novels/047/ch039.json",
       "requiresPayment": true
     },
     {
       "number": 40,
-      "title": "The Wedding",
+      "title": "Day Seventy-Two — The Pre-emptive Move",
       "path": "novels/047/ch040.json",
       "requiresPayment": true
     },
     {
       "number": 41,
-      "title": "The First Year of Marriage",
+      "title": "Day Seventy-Three — Off the Floor",
       "path": "novels/047/ch041.json",
       "requiresPayment": true
     },
     {
       "number": 42,
-      "title": "The Second Dissertation",
+      "title": "Off the Floor — The Door That Would Not Close",
       "path": "novels/047/ch042.json",
       "requiresPayment": true
     },
     {
       "number": 43,
-      "title": "The Spring of Year Three",
+      "title": "Off the Floor — The Captain Before the Crown",
       "path": "novels/047/ch043.json",
       "requiresPayment": true
     },
     {
       "number": 44,
-      "title": "Year Four",
+      "title": "Off the Floor — The Wall Built Twice",
       "path": "novels/047/ch044.json",
       "requiresPayment": true
     },
     {
       "number": 45,
-      "title": "Year Six",
+      "title": "Day Seventy-Three",
       "path": "novels/047/ch045.json",
       "requiresPayment": true
     },
     {
       "number": 46,
-      "title": "Aunt Aurelia",
+      "title": "The After",
       "path": "novels/047/ch046.json",
       "requiresPayment": true
     },
     {
       "number": 47,
-      "title": "Year Ten",
+      "title": "The Name Set Down Whole",
       "path": "novels/047/ch047.json",
       "requiresPayment": true
     },
     {
       "number": 48,
-      "title": "Year Fifteen",
+      "title": "The Keeper of the Record",
       "path": "novels/047/ch048.json",
       "requiresPayment": true
     },
     {
       "number": 49,
-      "title": "Year Twenty",
+      "title": "Twenty Years of Blank Days",
       "path": "novels/047/ch049.json",
       "requiresPayment": true
     },
     {
       "number": 50,
-      "title": "A Wednesday Morning at the Hennen Estate",
+      "title": "A Wednesday Morning",
       "path": "novels/047/ch050.json",
       "requiresPayment": true
     }
-  ],
-  "auditBucket": "collapsed"
+  ]
 }
